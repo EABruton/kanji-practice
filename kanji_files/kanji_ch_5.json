@@ -1,0 +1,214 @@
+[
+  {
+    "question": "あのへやはたばこの<strong>けむり</strong>でいっぱいだ。",
+    "answer": "あの部屋はタバコの<strong>煙</strong>でいっぱいだ。"
+  },
+  {
+    "question": "かいぎのじかんを<strong>へんこう</strong>してください。",
+    "answer": "会議の時間を<strong>変更</strong>してください。"
+  },
+  {
+    "question": "このデータを<strong>こうしん</strong>するひつようがある。",
+    "answer": "このデータを<strong>更新</strong>する必要がある。"
+  },
+  {
+    "question": "よるが<strong>ふける</strong>につれてさむくなった。",
+    "answer": "夜が<strong>更ける</strong>につれて寒くなった。"
+  },
+  {
+    "question": "じしんのあとは<strong>よしん</strong>にきをつけてください。",
+    "answer": "地震のあとは<strong>余震</strong>に気をつけてください。"
+  },
+  {
+    "question": "えきの<strong>けいじばん</strong>をみてください。",
+    "answer": "駅の<strong>掲示板</strong>を見てください。"
+  },
+  {
+    "question": "かれは<strong>けいさつかん</strong>としてはたらいている。",
+    "answer": "彼は<strong>警察官</strong>として働いている。"
+  },
+  {
+    "question": "このへやは<strong>きんえん</strong>です。",
+    "answer": "この部屋は<strong>禁煙</strong>です。"
+  },
+  {
+    "question": "もんだいの<strong>じょうたい</strong>をかくにんした。",
+    "answer": "問題の<strong>状態</strong>を確認した。"
+  },
+  {
+    "question": "かれの<strong>てくび</strong>にけがをした。",
+    "answer": "彼の<strong>手首</strong>にケガをした。"
+  },
+  {
+    "question": "<strong>しゅしょう</strong>があしたしんぶんにでる。",
+    "answer": "<strong>首相</strong>が明日新聞に出る。"
+  },
+  {
+    "question": "わたしは<strong>しあわせ</strong>だとおもう。",
+    "answer": "私は<strong>幸せ</strong>だと思う。"
+  },
+  {
+    "question": "かれは<strong>きつえん</strong>しゃです。",
+    "answer": "彼は<strong>喫煙</strong>者です。"
+  },
+  {
+    "question": "このしょくひんは<strong>よぶん</strong>にある。",
+    "answer": "この食品は<strong>余分</strong>にある。"
+  },
+  {
+    "question": "<strong>しゅと</strong>でおおきなイベントがある。",
+    "answer": "<strong>首都</strong>で大きなイベントがある。"
+  },
+  {
+    "question": "このけっかを<strong>たしか</strong>にしてください。",
+    "answer": "この結果を<strong>確か</strong>にしてください。"
+  },
+  {
+    "question": "みちを<strong>しめす</strong>ひつようがある。",
+    "answer": "道を<strong>示す</strong>必要がある。"
+  },
+  {
+    "question": "よるを<strong>ふかす</strong>までしごとをした。",
+    "answer": "夜を<strong>更す</strong>まで仕事をした。"
+  },
+  {
+    "question": "<strong>さいわい</strong>にもけがはなかった。",
+    "answer": "<strong>幸い</strong>にもケガはなかった。"
+  },
+  {
+    "question": "たいようでぬれたふくを<strong>かわかす</strong>。",
+    "answer": "太陽で濡れた服を<strong>乾かす</strong>。"
+  },
+  {
+    "question": "びょうきの<strong>かんじゃ</strong>をてつだう。",
+    "answer": "病気の<strong>患者</strong>を手助う。"
+  },
+  {
+    "question": "かいものにいくと<strong>かんぱい</strong>した。",
+    "answer": "買い物に行くと<strong>乾杯</strong>した。"
+  },
+  {
+    "question": "じしんの<strong>しんど</strong>をはかる。",
+    "answer": "地震の<strong>震度</strong>を測る。"
+  },
+  {
+    "question": "あめがふらずにじめんが<strong>かわく</strong>。",
+    "answer": "雨が降らずに地面が<strong>乾く</strong>。"
+  },
+  {
+    "question": "テレビの<strong>でんぱ</strong>がわるい。",
+    "answer": "テレビの<strong>電波</strong>が悪い。"
+  },
+  {
+    "question": "つなみよほうで<strong>なみ</strong>がくる。",
+    "answer": "津波予報で<strong>波</strong>が来る。"
+  },
+  {
+    "question": "かぜをひいて<strong>わずらう</strong>。",
+    "answer": "風邪を引いて<strong>患う</strong>。"
+  },
+  {
+    "question": "おおきな<strong>じしん</strong>があった。",
+    "answer": "大きな<strong>地震</strong>があった。"
+  },
+  {
+    "question": "ひのでで<strong>かんそう</strong>がすすむ。",
+    "answer": "日照りで<strong>乾燥</strong>が進む。"
+  },
+  {
+    "question": "ふるえるほどの<strong>さいがい</strong>だ。",
+    "answer": "震えるほどの<strong>災害</strong>だ。"
+  },
+  {
+    "question": "こわくて<strong>ふるえる</strong>。",
+    "answer": "怖くて<strong>震える</strong>。"
+  },
+  {
+    "question": "かいがんでの<strong>つなみ</strong>にきをつける。",
+    "answer": "海岸での<strong>津波</strong>に気をつける。"
+  },
+  {
+    "question": "かみなりで<strong>ふるう</strong>。",
+    "answer": "雷で<strong>震う</strong>。"
+  },
+  {
+    "question": "びょういんで<strong>けつえきけんさ</strong>をうけた。",
+    "answer": "病院で<strong>血液検査</strong>を受けた。"
+  },
+  {
+    "question": "たなからおちて<strong>てんとう</strong>した。",
+    "answer": "棚から落ちて<strong>転倒</strong>した。"
+  },
+  {
+    "question": "いえの<strong>そうこ</strong>にふるいにもつがある。",
+    "answer": "家の<strong>倉庫</strong>に古い荷物がある。"
+  },
+  {
+    "question": "まいにち<strong>ひなんくんれん</strong>をする。",
+    "answer": "毎日<strong>避難訓練</strong>をする。"
+  },
+  {
+    "question": "えいがを<strong>ろくおん</strong>する。",
+    "answer": "映画を<strong>録音</strong>する。"
+  },
+  {
+    "question": "かのじょはわたしの<strong>むすめ</strong>です。",
+    "answer": "彼女は私の<strong>娘</strong>です。"
+  },
+  {
+    "question": "けがをして<strong>しゅっけつ</strong>した。",
+    "answer": "ケガをして<strong>出血</strong>した。"
+  },
+  {
+    "question": "たばこを<strong>すう</strong>のをやめた。",
+    "answer": "タバコを<strong>吸う</strong>のをやめた。"
+  },
+  {
+    "question": "この<strong>きろく</strong>はせいかくだ。",
+    "answer": "この<strong>記録</strong>は正確だ。"
+  },
+  {
+    "question": "おおきな<strong>きんこ</strong>をあけた。",
+    "answer": "大きな<strong>金庫</strong>を開けた。"
+  },
+  {
+    "question": "かれは<strong>えらい</strong>ひとだ。",
+    "answer": "彼は<strong>偉い</strong>人だ。"
+  },
+  {
+    "question": "いきを<strong>しんこきゅう</strong>する。",
+    "answer": "息を<strong>深呼吸</strong>する。"
+  },
+  {
+    "question": "このじけんに<strong>かかる</strong>ひとはだれですか。",
+    "answer": "この事件に<strong>係る</strong>人は誰ですか。"
+  },
+  {
+    "question": "にんげんの<strong>かんけい</strong>はふくざつだ。",
+    "answer": "人間の<strong>関係</strong>は複雑だ。"
+  },
+  {
+    "question": "あいてを<strong>たおす</strong>。",
+    "answer": "相手を<strong>倒す</strong>。"
+  },
+  {
+    "question": "かれは<strong>いだい</strong>なけんきゅうしゃだ。",
+    "answer": "彼は<strong>偉大</strong>な研究者だ。"
+  },
+  {
+    "question": "このかんじの<strong>くんよみ</strong>はなんですか。",
+    "answer": "この漢字の<strong>訓読み</strong>は何ですか。"
+  },
+  {
+    "question": "てから<strong>ち</strong>がでている。",
+    "answer": "手から<strong>血</strong>が出ている。"
+  },
+  {
+    "question": "かれが<strong>たおれる</strong>のをみた。",
+    "answer": "彼が<strong>倒れる</strong>のを見た。"
+  },
+  {
+    "question": "これは<strong>ぐうぜん</strong>のいっしょだ。",
+    "answer": "これは<strong>偶然</strong>の一致だ。"
+  }
+]
