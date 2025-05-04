@@ -1,4 +1,6 @@
 const elementQuestionsContainer = document.querySelector('#questions-container');
+const urlParams = new URLSearchParams(window.location.search);
+const shouldReverseQuestions = urlParams.get('reverse') === 'true';
 const elementToggleAnswersButton = document.querySelector('#toggle-answers__button');
 const elementQuestionTemplate = document.querySelector('#question-template');
 
@@ -58,7 +60,9 @@ function initializeQuiz(questions) {
 
     // Initialize questions
     questions.forEach(({ question, answer }, index) => {
-        addQuestion(question, answer, elementQuestionsContainer, index + 1);
+        const displayQuestion = shouldReverseQuestions ? answer : question;
+        const displayAnswer = shouldReverseQuestions ? question : answer;
+        addQuestion(displayQuestion, displayAnswer, elementQuestionsContainer, index + 1);
     });
 
     elementToggleAnswersButton.addEventListener("click", onToggleAnswers);

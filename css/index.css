@@ -35,6 +35,14 @@ h1 {
     background-color: #e0e0e0;
 }
 
+.quiz-description {
+    display: block;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 0.25rem;
+    margin-left: 1rem;
+}
+
 .custom-quiz {
     margin-top: 2rem;
     padding-top: 2rem;
