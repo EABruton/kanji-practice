@@ -1,0 +1,29 @@
+.nav {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.nav a {
+    color: #2196f3;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.back-to-top {
+    color: #2196f3;
+    text-decoration: none;
+    margin-left: 1rem;
+    border-radius: 4px;
+    border: 1px solid black;
+    padding: 4px 8px;
+    cursor: pointer;
+    transition: transform 300ms;
+}
+
+.back-to-top:hover {
+    text-decoration: none;
+    transform: scale(1.05);
+} 
