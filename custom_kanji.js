@@ -1,4 +1,4 @@
-const elementMain = document.querySelector('main');
+// const elementMain = document.querySelector('main');
 const elementFileInput = document.querySelector('input[type="file"]');
 const elementQuestionsContainer = document.querySelector('#questions-container');
 const elementToggleAnswersButton = document.querySelector('#toggle-answers__button');
@@ -17,7 +17,7 @@ function shuffleArray(array) {
   let currentIndex = array.length;
 
   while (currentIndex != 0) {
-    let randomIndex = Math.floor(Math.random() * currentIndex);
+    const randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex--;
 
     [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
@@ -28,11 +28,25 @@ function shuffleArray(array) {
   * @param {string} question - the question to ask
   * @param {string} answer - the answer to the question (initially hidden)
   * @param {HTMLElement} location - where to put the question in the DOM
+  * @param {number} questionNumber - what question number it is out of the total questions
   */
-function addQuestion(question, answer, location) {
+function addQuestion(question, answer, location, questionNumber) {
   const elementQuestionContainer = document.createElement('li');
   elementQuestionContainer.classList.add('question', 'card')
   elementQuestionContainer.dataset.answered = 'false';
+
+  const elementLeftCardColumn = document.createElement('div');
+  elementLeftCardColumn.classList.add('card__left-column');
+
+  const elementQuestionCount = document.createElement('div');
+  elementQuestionCount.classList.add('question__count');
+  elementQuestionCount.textContent = `${questionNumber}: `;
+
+  elementLeftCardColumn.append(elementQuestionCount);
+
+
+  const elementRightCardColumn = document.createElement('div');
+  elementRightCardColumn.classList.add('card__right-column');
 
   const elementQuestion = document.createElement('p');
   elementQuestion.classList.add('question__question')
@@ -42,7 +56,20 @@ function addQuestion(question, answer, location) {
   elementAnswer.classList.add('question__answer')
   elementAnswer.innerHTML = answer;
 
-  elementQuestionContainer.append(elementQuestion, elementAnswer);
+  const elementToggleAnswerContainer = document.createElement('div');
+  elementToggleAnswerContainer.classList.add('question__toggle-answer-container');
+
+  const elementToggleAnswerButton = document.createElement('button');
+  elementToggleAnswerButton.classList.add('question__toggle-answer-button');
+  elementToggleAnswerButton.textContent = 'Toggle Answer';
+  elementToggleAnswerButton.addEventListener('click', () => {
+    toggleDatasetAnswered(elementQuestionContainer);
+  });
+  elementToggleAnswerContainer.append(elementToggleAnswerButton);
+
+  elementRightCardColumn.append(elementQuestion, elementAnswer, elementToggleAnswerContainer);
+
+  elementQuestionContainer.append(elementLeftCardColumn, elementRightCardColumn);
   location.append(elementQuestionContainer);
 }
 
@@ -53,7 +80,7 @@ function addQuestion(question, answer, location) {
   * @param {boolean} areRandomized - whether to randomize the order of the questions
   * @param {boolean} areQuestionsInverted - whether to switch the questions and answers
   */
-async function readQuestionsFromFile(eventFileChange, location, maxQuestionCount, areRandomized, areQuestionsInverted) {
+function readQuestionsFromFile(eventFileChange, location, maxQuestionCount, areRandomized, areQuestionsInverted) {
   const file = eventFileChange.target.files[0];
 
   if (!file) {
@@ -103,13 +130,25 @@ function updateQuestions(location, questions, questionCount, areRandomized, areQ
     if (currentQuestionCount >= maxQuestionCount) continue;
 
     if (areQuestionsInverted) {
-      addQuestion(answer, question, location);
+      addQuestion(answer, question, location, currentQuestionCount + 1);
     }
     else {
-
-      addQuestion(question, answer, location);
+      addQuestion(question, answer, location, currentQuestionCount + 1);
     }
     currentQuestionCount++;
+  }
+}
+
+/**
+  * Toggles between the hidden and shown states using the dataset of the given element.
+  *
+  * @param {HTMLElement} element
+  */
+function toggleDatasetAnswered(element) {
+  const isHidden = element.dataset.answered === "false";
+  if (isHidden) element.dataset.answered = "true";
+  else {
+    element.dataset.answered = "false";
   }
 }
 
@@ -119,11 +158,7 @@ function updateQuestions(location, questions, questionCount, areRandomized, areQ
 function onToggleAnswers() {
   const elementAnswers = [...document.querySelectorAll('.question[data-answered]')];
   for (const elementAnswer of elementAnswers) {
-    const isHidden = elementAnswer.dataset.answered === "false";
-    if (isHidden) elementAnswer.dataset.answered = "true";
-    else {
-      elementAnswer.dataset.answered = "false";
-    }
+    toggleDatasetAnswered(elementAnswer);
   }
 }
 

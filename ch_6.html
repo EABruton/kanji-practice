@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 6 Kanji</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="common.css">
+</head>
+
+<body>
+    <main>
+        <div class="nav">
+            <a href="index.html">← Back to Quizzes</a>
+        </div>
+        <h1>Chapter 6 Kanji</h1>
+        <ol id="questions-container" class="card-container">
+        </ol>
+        <div class="button-container">
+            <button id="toggle-answers__button" type="button">Toggle Answers</button>
+        </div>
+    </main>
+
+    <template id="question-template">
+        <li class="question card" data-answered="false">
+            <div class="card__left-column">
+                <div class="question__count"></div>
+            </div>
+            <div class="card__right-column">
+                <p class="question__question"></p>
+                <p class="question__answer"></p>
+                <div class="question__toggle-answer-container">
+                    <button class="question__toggle-answer-button">Toggle Answer</button>
+                </div>
+            </div>
+        </li>
+    </template>
+    <script>
+        const questions = [
+            {
+                "question": "やまの<strong>てんぼうだい</strong>からまちを<strong>のぞむ</strong>。",
+                "answer": "山の<strong>展望台</strong>から街を<strong>望む</strong>。"
+            },
+            {
+                "question": "せんきょで<strong>こうほしゃ</strong>をえらぶ。",
+                "answer": "選挙で<strong>候補者</strong>を選ぶ。"
+            },
+            {
+                "question": "かぜがつよく<strong>ふく</strong>ひだ。",
+                "answer": "風が強く<strong>吹く</strong>日だ。"
+            },
+            {
+                "question": "つくえの<strong>そば</strong>にいすがある。",
+                "answer": "机の<strong>側</strong>に椅子がある。"
+            },
+            {
+                "question": "この<strong>れいぶん</strong>をよんでください。",
+                "answer": "この<strong>例文</strong>を読んでください。"
+            },
+            {
+                "question": "きおんの<strong>きこうへんどう</strong>がしんぱいだ。",
+                "answer": "気温の<strong>気候変動</strong>が心配だ。"
+            },
+            {
+                "question": "かれをヒーローに<strong>たとえる</strong>。",
+                "answer": "彼をヒーローに<strong>例える</strong>。"
+            },
+            {
+                "question": "がっこうの<strong>すいそうがく</strong>ぶにはんにんきだ。",
+                "answer": "学校の<strong>吹奏楽</strong>部は人気だ。"
+            },
+            {
+                "question": "たてものの<strong>そくめん</strong>にえがかかれている。",
+                "answer": "建物の<strong>側面</strong>に絵が描かれている。"
+            },
+            {
+                "question": "あのひとは<strong>そうろう</strong>とじこしょうかいした。",
+                "answer": "あの人は<strong>候</strong>と自己紹介した。"
+            },
+            {
+                "question": "かれのぎじゅつは<strong>ちょうえつ</strong>している。",
+                "answer": "彼の技術は<strong>超越</strong>している。"
+            },
+            {
+                "question": "いえの<strong>にわ</strong>にきをうえた。",
+                "answer": "家の<strong>庭</strong>に木を植えた。"
+            },
+            {
+                "question": "がっこうの<strong>こうてい</strong>であそぶ。",
+                "answer": "学校の<strong>校庭</strong>で遊ぶ。"
+            },
+            {
+                "question": "こころにアイデアが<strong>うかぶ</strong>。",
+                "answer": "心にアイデアが<strong>浮かぶ</strong>。"
+            },
+            {
+                "question": "かわを<strong>こえる</strong>ときけんだ。",
+                "answer": "川を<strong>越える</strong>時危険だ。"
+            },
+            {
+                "question": "いま<strong>げんざい</strong>どこにいますか。",
+                "answer": "今<strong>現在</strong>どこにいますか。"
+            },
+            {
+                "question": "みずに<strong>うかべる</strong>おもちゃをつくった。",
+                "answer": "水に<strong>浮かべる</strong>おもちゃを作った。"
+            },
+            {
+                "question": "たんじょうびで<strong>うかれる</strong>きもちだ。",
+                "answer": "誕生日で<strong>浮かれる</strong>気持ちだ。"
+            },
+            {
+                "question": "かいものの<strong>へいきん</strong>をだす。",
+                "answer": "買い物の<strong>平均</strong>を出す。"
+            },
+            {
+                "question": "あたらしいしごとに<strong>こす</strong>。",
+                "answer": "新しい仕事に<strong>越す</strong>。"
+            },
+            {
+                "question": "すいちゅうから<strong>ふじょう</strong>する。",
+                "answer": "水中から<strong>浮上</strong>する。"
+            },
+            {
+                "question": "このせきに<strong>ある</strong>ほんをとってください。",
+                "answer": "この席に<strong>在る</strong>本を取ってください。"
+            },
+            {
+                "question": "おなじおおきさに<strong>きんいつ</strong>にわける。",
+                "answer": "同じ大きさに<strong>均一</strong>に分ける。"
+            },
+            {
+                "question": "なつの<strong>むしあつい</strong>ひはつらい。",
+                "answer": "夏の<strong>蒸し暑い</strong>日はつらい。"
+            },
+            {
+                "question": "まちの<strong>しゅうへん</strong>をさんぽする。",
+                "answer": "街の<strong>周辺</strong>を散歩する。"
+            },
+            {
+                "question": "ゆかを<strong>たたみ</strong>ではった。",
+                "answer": "床を<strong>畳</strong>で張った。"
+            },
+            {
+                "question": "みずが<strong>じょうはつ</strong>する。",
+                "answer": "水が<strong>蒸発</strong>する。"
+            },
+            {
+                "question": "この<strong>わがし</strong>はあまくておいしい。",
+                "answer": "この<strong>和菓子</strong>は甘くて美味しい。"
+            },
+            {
+                "question": "ごはんを<strong>むらす</strong>じかんがひつようだ。",
+                "answer": "ご飯を<strong>蒸らす</strong>時間が必要だ。"
+            },
+            {
+                "question": "いしの<strong>いしだたみ</strong>のみちをあるく。",
+                "answer": "石の<strong>石畳</strong>の道を歩く。"
+            },
+            {
+                "question": "かれは<strong>せいかがっこう</strong>ににゅうがくした。",
+                "answer": "彼は<strong>製菓学校</strong>に入学した。"
+            },
+            {
+                "question": "へやのひろさは<strong>ろくじょうひとま</strong>だ。",
+                "answer": "部屋の広さは<strong>六畳一間</strong>だ。"
+            },
+            {
+                "question": "まちが<strong>さかえる</strong>ようにねがう。",
+                "answer": "街が<strong>栄える</strong>ように願う。"
+            },
+            {
+                "question": "この<strong>あたり</strong>にコンビニはありますか。",
+                "answer": "この<strong>辺り</strong>にコンビニはありますか。"
+            },
+            {
+                "question": "おひさまの<strong>ひかり</strong>があたたかい。",
+                "answer": "お日様の<strong>光</strong>が温かい。"
+            },
+            {
+                "question": "しょくぶつを<strong>むす</strong>とやわらかくなる。",
+                "answer": "植物を<strong>蒸す</strong>と柔らかくなる。"
+            },
+            {
+                "question": "ふろあがりでからだが<strong>むれる</strong>。",
+                "answer": "風呂上がりで体が<strong>蒸れる</strong>。"
+            },
+            {
+                "question": "おめにかかれて<strong>こうえい</strong>です。",
+                "answer": "お目にかかれて<strong>光栄</strong>です。"
+            },
+            {
+                "question": "まちの<strong>はえ</strong>をいのる。",
+                "answer": "街の<strong>栄え</strong>を祈る。"
+            },
+            {
+                "question": "あなにどろを<strong>うめる</strong>。",
+                "answer": "穴に泥を<strong>埋める</strong>。"
+            },
+            {
+                "question": "ゆきのなかにくるまが<strong>うもれる</strong>。",
+                "answer": "雪の中に車が<strong>埋もれる</strong>。"
+            },
+            {
+                "question": "このいしはとても<strong>かたい</strong>。",
+                "answer": "この石はとても<strong>固い</strong>。"
+            },
+            {
+                "question": "かべにきれいな<strong>もよう</strong>がある。",
+                "answer": "壁にきれいな<strong>模様</strong>がある。"
+            },
+            {
+                "question": "おじいさんは<strong>がんこ</strong>なひとだ。",
+                "answer": "おじいさんは<strong>頑固</strong>な人だ。"
+            },
+            {
+                "question": "はこにみずをいれて<strong>かためる</strong>。",
+                "answer": "箱に水を入れて<strong>固める</strong>。"
+            },
+            {
+                "question": "ちかで<strong>まいそう</strong>がおこなわれた。",
+                "answer": "地下で<strong>埋葬</strong>が行われた。"
+            },
+            {
+                "question": "かんこくの<strong>かんちょう</strong>をほうもんした。",
+                "answer": "韓国の<strong>官庁</strong>を訪問した。"
+            },
+            {
+                "question": "このケーキは<strong>いくつ</strong>にきりますか。",
+                "answer": "このケーキは<strong>幾つ</strong>に切りますか。"
+            },
+            {
+                "question": "あめでみちが<strong>うまる</strong>。",
+                "answer": "雨で道が<strong>埋まる</strong>。"
+            },
+            {
+                "question": "にわにコンクリートをながして<strong>かたまる</strong>までまつ。",
+                "answer": "庭にコンクリートを流して<strong>固まる</strong>まで待つ。"
+            },
+            {
+                "question": "がっこうで<strong>きかがく</strong>をべんきょうする。",
+                "answer": "学校で<strong>幾何学</strong>を勉強する。"
+            },
+            {
+                "question": "しっぱいして<strong>はじ</strong>をかいた。",
+                "answer": "失敗して<strong>恥</strong>をかいた。"
+            },
+            {
+                "question": "かのじょは<strong>はじらう</strong>ようにわらった。",
+                "answer": "彼女は<strong>恥じらう</strong>ように笑った。"
+            },
+            {
+                "question": "かれはほんとうに<strong>てんさい</strong>だ。",
+                "answer": "彼は本当に<strong>天才</strong>だ。"
+            },
+            {
+                "question": "たかいところが<strong>こわい</strong>。",
+                "answer": "高い所が<strong>怖い</strong>。"
+            },
+            {
+                "question": "かれの<strong>さいのう</strong>にはおどろいた。",
+                "answer": "彼の<strong>才能</strong>には驚いた。"
+            },
+            {
+                "question": "おやに<strong>おこられる</strong>のがこわい。",
+                "answer": "親に<strong>怒られる</strong>のが怖い。"
+            },
+            {
+                "question": "かのじょはすぐに<strong>おこる</strong>。",
+                "answer": "彼女はすぐに<strong>怒る</strong>。"
+            },
+            {
+                "question": "こうそくしんりょうで<strong>きょうしゅく</strong>しています。",
+                "answer": "高速診療で<strong>恐縮</strong>しています。"
+            },
+            {
+                "question": "このえは<strong>きどあいらく</strong>をよくひょうげんしている。",
+                "answer": "この絵は<strong>喜怒哀楽</strong>をよく表現している。"
+            },
+            {
+                "question": "たかいビルが<strong>こうしょきょうふしょう</strong>のげんいんだ。",
+                "answer": "高いビルが<strong>高所恐怖症</strong>の原因だ。"
+            },
+            {
+                "question": "かれはへんじを<strong>おそれる</strong>ようすだった。",
+                "answer": "彼は返事を<strong>恐れる</strong>様子だった。"
+            },
+            {
+                "question": "よるのみちは<strong>おそろしい</strong>。",
+                "answer": "夜の道は<strong>恐ろしい</strong>。"
+            },
+            {
+                "question": "みんなのまえでうたうのは<strong>はずかしい</strong>。",
+                "answer": "みんなの前で歌うのは<strong>恥ずかしい</strong>。"
+            },
+            {
+                "question": "じぶんのしっぱいを<strong>はじる</strong>。",
+                "answer": "自分の失敗を<strong>恥じる</strong>。"
+            }
+        ]
+    </script>
+    <script src="kanji_quiz.js"></script>
+</body>
+
+</html>

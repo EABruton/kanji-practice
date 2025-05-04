@@ -2,45 +2,32 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kanji tester</title>
-  <link href="styles.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji Quizzes</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
-  <main>
-    <div id="form-container">
-      <form>
-        <div class="form-group">
-          <label for="question-sheet">Question Sheet File</label>
-          <input type="file" name="question-sheet" id='question-sheet'>
-          <button id="clear-file" type="button">Clear file</button>
-        </div>
-
-        <div class="form-group">
-          <label for="question-counter-setter">Max Question Count</label>
-          <input type="number" name="question-counter-setter" id="question-counter-setter" value="0">
-        </div>
-
-        <div class="form-group">
-          <label for="question-randomizer">Randomize Question Order</label>
-          <input type="checkbox" name="question-randomizer" id="question-randomizer" checked>
-        </div>
-        <div class="form-group">
-          <label for="invert-questions">Invert Questions & Answers</label>
-          <input type="checkbox" name="invert-questions" id="invert-questions">
-        </div>
-      </form>
+    <h1>Kanji Quizzes</h1>
+    <ul class="chapter-list">
+        <li>
+            <a href="ch_6.html">Chapter 6 Kanji Quiz</a>
+        </li>
+        <li>
+            <a href="ch_7.html">Chapter 7 Kanji Quiz</a>
+        </li>
+    </ul>
+    <div class="custom-quiz">
+        <ul class="chapter-list">
+            <li>
+                <a href="custom_kanji.html">Custom Kanji Quiz</a>
+            </li>
+        </ul>
     </div>
-    <ol id="questions-container" class="card-container">
-    </ol>
-    <div class="button-container">
-      <button id="toggle-answers__button" type="button">Toggle Answers</button>
+    <div class="about-link">
+        <a href="about.html">How to Use Custom Kanji Quiz →</a>
     </div>
-  </main>
-  <script src="script.js">
-  </script>
 </body>
 
 </html>

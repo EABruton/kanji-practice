@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 7 Kanji</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="common.css">
+</head>
+
+<body>
+    <main>
+        <div class="nav">
+            <a href="index.html">← Back to Quizzes</a>
+        </div>
+        <h1>Chapter 7 Kanji</h1>
+        <ol id="questions-container" class="card-container">
+        </ol>
+        <div class="button-container">
+            <button id="toggle-answers__button" type="button">Toggle Answers</button>
+        </div>
+    </main>
+
+    <template id="question-template">
+        <li class="question card" data-answered="false">
+            <div class="card__left-column">
+                <div class="question__count"></div>
+            </div>
+            <div class="card__right-column">
+                <p class="question__question"></p>
+                <p class="question__answer"></p>
+                <div class="question__toggle-answer-container">
+                    <button class="question__toggle-answer-button">Toggle Answer</button>
+                </div>
+            </div>
+        </li>
+    </template>
+    <script>
+        const questions = [
+            {
+                "question": "ふたりのちからは<strong>ひとしい</strong>。",
+                "answer": "二人の力は<strong>等しい</strong>。"
+            },
+            {
+                "question": "ゲームに<strong>むちゅう</strong>になる。",
+                "answer": "ゲームに<strong>夢中</strong>になる。"
+            },
+            {
+                "question": "えきでともだちを<strong>むかえる</strong>。",
+                "answer": "駅で友達を<strong>迎える</strong>。"
+            },
+            {
+                "question": "せいこうするために<strong>どりょく</strong>する。",
+                "answer": "成功するために<strong>努力</strong>する。"
+            },
+            {
+                "question": "ぶんぷを<strong>きんとう</strong>にする。",
+                "answer": "分布を<strong>均等</strong>にする。"
+            },
+            {
+                "question": "せかいの<strong>びょうどう</strong>をねがう。",
+                "answer": "世界の<strong>平等</strong>を願う。"
+            },
+            {
+                "question": "いすにコートを<strong>かける</strong>。",
+                "answer": "椅子にコートを<strong>掛ける</strong>。"
+            },
+            {
+                "question": "でんわが<strong>かかる</strong>。",
+                "answer": "電話が<strong>掛かる</strong>。"
+            },
+            {
+                "question": "こどものころの<strong>ゆめ</strong>をおもいだす。",
+                "answer": "子供の頃の<strong>夢</strong>を思い出す。"
+            },
+            {
+                "question": "きのう<strong>あくむ</strong>をみた。",
+                "answer": "昨日<strong>悪夢</strong>を見た。"
+            },
+            {
+                "question": "くうこうでおきゃくさまの<strong>そうげい</strong>をする。",
+                "answer": "空港でお客様の<strong>送迎</strong>をする。"
+            },
+            {
+                "question": "しんにゅうしゃいんの<strong>かんげいかい</strong>をひらく。",
+                "answer": "新入社員の<strong>歓迎会</strong>を開く。"
+            },
+            {
+                "question": "しごとに<strong>つとめる</strong>。",
+                "answer": "仕事に<strong>努める</strong>。"
+            },
+            {
+                "question": "ふたりは<strong>たいとう</strong>のかんけいだ。",
+                "answer": "二人は<strong>対等</strong>な関係だ。"
+            },
+            {
+                "question": "ふたりは<strong>たがい</strong>をりかいしあっている。",
+                "answer": "二人は<strong>互い</strong>を理解し合っている。"
+            },
+            {
+                "question": "このもんだいは<strong>そうご</strong>のりかいがひつようだ。",
+                "answer": "この問題は<strong>相互</strong>の理解が必要だ。"
+            },
+            {
+                "question": "せんせいの<strong>はんだん</strong>をまつ。",
+                "answer": "先生の<strong>判断</strong>を待つ。"
+            },
+            {
+                "question": "しんじつが<strong>はんめい</strong>した。",
+                "answer": "真実が<strong>判明</strong>した。"
+            },
+            {
+                "question": "あのひとは<strong>さいばん</strong>でつみにわれた。",
+                "answer": "あの人は<strong>裁判</strong>で罪に問われた。"
+            },
+            {
+                "question": "みずのながれを<strong>たつ</strong>。",
+                "answer": "水の流れを<strong>断つ</strong>。"
+            },
+            {
+                "question": "かれはわたしのたのみを<strong>ことわる</strong>だろう。",
+                "answer": "彼は私の頼みを<strong>断る</strong>だろう。"
+            },
+            {
+                "question": "あめがふらないので<strong>だんすい</strong>になった。",
+                "answer": "雨が降らないので<strong>断水</strong>になった。"
+            },
+            {
+                "question": "にほんの<strong>けいき</strong>がふるわない。",
+                "answer": "日本の<strong>景気</strong>が振るわない。"
+            },
+            {
+                "question": "このしゃしんの<strong>はいけい</strong>はきれいだ。",
+                "answer": "この写真の<strong>背景</strong>はきれいだ。"
+            },
+            {
+                "question": "まどからすばらしい<strong>けしき</strong>がみえる。",
+                "answer": "窓から素晴らしい<strong>景色</strong>が見える。"
+            },
+            {
+                "question": "あかちゃんの<strong>こえ</strong>がきこえる。",
+                "answer": "赤ちゃんの<strong>声</strong>が聞こえる。"
+            },
+            {
+                "question": "スポーツのとき<strong>かけごえ</strong>をかける。",
+                "answer": "スポーツのとき<strong>掛け声</strong>をかける。"
+            },
+            {
+                "question": "こどもの<strong>なきごえ</strong>でめがさめた。",
+                "answer": "子供の<strong>泣き声</strong>で目が覚めた。"
+            },
+            {
+                "question": "このどうがは<strong>おんせい</strong>がおかしい。",
+                "answer": "この動画は<strong>音声</strong>がおかしい。"
+            },
+            {
+                "question": "びょうきがなおって<strong>たすかる</strong>。",
+                "answer": "病気が治って<strong>助かる</strong>。"
+            },
+            {
+                "question": "こまっているひとを<strong>たすける</strong>。",
+                "answer": "困っている人を<strong>助ける</strong>。"
+            },
+            {
+                "question": "にほんごの<strong>じょし</strong>をべんきょうする。",
+                "answer": "日本語の<strong>助詞</strong>を勉強する。"
+            },
+            {
+                "question": "らいねん<strong>たいしょく</strong>するよていだ。",
+                "answer": "来年<strong>退職</strong>する予定だ。"
+            },
+            {
+                "question": "いま<strong>むしょく</strong>でしごとをさがしている。",
+                "answer": "今<strong>無職</strong>で仕事を探している。"
+            },
+            {
+                "question": "あたらしいしごとに<strong>てんしょく</strong>する。",
+                "answer": "新しい仕事に<strong>転職</strong>する。"
+            },
+            {
+                "question": "それは<strong>とうぜん</strong>のけっかだ。",
+                "answer": "それは<strong>当然</strong>の結果だ。"
+            },
+            {
+                "question": "やまの<strong>しぜん</strong>をたのしむ。",
+                "answer": "山の<strong>自然</strong>を楽しむ。"
+            },
+            {
+                "question": "このせっけんは<strong>てんねん</strong>のざいりょうでできている。",
+                "answer": "この石鹸は<strong>天然</strong>の材料でできている。"
+            },
+            {
+                "question": "りょこうの<strong>だんたい</strong>にはいる。",
+                "answer": "旅行の<strong>団体</strong>に入る。"
+            },
+            {
+                "question": "おおきな<strong>しゅうだん</strong>ができていた。",
+                "answer": "大きな<strong>集団</strong>ができていた。"
+            },
+            {
+                "question": "みんなで<strong>だんけつ</strong>することがたいせつだ。",
+                "answer": "みんなで<strong>団結</strong>することが大切だ。"
+            },
+            {
+                "question": "おばあさんが<strong>まご</strong>とあそんでいる。",
+                "answer": "おばあさんが<strong>孫</strong>と遊んでいる。"
+            },
+            {
+                "question": "わたしの<strong>まごむすめ</strong>は５さいだ。",
+                "answer": "私の<strong>孫娘</strong>は５歳だ。"
+            },
+            {
+                "question": "おじいさんの<strong>ひまご</strong>がうまれた。",
+                "answer": "おじいさんの<strong>ひ孫</strong>が生まれた。"
+            },
+            {
+                "question": "このきは<strong>しそん</strong>にのこしたい。",
+                "answer": "この木は<strong>子孫</strong>に残したい。"
+            },
+            {
+                "question": "かわの<strong>きし</strong>であそぶ。",
+                "answer": "川の<strong>岸</strong>で遊ぶ。"
+            },
+            {
+                "question": "かわの<strong>かわぎし</strong>をさんぽする。",
+                "answer": "川の<strong>川岸</strong>を散歩する。"
+            },
+            {
+                "question": "むこう<strong>たいがん</strong>にひとがいる。",
+                "answer": "向こう<strong>対岸</strong>に人がいる。"
+            },
+            {
+                "question": "おとしよりの<strong>かいじょ</strong>をする。",
+                "answer": "お年寄りの<strong>介助</strong>をする。"
+            },
+            {
+                "question": "なつは<strong>かいがん</strong>でおよぐ。",
+                "answer": "夏は<strong>海岸</strong>で泳ぐ。"
+            },
+            {
+                "question": "あたらしいともだちを<strong>しょうかい</strong>する。",
+                "answer": "新しい友達を<strong>紹介</strong>する。"
+            },
+            {
+                "question": "もめごとの<strong>ちゅうかい</strong>をたのむ。",
+                "answer": "揉め事の<strong>仲介</strong>を頼む。"
+            },
+            {
+                "question": "まちでおおきな<strong>まつり</strong>がある。",
+                "answer": "町で大きな<strong>祭り</strong>がある。"
+            },
+            {
+                "question": "ごそんぞを<strong>まつる</strong>。",
+                "answer": "ご先祖を<strong>祭る</strong>。"
+            },
+            {
+                "question": "きょうは<strong>さいじつ</strong>でやすみだ。",
+                "answer": "今日は<strong>祭日</strong>で休みだ。"
+            },
+            {
+                "question": "せいかつで<strong>かんこんそうさい</strong>はたいせつだ。",
+                "answer": "生活で<strong>冠婚葬祭</strong>は大切だ。"
+            },
+            {
+                "question": "<strong>きしょうちょう</strong>がてんきよほうをだす。",
+                "answer": "<strong>気象庁</strong>が天気予報を出す。"
+            },
+            {
+                "question": "<strong>けいしちょう</strong>がじけんをしらべている。",
+                "answer": "<strong>警視庁</strong>が事件を調べている。"
+            },
+            {
+                "question": "このほんはこどもを<strong>たいしょう</strong>にかいている。",
+                "answer": "この本は子供を<strong>対象</strong>に書いている。"
+            },
+            {
+                "question": "どうぶつえんに<strong>インドぞう</strong>がいる。",
+                "answer": "動物園に<strong>インド象</strong>がいる。"
+            }
+        ]
+    </script>
+    <script src="kanji_quiz.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,64 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.chapter-list {
+    list-style: none;
+    padding: 0;
+}
+
+.chapter-list li {
+    margin-bottom: 1rem;
+}
+
+.chapter-list a {
+    display: block;
+    padding: 1rem;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.2s;
+}
+
+.chapter-list a:hover {
+    background-color: #e0e0e0;
+}
+
+.custom-quiz {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid #e0e0e0;
+}
+
+.custom-quiz a {
+    background-color: #e3f2fd;
+}
+
+.custom-quiz a:hover {
+    background-color: #bbdefb;
+}
+
+.about-link {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.about-link a {
+    color: #2196f3;
+    text-decoration: none;
+}
+
+.about-link a:hover {
+    text-decoration: underline;
+} 

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{Chapter Title}</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="common.css">
+</head>
+
+<body>
+    <main>
+        <div class="nav">
+            <a href="index.html">← Back to Quizzes</a>
+        </div>
+        <h1>{Chapter Title}</h1>
+        <ol id="questions-container" class="card-container">
+        </ol>
+        <div class="button-container">
+            <button id="toggle-answers__button" type="button">Toggle Answers</button>
+        </div>
+    </main>
+
+    <template id="question-template">
+        <li class="question card" data-answered="false">
+            <div class="card__left-column">
+                <div class="question__count"></div>
+            </div>
+            <div class="card__right-column">
+                <p class="question__question"></p>
+                <p class="question__answer"></p>
+                <div class="question__toggle-answer-container">
+                    <button class="question__toggle-answer-button">Toggle Answer</button>
+                </div>
+            </div>
+        </li>
+    </template>
+    <script id="questions">
+    </script>
+    <script src="kanji_quiz.js"></script>
+</body>
+
+</html>

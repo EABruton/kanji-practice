@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Kanji Tester</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nav {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .nav a {
+            color: #2196f3;
+            text-decoration: none;
+        }
+
+        .nav a:hover {
+            text-decoration: underline;
+        }
+
+        .instructions {
+            background-color: #f5f5f5;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+
+        .instructions ol {
+            padding-left: 1.5rem;
+        }
+
+        .instructions li {
+            margin-bottom: 1rem;
+        }
+
+        .instructions code {
+            background-color: #e0e0e0;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+
+        .prompt {
+            background-color: #e3f2fd;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+
+        .features {
+            margin-top: 2rem;
+        }
+
+        .features h2 {
+            color: #2196f3;
+            margin-bottom: 1rem;
+        }
+
+        .features ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .features li {
+            margin-bottom: 0.5rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        .features li:before {
+            content: "•";
+            color: #2196f3;
+            position: absolute;
+            left: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="nav">
+        <a href="index.html">← Back to Quizzes</a>
+    </div>
+
+    <h1>About Kanji Tester</h1>
+
+    <div class="instructions">
+        <h2>How to Use the Custom Kanji Quiz</h2>
+        <ol>
+            <li>Prepare a list of kanji that you want to test yourself on.</li>
+            <li>Use an LLM (like ChatGPT or DeepSeek) with this prompt:
+                <div class="prompt">Please take the following kanji, convert them to their hiragana (NOT katakana), and insert them into sentences that are entirely hiragana.
+Then, create a question and answer list in the following format:
+[
+  {
+    question: the sentence in hiragana,
+    answer: the sentence in its normal form (mixed hiragana and katakana)
+  }
+]
+I want the hiragana for the word the question is based off of surrounded by &lt;strong&gt;&lt;/strong&gt; tags.
+I want the kanji for the word the answer is based off of surrounded by &lt;strong&gt;&lt;/strong&gt; tags.
+I only want one question and answer per kanji.
+Here are the kanji:</div>
+            </li>
+            <li>Save the JSON output from the LLM into a file (e.g., <code>my_kanji.json</code>).</li>
+            <li>Open the Custom Kanji Quiz page and click "Choose File" to select your JSON file.</li>
+            <li>Write your answers on paper (no input field is provided).</li>
+            <li>Click "Toggle Answers" to check your results.</li>
+        </ol>
+    </div>
+
+    <div class="features">
+        <h2>Quiz Features</h2>
+        <ul>
+            <li><strong>Max Question Count:</strong> Limit the number of questions shown</li>
+            <li><strong>Randomize Questions:</strong> Shuffle the order of questions</li>
+            <li><strong>Invert Questions & Answers:</strong> Switch between testing kanji → hiragana or hiragana → kanji</li>
+            <li><strong>Clear File:</strong> Remove the current questions and start over</li>
+            <li><strong>Toggle Answers:</strong> Show/hide all answers at once</li>
+        </ul>
+    </div>
+</body>
+
+</html> 
