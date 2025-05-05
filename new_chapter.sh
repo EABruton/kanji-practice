@@ -5,7 +5,7 @@
 # It then prompts the user for the replacement for each placeholder in the chapter.
 # It then writes the final contents to a new file with the given chapter number.
 
-templateFile="template.html"
+templateFile="pages/template.html"
 read -p "Enter the chapter number: " chapter_number
 questions_file="kanji_files/kanji_ch_${chapter_number}.json"
 
@@ -49,5 +49,5 @@ while IFS= read -r line; do
     replace_placeholder "$line"
 done <<< "$contents"
 
-echo "$final_contents" > "ch_${chapter_number}.html"
-npx prettier "ch_${chapter_number}.html" --write
+echo "$final_contents" > "pages/ch_${chapter_number}.html"
+npx prettier "pages/ch_${chapter_number}.html" --write

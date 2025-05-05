@@ -52,20 +52,41 @@ function onToggleAnswers() {
     }
 }
 
+/**
+ * Shuffles an array randomly.
+ * Note that this will mutate the original array.
+ *
+ * @param {any[]} array
+ */
+function shuffleArray(array) {
+    let currentIndex = array.length;
+
+    while (currentIndex != 0) {
+        const randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+    }
+}
+
 // Initialize the quiz with the provided questions
 function initializeQuiz(questions) {
     const elementQuestionsContainer = document.querySelector('#questions-container');
     const elementToggleAnswersButton = document.querySelector('#toggle-answers__button');
     const elementQuestionTemplate = document.querySelector('#question-template');
 
+    // Create a copy of questions array and shuffle it
+    const questionsToDisplay = [...questions];
+    shuffleArray(questionsToDisplay);
+
     // Initialize questions
-    questions.forEach(({ question, answer }, index) => {
+    questionsToDisplay.forEach(({ question, answer }, index) => {
         const displayQuestion = shouldReverseQuestions ? answer : question;
         const displayAnswer = shouldReverseQuestions ? question : answer;
         addQuestion(displayQuestion, displayAnswer, elementQuestionsContainer, index + 1);
     });
 
     elementToggleAnswersButton.addEventListener("click", onToggleAnswers);
-} 
+}
 
 initializeQuiz(questions);
