@@ -21,6 +21,20 @@ I want the hiragana for the word the question is based off of surrounded by <str
 I want the kanji for the word the answer is based off of surrounded by <strong></strong> tags.
 I only want one question and answer per kanji.
 Here are the kanji:
+招く
+招待
+敗北
+敗れる
+勝敗
+貿易
+易しい
+簡易
+昔
+昔話
+今昔物語
+昔日
+昨日
+昨晩
 ```
 
 3. Take the JSON content it gives you and add it to a json file (you can use `kanji_ch_5.json`).

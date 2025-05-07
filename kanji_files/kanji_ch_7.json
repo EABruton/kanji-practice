@@ -238,5 +238,61 @@
   {
     "question": "どうぶつえんに<strong>インドぞう</strong>がいる。",
     "answer": "動物園に<strong>インド象</strong>がいる。"
+  },
+    {
+    "question": "かいしゃのパーティーに<strong>まねく</strong>かどうかまよっています。",
+    "answer": "会社のパーティーに<strong>招く</strong>かどうか迷っています。"
+  },
+  {
+    "question": "こんどのパーティーに<strong>しょうたい</strong>されました。",
+    "answer": "今度のパーティーに<strong>招待</strong>されました。"
+  },
+  {
+    "question": "このしあいでの<strong>はいぼく</strong>はくやしい。",
+    "answer": "この試合での<strong>敗北</strong>は悔しい。"
+  },
+  {
+    "question": "わたしたちのチームは<strong>やぶれる</strong>かもしれません。",
+    "answer": "私たちのチームは<strong>敗れる</strong>かもしれません。"
+  },
+  {
+    "question": "このゲームの<strong>しょうはい</strong>はまだわからない。",
+    "answer": "このゲームの<strong>勝敗</strong>はまだわからない。"
+  },
+  {
+    "question": "にほんとアメリカのあいだの<strong>ぼうえき</strong>についてしらべています。",
+    "answer": "日本とアメリカの間の<strong>貿易</strong>について調べています。"
+  },
+  {
+    "question": "このもんだいは<strong>やさしい</strong>とおもいます。",
+    "answer": "この問題は<strong>易しい</strong>と思います。"
+  },
+  {
+    "question": "<strong>かんい</strong>なせつめいがほしいです。",
+    "answer": "<strong>簡易</strong>な説明が欲しいです。"
+  },
+  {
+    "question": "<strong>むかし</strong>のことをおもいだしました。",
+    "answer": "<strong>昔</strong>のことを思い出しました。"
+  },
+  {
+    "question": "おばあさんが<strong>むかしばなし</strong>をしてくれました。",
+    "answer": "おばあさんが<strong>昔話</strong>をしてくれました。"
+  },
+  {
+    "question": "<strong>こんじゃくものがたり</strong>をよんだことがありますか。",
+    "answer": "<strong>今昔物語</strong>を読んだことがありますか。"
+  },
+  {
+    "question": "<strong>せきじつ</strong>のおもいでがよみがえります。",
+    "answer": "<strong>昔日</strong>の思い出がよみがえります。"
+  },
+  {
+    "question": "<strong>きのう</strong>はとてもいそがしかったです。",
+    "answer": "<strong>昨日</strong>はとても忙しかったです。"
+  },
+  {
+    "question": "<strong>さくばん</strong>はよくねむれませんでした。",
+    "answer": "<strong>昨晩</strong>はよく眠れませんでした。"
   }
 ]
