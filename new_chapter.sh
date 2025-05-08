@@ -39,7 +39,7 @@ function replace_placeholder() {
     elif [[ $1 =~ "<script id=\"questions\">" ]]; then
         # add the script tag and the questions
         final_contents+="$1"$'\n'
-        final_contents+="$questions"$'\n'
+        final_contents+="const questions = $questions"$'\n'
     else
         final_contents+="$1"$'\n'
     fi
