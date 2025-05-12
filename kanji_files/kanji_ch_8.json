@@ -170,5 +170,61 @@
   {
     "question": "このゆびわは<strong>えいきゅう</strong>にたいせつにします。",
     "answer": "この指輪は<strong>永久</strong>に大切にします。"
+  },
+    {
+    "question": "しろいシャツを<strong>よごす</strong>ないようにきをつけてください。",
+    "answer": "白いシャツを<strong>汚す</strong>ないように気をつけてください。"
+  },
+  {
+    "question": "このトイレはとても<strong>きたない</strong>です。",
+    "answer": "このトイレはとても<strong>汚い</strong>です。"
+  },
+  {
+    "question": "あのひとのこういはほんとうに<strong>けがらわしい</strong>。",
+    "answer": "あの人の行為は本当に<strong>汚らわしい</strong>。"
+  },
+  {
+    "question": "このかわは<strong>おせん</strong>されています。",
+    "answer": "この川は<strong>汚染</strong>されています。"
+  },
+  {
+    "question": "このほんを<strong>いんさつ</strong>するのにいちにちかかります。",
+    "answer": "この本を<strong>印刷</strong>するのに一日かかります。"
+  },
+  {
+    "question": "ここにあなたの<strong>しるし</strong>をおねがいします。",
+    "answer": "ここにあなたの<strong>印</strong>をお願いします。"
+  },
+  {
+    "question": "はじめてあったときの<strong>いんしょう</strong>はどうでしたか。",
+    "answer": "初めて会ったときの<strong>印象</strong>はどうでしたか。"
+  },
+  {
+    "question": "このかみにえを<strong>する</strong>つもりです。",
+    "answer": "この紙に絵を<strong>刷る</strong>つもりです。"
+  },
+  {
+    "question": "システムを<strong>さっしん</strong>するひつようがあります。",
+    "answer": "システムを<strong>刷新</strong>する必要があります。"
+  },
+  {
+    "question": "お<strong>きんきょう</strong>はいかがですか。",
+    "answer": "お<strong>近況</strong>はいかがですか。"
+  },
+  {
+    "question": "いまの<strong>じょうきょう</strong>をせつめいしてください。",
+    "answer": "今の<strong>状況</strong>を説明してください。"
+  },
+  {
+    "question": "この<strong>ふで</strong>でしゅうじをれんしゅうします。",
+    "answer": "この<strong>筆</strong>で習字を練習します。"
+  },
+  {
+    "question": "<strong>いっぴつせん</strong>にメッセージをかきました。",
+    "answer": "<strong>一筆箋</strong>にメッセージを書きました。"
+  },
+  {
+    "question": "このきじの<strong>ひっしゃ</strong>はだれですか。",
+    "answer": "この記事の<strong>筆者</strong>は誰ですか。"
   }
 ]
