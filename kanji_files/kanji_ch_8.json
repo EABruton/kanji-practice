@@ -114,5 +114,61 @@
   {
     "question": "こうつうじこで<strong>ついとつ</strong>がありました。",
     "answer": "交通事故で<strong>追突</strong>がありました。"
+  },
+  {
+    "question": "たんじょうびに<strong>おくりもの</strong>をもらいました。",
+    "answer": "誕生日に<strong>贈り物</strong>をもらいました。"
+  },
+  {
+    "question": "かのじょにフラワーアレンジメントを<strong>おくる</strong>つもりです。",
+    "answer": "彼女にフラワーアレンジメントを<strong>贈る</strong>つもりです。"
+  },
+  {
+    "question": "しきてんのあとで<strong>ぞうてい</strong>しきがありました。",
+    "answer": "式典の後で<strong>贈呈</strong>式がありました。"
+  },
+  {
+    "question": "この<strong>きかい</strong>はとてもべんりです。",
+    "answer": "この<strong>機械</strong>はとても便利です。"
+  },
+  {
+    "question": "この<strong>せいみつきかい</strong>はかちがたかいです。",
+    "answer": "この<strong>精密機械</strong>は価値が高いです。"
+  },
+  {
+    "question": "プレゼントに<strong>ほうそうし</strong>をきれいにかけました。",
+    "answer": "プレゼントに<strong>包装紙</strong>をきれいに巻きました。"
+  },
+  {
+    "question": "プレゼントをきれいなかみで<strong>つつむ</strong>。",
+    "answer": "プレゼントをきれいな紙で<strong>包む</strong>。"
+  },
+  {
+    "question": "てにけがをして<strong>ほうたい</strong>をまきました。",
+    "answer": "手に怪我をして<strong>包帯</strong>を巻きました。"
+  },
+  {
+    "question": "このりょうきんにはぜんぶのサービスが<strong>ふくめる</strong>。",
+    "answer": "この料金には全部のサービスが<strong>含める</strong>。"
+  },
+  {
+    "question": "このジュースにはビタミンがたくさん<strong>ふくむ</strong>。",
+    "answer": "このジュースにはビタミンがたくさん<strong>含む</strong>。"
+  },
+  {
+    "question": "このせっけんにはしょくひんてきな<strong>がんゆう</strong>ぶつがあります。",
+    "answer": "この石鹸には食品的な<strong>含有</strong>物があります。"
+  },
+  {
+    "question": "<strong>ひさしぶり</strong>にあのひとにあった。",
+    "answer": "<strong>久しぶり</strong>にあの人に会った。"
+  },
+  {
+    "question": "<strong>ひさしい</strong>むかしのおもいでがよみがえる。",
+    "answer": "<strong>久しい</strong>昔の思い出がよみがえる。"
+  },
+  {
+    "question": "このゆびわは<strong>えいきゅう</strong>にたいせつにします。",
+    "answer": "この指輪は<strong>永久</strong>に大切にします。"
   }
 ]
