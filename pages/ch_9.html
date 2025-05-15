@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 9</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 9</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "そのはなしは<strong>ごかい</strong>ですよ。",
+          answer: "その話は<strong>誤解</strong>ですよ。",
+        },
+        {
+          question: "まちがえて<strong>あやまる</strong>ことがたいせつです。",
+          answer: "間違えて<strong>誤まる</strong>ことが大切です。",
+        },
+        {
+          question: "いなかでしずかに<strong>くらす</strong>のがゆめです。",
+          answer: "田舎で静かに<strong>暮らす</strong>のが夢です。",
+        },
+        {
+          question: "ひが<strong>くれる</strong>まえにかえりましょう。",
+          answer: "日が<strong>暮れる</strong>前に帰りましょう。",
+        },
+        {
+          question: "<strong>せいぼ</strong>のプレゼントをかいにいきました。",
+          answer: "<strong>歳暮</strong>のプレゼントを買いに行きました。",
+        },
+        {
+          question:
+            "せんせいがわたしのせいせきを<strong>みとめる</strong>れてくれました。",
+          answer: "先生が私の成績を<strong>認める</strong>れてくれました。",
+        },
+        {
+          question: "もういちど<strong>かくにん</strong>してください。",
+          answer: "もう一度<strong>確認</strong>してください。",
+        },
+        {
+          question:
+            "ルールいはんを<strong>もくにん</strong>することはできません。",
+          answer: "ルール違反を<strong>黙認</strong>することはできません。",
+        },
+        {
+          question: "あなたのあやまちを<strong>ゆるす</strong>ことにしました。",
+          answer: "あなたの過ちを<strong>許す</strong>ことにしました。",
+        },
+        {
+          question: "このへやをつかうには<strong>きょか</strong>がいります。",
+          answer: "この部屋を使うには<strong>許可</strong>が必要です。",
+        },
+        {
+          question: "うんてん<strong>めんきょ</strong>をとりました。",
+          answer: "運転<strong>免許</strong>を取りました。",
+        },
+        {
+          question: "やまを<strong>のぼる</strong>のがすきです。",
+          answer: "山を<strong>登る</strong>のが好きです。",
+        },
+        {
+          question:
+            "えんげきでしゅじんこうが<strong>とうじょう</strong>しました。",
+          answer: "演劇で主人公が<strong>登場</strong>しました。",
+        },
+        {
+          question: "らいしゅう<strong>とざん</strong>にいきます。",
+          answer: "来週<strong>登山</strong>に行きます。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
