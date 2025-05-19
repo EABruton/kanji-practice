@@ -110,5 +110,37 @@
   {
     "question": "これはわれわれの<strong>しょうり</strong>です。",
     "answer": "これは我々の<strong>勝利</strong>です。"
+  },
+    {
+    "question": "このおちゃにこころを<strong>こめる</strong>て、いれました。",
+    "answer": "このお茶に心を<strong>込める</strong>て、入れました。"
+  },
+  {
+    "question": "でんしゃが<strong>こむ</strong>で、のれませんでした。",
+    "answer": "電車が<strong>込む</strong>で、乗れませんでした。"
+  },
+  {
+    "question": "この<strong>ぶんしょう</strong>はとてもわかりやすいです。",
+    "answer": "この<strong>文章</strong>はとても分かりやすいです。"
+  },
+  {
+    "question": "このとおりには<strong>いっけん</strong>のみせがあります。",
+    "answer": "この通りには<strong>一軒</strong>の店があります。"
+  },
+  {
+    "question": "いえの<strong>のき</strong>したでやすみました。",
+    "answer": "家の<strong>軒</strong>下で休みました。"
+  },
+  {
+    "question": "あのチームがリーグの<strong>おうじゃ</strong>です。",
+    "answer": "あのチームがリーグの<strong>王者</strong>です。"
+  },
+  {
+    "question": "<strong>ちきゅう</strong>をたいせつにしましょう。",
+    "answer": "<strong>地球</strong>を大切にしましょう。"
+  },
+  {
+    "question": "この<strong>たま</strong>をなげてください。",
+    "answer": "この<strong>球</strong>を投げてください。"
   }
 ]
