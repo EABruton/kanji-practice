@@ -190,5 +190,57 @@
   {
     "question": "この<strong>さいふ</strong>はあたらしいです。",
     "answer": "この<strong>財布</strong>は新しいです。"
+  },
+    {
+    "question": "わたしは<strong>びんぼう</strong>なかぞくにうまれました。",
+    "answer": "私は<strong>貧乏</strong>な家族に生まれました。"
+  },
+  {
+    "question": "あのくににはまだ<strong>まずしい</strong>ひとがおおいです。",
+    "answer": "あの国にはまだ<strong>貧しい</strong>人が多いです。"
+  },
+  {
+    "question": "たちくらみがして<strong>ひんけつ</strong>かもしれない。",
+    "answer": "立ちくらみがして<strong>貧血</strong>かもしれない。"
+  },
+  {
+    "question": "<strong>おおさか</strong>にいったことがありますか。",
+    "answer": "<strong>大阪</strong>に行ったことがありますか。"
+  },
+  {
+    "question": "<strong>はんしん</strong>デパートでかいものをしました。",
+    "answer": "<strong>阪神</strong>デパートで買い物をしました。"
+  },
+  {
+    "question": "あたらしい<strong>くつ</strong>をかいました。",
+    "answer": "新しい<strong>靴</strong>を買いました。"
+  },
+  {
+    "question": "さむいのであつい<strong>くつした</strong>をはいています。",
+    "answer": "寒いので厚い<strong>靴下</strong>を履いています。"
+  },
+  {
+    "question": "こわくて<strong>ひめい</strong>をあげました。",
+    "answer": "怖くて<strong>悲鳴</strong>をあげました。"
+  },
+  {
+    "question": "にわとりが<strong>なく</strong>のでおきました。",
+    "answer": "鶏が<strong>鳴く</strong>ので起きました。"
+  },
+  {
+    "question": "でんわが<strong>なる</strong>のででました。",
+    "answer": "電話が<strong>鳴る</strong>ので出ました。"
+  },
+  {
+    "question": "ベルを<strong>ならす</strong>とせんせいがきました。",
+    "answer": "ベルを<strong>鳴らす</strong>と先生が来ました。"
+  },
+  {
+    "question": "この<strong>いぬ</strong>はとてもかわいいです。",
+    "answer": "この<strong>犬</strong>はとても可愛いです。"
+  },
+  {
+    "question": "あの<strong>おおがたいぬ</strong>はおおきいですね。",
+    "answer": "あの<strong>大型犬</strong>は大きいですね。"
   }
 ]
