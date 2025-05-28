@@ -90,5 +90,49 @@
   {
     "question": "にんじんを<strong>きざむ</strong>のをてつだってください。",
     "answer": "人参を<strong>刻む</strong>のを手伝ってください。"
+  },
+  {
+    "question": "あのひとはじめいを<strong>たたかう</strong>つもりです。",
+    "answer": "あの人は悪い人と<strong>戦う</strong>つもりです。"
+  },
+  {
+    "question": "むかしの<strong>いくさ</strong>についてべんきょうしています。",
+    "answer": "昔の<strong>戦</strong>について勉強しています。"
+  },
+  {
+    "question": "この<strong>さくせん</strong>はよくかんがえられています。",
+    "answer": "この<strong>作戦</strong>はよく考えられています。"
+  },
+  {
+    "question": "この<strong>たに</strong>はふかいです。",
+    "answer": "この<strong>谷</strong>は深いです。"
+  },
+  {
+    "question": "この<strong>けいこく</strong>はとてもきれいです。",
+    "answer": "この<strong>渓谷</strong>はとてもきれいです。"
+  },
+  {
+    "question": "でんしゃの<strong>きっぷ</strong>をかいました。",
+    "answer": "電車の<strong>切符</strong>を買いました。"
+  },
+  {
+    "question": "えんそくで<strong>はいふ</strong>されたぱんふれっとをもらいました。",
+    "answer": "遠足で<strong>配布</strong>されたパンフレットをもらいました。"
+  },
+  {
+    "question": "この<strong>ぬの</strong>でふくをつくります。",
+    "answer": "この<strong>布</strong>で服を作ります。"
+  },
+  {
+    "question": "あたらしい<strong>ふとん</strong>をかいました。",
+    "answer": "新しい<strong>布団</strong>を買いました。"
+  },
+  {
+    "question": "<strong>むね</strong>がいたいです。",
+    "answer": "<strong>胸</strong>が痛いです。"
+  },
+  {
+    "question": "あのひとは<strong>どきょう</strong>があります。",
+    "answer": "あの人は<strong>度胸</strong>があります。"
   }
 ]
