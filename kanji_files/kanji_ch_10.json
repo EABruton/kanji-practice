@@ -140,7 +140,7 @@
     "answer": "この店では、<strong>販売</strong>している野菜がとても新しいです。"
   },
   {
-    "question": "しはんのくすりは、どこのやっきょくでもかえます。",
+    "question": "<strong>しはん</strong>のくすりは、どこのやっきょくでもかえます。",
     "answer": "<strong>市販</strong>の薬は、どこの薬局でも買えます。"
   },
   {
@@ -178,5 +178,49 @@
   {
     "question": "このむかしばなしには、かくされた<strong>たから</strong>がでてきます。",
     "answer": "この昔話には、隠された<strong>宝</strong>が出てきます。"
+  },
+  {
+    "question": "この<strong>よ</strong>のなかで、いちばんたいせつなものはなんでしょう？",
+    "answer": "この<strong>世</strong>の中で、一番大切なものは何でしょう？"
+  },
+  {
+    "question": "わかものととしよりでは、<strong>せだい</strong>によってかんがえかたがちがいます。",
+    "answer": "若者と年寄りでは、<strong>世代</strong>によって考え方が違います。"
+  },
+  {
+    "question": "<strong>おんしゃ</strong>のしゃいんはみんなしんせつです。",
+    "answer": "<strong>御社</strong>の社員はみんな親切です。"
+  },
+  {
+    "question": "<strong>おかぞく</strong>のごけんこうをおいのりします。",
+    "answer": "<strong>御家族</strong>のご健康をお祈りします。"
+  },
+  {
+    "question": "その<strong>かいだん</strong>をおりると、ゆうびんきょくがあります。",
+    "answer": "その<strong>階段</strong>を降りると、郵便局があります。"
+  },
+  {
+    "question": "もんだいをかいけつする<strong>しゅだん</strong>はいろいろあります。",
+    "answer": "問題を解決する<strong>手段</strong>はいろいろあります。"
+  },
+  {
+    "question": "せんぱいのけっこんしきに、おおぜいのひとが<strong>さっとう</strong>しました。",
+    "answer": "先輩の結婚式に、大勢の人が<strong>殺到</strong>しました。"
+  },
+  {
+    "question": "むかしのさむらいは、てきを<strong>ころす</strong>ことをためらわなかった。",
+    "answer": "昔の侍は、敵を<strong>殺す</strong>ことをためらわなかった。"
+  },
+  {
+    "question": "<strong>さつがいよこく</strong>はりっぱなつみです。",
+    "answer": "<strong>殺害予告</strong>は立派な罪です。"
+  },
+  {
+    "question": "わたしのいえには、くろい<strong>ねこ</strong>がいます。",
+    "answer": "私の家には、黒い<strong>猫</strong>がいます。"
+  },
+  {
+    "question": "あのひとはゆうめいな<strong>あいびょうか</strong>で、いつもねこのことをはなしています。",
+    "answer": "あの人は有名な<strong>愛猫家</strong>で、いつも猫のことを話しています。"
   }
 ]
