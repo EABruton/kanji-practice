@@ -1,46 +1,86 @@
 [
   {
-    "question": "このみせでは、<strong>はんばい</strong>しているやさいがとてもあたらしいです。",
-    "answer": "この店では、<strong>販売</strong>している野菜がとても新しいです。"
+    "question": "この<strong>よ</strong>のなかで、いちばんたいせつなものはなんでしょう？",
+    "answer": "この<strong>世</strong>の中で、一番大切なものは何でしょう？"
   },
   {
-    "question": "<strong>しはん</strong>のくすりは、どこのやっきょくでもかえます。",
-    "answer": "<strong>市販</strong>の薬は、どこの薬局でも買えます。"
+    "question": "わかものととしよりでは、<strong>せだい</strong>によってかんがえかたがちがいます。",
+    "answer": "若者と年寄りでは、<strong>世代</strong>によって考え方が違います。"
   },
   {
-    "question": "えきまえで<strong>ていしゃ</strong>するときは、じかんをまもってください。",
-    "answer": "駅前で<strong>停車</strong>するときは、時間を守ってください。"
+    "question": "<strong>おんしゃ</strong>のしゃいんはみんなしんせつです。",
+    "answer": "<strong>御社</strong>の社員はみんな親切です。"
   },
   {
-    "question": "このエリアでは、くるまの<strong>ていし</strong>がきんじられています。",
-    "answer": "このエリアでは、車の<strong>停止</strong>が禁止されています。"
+    "question": "<strong>おかぞく</strong>のごけんこうをおいのりします。",
+    "answer": "<strong>御家族</strong>のご健康をお祈りします。"
   },
   {
-    "question": "ここは<strong>きんえん</strong>せきです。たばこをすわないでください。",
-    "answer": "ここは<strong>禁煙</strong>席です。タバコを吸わないでください。"
+    "question": "その<strong>かいだん</strong>をおりると、ゆうびんきょくがあります。",
+    "answer": "その<strong>階段</strong>を降りると、郵便局があります。"
   },
   {
-    "question": "こうえんでのはしりは<strong>きんし</strong>されています。",
-    "answer": "公園での走りは<strong>禁止</strong>されています。"
+    "question": "もんだいをかいけつする<strong>しゅだん</strong>はいろいろあります。",
+    "answer": "問題を解決する<strong>手段</strong>はいろいろあります。"
   },
   {
-    "question": "このはなの<strong>かおり</strong>は、とてもすてきです。",
-    "answer": "この花の<strong>香り</strong>は、とても素敵です。"
+    "question": "せんぱいのけっこんしきに、おおぜいのひとが<strong>さっとう</strong>しました。",
+    "answer": "先輩の結婚式に、大勢の人が<strong>殺到</strong>しました。"
   },
   {
-    "question": "コーヒーのにおいがよく<strong>かおる</strong>へやです。",
-    "answer": "コーヒーの匂いがよく<strong>香る</strong>部屋です。"
+    "question": "むかしのさむらいは、てきを<strong>ころす</strong>ことをためらわなかった。",
+    "answer": "昔の侍は、敵を<strong>殺す</strong>ことをためらわなかった。"
   },
   {
-    "question": "かのじょは、<strong>こうすい</strong>をいつもつけています。",
-    "answer": "彼女は、<strong>香水</strong>をいつもつけています。"
+    "question": "<strong>さつがいよこく</strong>はりっぱなつみです。",
+    "answer": "<strong>殺害予告</strong>は立派な罪です。"
   },
   {
-    "question": "このおてらは、<strong>こくほう</strong>にしていされています。",
-    "answer": "このお寺は、<strong>国宝</strong>に指定されています。"
+    "question": "わたしのいえには、くろい<strong>ねこ</strong>がいます。",
+    "answer": "私の家には、黒い<strong>猫</strong>がいます。"
   },
   {
-    "question": "このむかしばなしには、かくされた<strong>たから</strong>がでてきます。",
-    "answer": "この昔話には、隠された<strong>宝</strong>が出てきます。"
+    "question": "あのひとはゆうめいな<strong>あいびょうか</strong>で、いつもねこのことをはなしています。",
+    "answer": "あの人は有名な<strong>愛猫家</strong>で、いつも猫のことを話しています。"
+  },
+  {
+    "question": "にわにはとりが<strong>いる</strong>。",
+    "answer": "庭には鳥が<strong>居る</strong>。"
+  },
+  {
+    "question": "このあたりの<strong>じゅうきょ</strong>はひろいです。",
+    "answer": "この辺りの<strong>住居</strong>は広いです。"
+  },
+  {
+    "question": "わたしのちからには<strong>かぎり</strong>がある。",
+    "answer": "私の力には<strong>限り</strong>がある。"
+  },
+  {
+    "question": "このサービスは<strong>げんてい</strong>されたじかんないだけつかえます。",
+    "answer": "このサービスは<strong>限定</strong>された時間内だけ使えます。"
+  },
+  {
+    "question": "わたしのちちは<strong>こうむいん</strong>です。",
+    "answer": "私の父は<strong>公務員</strong>です。"
+  },
+  {
+    "question": "かのじょはがっこうでせんせいを<strong>つとめる</strong>。",
+    "answer": "彼女は学校で先生を<strong>務める</strong>。"
+  },
+  {
+    "question": "<strong>とつぜん</strong>あめがふりだした。",
+    "answer": "<strong>突然</strong>雨が降り出した。"
+  },
+  {
+    "question": "ゆびでかべを<strong>つく</strong>のはやめなさい。",
+    "answer": "指で壁を<strong>突く</strong>のはやめなさい。"
+  },
+  {
+    "question": "<strong>みなさま</strong>、おげんきですか。",
+    "answer": "<strong>皆様</strong>、お元気ですか。"
+  },
+  {
+    "question": "このもんだいにかんするじょうほうは<strong>かいむ</strong>にちかい。",
+    "answer": "この問題に関する情報は<strong>皆無</strong>に近い。"
   }
 ]
