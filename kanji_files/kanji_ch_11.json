@@ -94,5 +94,53 @@
   {
     "question": "びょうきで<strong>きゅうふ</strong>をうけとった。",
     "answer": "病気で<strong>給付</strong>を受け取った。"
+  },
+  {
+    "question": "たてものの<strong>しゅうい</strong>にはたくさんのきがあります。",
+    "answer": "建物の<strong>周囲</strong>にはたくさんの木があります。"
+  },
+  {
+    "question": "せんせいがせいとたちに<strong>かこむ</strong>まれてはなしています。",
+    "answer": "先生が生徒たちに<strong>囲む</strong>まれて話しています。"
+  },
+  {
+    "question": "おかねを<strong>かこう</strong>ようにしておく。",
+    "answer": "お金を<strong>囲う</strong>ようにしておく。"
+  },
+  {
+    "question": "このへやのかぜは<strong>こころよい</strong>。",
+    "answer": "この部屋の風は<strong>快い</strong>。"
+  },
+  {
+    "question": "きょうは<strong>かいせい</strong>でえんそくにぴったりです。",
+    "answer": "今日は<strong>快晴</strong>で遠足にぴったりです。"
+  },
+  {
+    "question": "はるになると<strong>かふん</strong>アレルギーがはじまります。",
+    "answer": "春になると<strong>花粉</strong>アレルギーが始まります。"
+  },
+  {
+    "question": "この<strong>こな</strong>はとてもこまかくてきれいです。",
+    "answer": "この<strong>粉</strong>はとても細かくてきれいです。"
+  },
+  {
+    "question": "パンをつくるには<strong>こむぎこ</strong>がひつようです。",
+    "answer": "パンを作るには<strong>小麦粉</strong>が必要です。"
+  },
+  {
+    "question": "にんげんの<strong>いしょくじゅう</strong>はとてもたいせつです。",
+    "answer": "人間の<strong>衣食住</strong>はとても大切です。"
+  },
+  {
+    "question": "プールの<strong>こういしつ</strong>でふくをきがえます。",
+    "answer": "プールの<strong>更衣室</strong>で服を着替えます。"
+  },
+  {
+    "question": "このサービスはいろいろな<strong>ねんだいそう</strong>ににんきがあります。",
+    "answer": "このサービスはいろいろな<strong>年代層</strong>に人気があります。"
+  },
+  {
+    "question": "このいわにはおもしろい<strong>ちそう</strong>がみえます。",
+    "answer": "この岩には面白い<strong>地層</strong>が見えます。"
   }
 ]
