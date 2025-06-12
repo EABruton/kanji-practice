@@ -20,6 +20,7 @@ Then, create a question and answer list in the following format:
 I want the hiragana for the word the question is based off of surrounded by <strong></strong> tags.
 I want the kanji for the word the answer is based off of surrounded by <strong></strong> tags.
 I only want one question and answer per kanji.
+Make sure the format is json (so keys should be wrapped in quotes).
 Here are the kanji:
 ```
 
