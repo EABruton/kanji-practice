@@ -14,7 +14,7 @@ if [ ! -f "$questions_file" ]; then
     exit 1
 fi
 
-if [ -f "ch_${chapter_number}.html" ]; then
+if [ -f "pages/ch_${chapter_number}.html" ]; then
     echo "Chapter file already exists: ch_${chapter_number}.html"
     exit 1
 fi
