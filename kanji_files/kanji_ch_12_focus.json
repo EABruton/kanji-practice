@@ -1,0 +1,50 @@
+[
+  {
+    "question": "とりにくの<strong>あぶら</strong>をとりのぞいてください。",
+    "answer": "鶏肉の<strong>脂</strong>を取り除いてください。"
+  },
+  {
+    "question": "このしょくひんには<strong>しぼう</strong>がおおくふくまれています。",
+    "answer": "この食品には<strong>脂肪</strong>が多く含まれています。"
+  },
+  {
+    "question": "ぶたにくの<strong>あぶらみ</strong>がすきです。",
+    "answer": "豚肉の<strong>脂身</strong>が好きです。"
+  },
+  {
+    "question": "このゴムはよく<strong>のびる</strong>。",
+    "answer": "このゴムはよく<strong>伸びる</strong>。"
+  },
+  {
+    "question": "かみを<strong>のばす</strong>つもりです。",
+    "answer": "髪を<strong>伸ばす</strong>つもりです。"
+  },
+  {
+    "question": "ゆかにおしきを<strong>のべる</strong>。",
+    "answer": "床にお敷きを<strong>伸べる</strong>。"
+  },
+  {
+    "question": "うんどうのまえに<strong>くっしん</strong>をしましょう。",
+    "answer": "運動の前に<strong>屈伸</strong>をしましょう。"
+  },
+  {
+    "question": "このすうじは3の<strong>ばいすう</strong>です。",
+    "answer": "この数字は3の<strong>倍数</strong>です。"
+  },
+  {
+    "question": "<strong>いくじ</strong>でいそがしいまいにちです。",
+    "answer": "<strong>育児</strong>で忙しい毎日です。"
+  },
+  {
+    "question": "こどもがねつをだしたので<strong>しょうにか</strong>につれていきました。",
+    "answer": "子どもが熱を出したので<strong>小児科</strong>に連れていきました。"
+  },
+  {
+    "question": "<strong>にゅうせいひん</strong>はえいようがゆたかです。",
+    "answer": "<strong>乳製品</strong>は栄養が豊かです。"
+  },
+  {
+    "question": "あさごはんに<strong>ぎゅうにゅう</strong>をのみます。",
+    "answer": "朝ごはんに<strong>牛乳</strong>を飲みます。"
+  }
+]
