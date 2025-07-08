@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 13</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 13</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question:
+            "あたらしいしごとに<strong>なれる</strong>までにじかんがかかります。",
+          answer: "新しい仕事に<strong>慣れる</strong>までに時間がかかります。",
+        },
+        {
+          question:
+            "からだを<strong>ならす</strong>ためにまいにちうんどうします。",
+          answer: "体を<strong>慣らす</strong>ために毎日運動します。",
+        },
+        {
+          question:
+            "あさはやくおきるのがわたしの<strong>しゅうかん</strong>です。",
+          answer: "朝早く起きるのが私の<strong>習慣</strong>です。",
+        },
+        {
+          question:
+            "えきへいく<strong>とちゅう</strong>でともだちにあいました。",
+          answer: "駅へ行く<strong>途中</strong>で友達に会いました。",
+        },
+        {
+          question:
+            "このどうぐはいろいろな<strong>ようと</strong>につかえます。",
+          answer: "この道具はいろいろな<strong>用途</strong>に使えます。",
+        },
+        {
+          question: "<strong>みらい</strong>のゆめはおおきいです。",
+          answer: "<strong>未来</strong>の夢は大きいです。",
+        },
+        {
+          question: "このせんしゅは20さい<strong>みまん</strong>です。",
+          answer: "この選手は20歳<strong>未満</strong>です。",
+        },
+        {
+          question: "このちほうはしぜんに<strong>とむ</strong>。",
+          answer: "この地方は自然に<strong>富む</strong>。",
+        },
+        {
+          question: "おおきな<strong>とみ</strong>をてにいれました。",
+          answer: "大きな<strong>富</strong>を手に入れました。",
+        },
+        {
+          question: "<strong>ふじさん</strong>はにほんいちたかいやまです。",
+          answer: "<strong>富士山</strong>は日本一高い山です。",
+        },
+        {
+          question:
+            "このレストランはむりょうでみずを<strong>ていきょう</strong>します。",
+          answer: "このレストランは無料で水を<strong>提供</strong>します。",
+        },
+        {
+          question: "このちほうはしげんが<strong>ほうふ</strong>です。",
+          answer: "この地方は資源が<strong>豊富</strong>です。",
+        },
+        {
+          question: "おはかにはなを<strong>そなえる</strong>。",
+          answer: "お墓に花を<strong>供える</strong>。",
+        },
+        {
+          question:
+            "このパーティーには<strong>とも</strong>としてこどもをつれていきます。",
+          answer:
+            "このパーティーには<strong>供</strong>として子どもを連れていきます。",
+        },
+        {
+          question:
+            "このみずはあんぜんな<strong>きょうきゅう</strong>がひつようです。",
+          answer: "この水は安全な<strong>供給</strong>が必要です。",
+        },
+        {
+          question: "がっこうの<strong>きゅうしょく</strong>はおいしいです。",
+          answer: "学校の<strong>給食</strong>はおいしいです。",
+        },
+        {
+          question: "まいつきの<strong>きゅうりょう</strong>は25まんえんです。",
+          answer: "毎月の<strong>給料</strong>は25万円です。",
+        },
+        {
+          question: "このしごとの<strong>じきゅう</strong>は1500えんです。",
+          answer: "この仕事の<strong>時給</strong>は1500円です。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
