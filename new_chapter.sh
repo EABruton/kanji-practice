@@ -32,7 +32,7 @@ function replace_placeholder() {
        while IFS= read -r match; do
         # echo "MATCH: $match"
         # read -p "Enter the replacement for $match: " replacement < /dev/tty
-	new_line=$(echo "$new_line" | sed "s/$match/$chapter_number")
+	new_line=$(echo "$new_line" | sed "s/$match/Chapter $chapter_number/")
         # new_line=$(echo "$new_line" | sed "s/$match/$replacement/")
        done <<< "$line_matches"
 

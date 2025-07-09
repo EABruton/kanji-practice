@@ -70,5 +70,61 @@
   {
     "question": "このしごとの<strong>じきゅう</strong>は1500えんです。",
     "answer": "この仕事の<strong>時給</strong>は1500円です。"
+  },
+  {
+    "question": "このほんはにほんごがくしゅうに<strong>やくだつ</strong>。",
+    "answer": "この本は日本語学習に<strong>役立つ</strong>。"
+  },
+  {
+    "question": "それぞれの<strong>やくわり</strong>をはたしましょう。",
+    "answer": "それぞれの<strong>役割</strong>を果たしましょう。"
+  },
+  {
+    "question": "しんせきをとどけるために<strong>やくしょ</strong>へいきました。",
+    "answer": "親戚を届けるために<strong>役所</strong>へ行きました。"
+  },
+  {
+    "question": "あのはいゆうがえいがに<strong>しゅつえん</strong>します。",
+    "answer": "あの俳優が映画に<strong>出演</strong>します。"
+  },
+  {
+    "question": "しゅせんのまえに<strong>えんぜつ</strong>をおこないます。",
+    "answer": "選挙の前に<strong>演説</strong>を行います。"
+  },
+  {
+    "question": "しばいでしゅやくを<strong>えんじる</strong>。",
+    "answer": "芝居で主役を<strong>演じる</strong>。"
+  },
+  {
+    "question": "<strong>こくさい</strong>かいぎがひらかれます。",
+    "answer": "<strong>国際</strong>会議が開かれます。"
+  },
+  {
+    "question": "この<strong>きわ</strong>でまっていてください。",
+    "answer": "この<strong>際</strong>で待っていてください。"
+  },
+  {
+    "question": "ひるやすみに<strong>まどぎわ</strong>のせきですごします。",
+    "answer": "昼休みに<strong>窓際</strong>の席で過ごします。"
+  },
+  {
+    "question": "にほんのじんこうは<strong>いちおく</strong>にんいじょうです。",
+    "answer": "日本の人口は<strong>一億</strong>人以上です。"
+  },
+  {
+    "question": "もっと<strong>ゆうき</strong>をだしてください。",
+    "answer": "もっと<strong>勇気</strong>を出してください。"
+  },
+  {
+    "question": "あのせんしゅはとても<strong>ゆう</strong>があります。",
+    "answer": "あの選手はとても<strong>勇</strong>があります。"
+  },
+  {
+    "question": "<strong>いっぱん</strong>てきなけんがくをします。",
+    "answer": "<strong>一般</strong>的な見学をします。"
+  },
+  {
+    "question": "このほんは<strong>ぜんぱん</strong>におもしろいです。",
+    "answer": "この本は<strong>全般</strong>に面白いです。"
   }
 ]
