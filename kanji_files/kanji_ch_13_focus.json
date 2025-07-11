@@ -18,6 +18,70 @@
   {
     "question": "<strong>おのおの</strong>のいけんをきかせてください。",
     "answer": "<strong>各々</strong>の意見を聞かせてください。"
+  },
+  {
+    "question": "この<strong>さっし</strong>にはゆうめいなさっかのさくひんがのっています。",
+    "answer": "この<strong>冊子</strong>には有名な作家の作品が載っています。"
+  },
+  {
+    "question": "たなばたで<strong>たんざく</strong>にかんげいをかきました。",
+    "answer": "七夕で<strong>短冊</strong>に願いを書きました。"
+  },
+  {
+    "question": "としょかんでほんを<strong>にさつ</strong>かりました。",
+    "answer": "図書館で本を<strong>2冊</strong>借りました。"
+  },
+  {
+    "question": "このさかなは<strong>れいとう</strong>してあります。",
+    "answer": "この魚は<strong>冷凍</strong>してあります。"
+  },
+  {
+    "question": "ふゆになるとみずが<strong>こおる</strong>。",
+    "answer": "冬になると水が<strong>凍る</strong>。"
+  },
+  {
+    "question": "さむくててが<strong>こごえる</strong>。",
+    "answer": "寒くて手が<strong>凍える</strong>。"
+  },
+  {
+    "question": "このしょせきはらいねん<strong>かんこう</strong>されるよていです。",
+    "answer": "この書籍は来年<strong>刊行</strong>される予定です。"
+  },
+  {
+    "question": "まいしゅうこの<strong>しゅうかんし</strong>をよみます。",
+    "answer": "毎週この<strong>週刊誌</strong>を読みます。"
+  },
+  {
+    "question": "えきで<strong>じょうしゃけん</strong>をかいました。",
+    "answer": "駅で<strong>乗車券</strong>を買いました。"
+  },
+  {
+    "question": "がいこくへいくときは<strong>りょけん</strong>がひつようです。",
+    "answer": "外国へ行くときは<strong>旅券</strong>が必要です。"
+  },
+  {
+    "question": "おかねを<strong>しょうけん</strong>にかえました。",
+    "answer": "お金を<strong>証券</strong>に替えました。"
+  },
+  {
+    "question": "あたらしい<strong>めいし</strong>をつくりました。",
+    "answer": "新しい<strong>名刺</strong>を作りました。"
+  },
+  {
+    "question": "はりでゆびを<strong>さす</strong>。",
+    "answer": "針で指を<strong>刺す</strong>。"
+  },
+  {
+    "question": "このくすりには<strong>ふくさよう</strong>があります。",
+    "answer": "この薬には<strong>副作用</strong>があります。"
+  },
+  {
+    "question": "よるは<strong>ふくぎょう</strong>をしています。",
+    "answer": "夜は<strong>副業</strong>をしています。"
+  },
+  {
+    "question": "あのひとは<strong>ふくしゃちょう</strong>です。",
+    "answer": "あの人は<strong>副社長</strong>です。"
   }
 ]
 
