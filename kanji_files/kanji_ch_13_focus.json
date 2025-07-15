@@ -1,66 +1,26 @@
 [
   {
-    "question": "かいしゃであたらしいしゃいんの<strong>ぼしゅう</strong>をしています。",
-    "answer": "会社で新しい社員の<strong>募集</strong>をしています。"
-  },
-  {
-    "question": "かれのしんぱいが<strong>つのる</strong>ばかりです。",
-    "answer": "彼の心配が<strong>募る</strong>ばかりです。"
-  },
-  {
     "question": "このせいひんのしつりょうはこうきゅうひんに<strong>ひってき</strong>します。",
     "answer": "この製品の質量は高級品に<strong>匹敵</strong>します。"
   },
   {
-    "question": "いえでいぬを<strong>にひき</strong>かっています。",
-    "answer": "家で犬を<strong>2匹</strong>飼っています。"
+    "question": "しゅせんのまえに<strong>えんぜつ</strong>をおこないます。",
+    "answer": "選挙の前に<strong>演説</strong>を行います。"
   },
   {
     "question": "ビルがテロリストに<strong>せんきょ</strong>されました。",
     "answer": "ビルがテロリストに<strong>占拠</strong>されました。"
   },
   {
-    "question": "みらいを<strong>うらなう</strong>のがすきです。",
-    "answer": "未来を<strong>占う</strong>のが好きです。"
-  },
-  {
-    "question": "このせきはへやのさんぶんのいちを<strong>しめる</strong>。",
-    "answer": "この席は部屋の3分の1を<strong>占める</strong>。"
-  },
-  {
-    "question": "あのかいしゃはしじょうを<strong>どくせん</strong>しています。",
-    "answer": "あの会社は市場を<strong>独占</strong>しています。"
-  },
-  {
-    "question": "わたしのそふは<strong>おんこう</strong>なひとです。",
-    "answer": "私の祖父は<strong>温厚</strong>な人です。"
-  },
-  {
-    "question": "このほんは<strong>あつい</strong>のでよむのにじかんがかかります。",
-    "answer": "この本は<strong>厚い</strong>ので読むのに時間がかかります。"
-  },
-  {
-    "question": "こわくておおきなこえで<strong>さけぶ</strong>。",
-    "answer": "怖くて大きな声で<strong>叫ぶ</strong>。"
+    "question": "このしょせきはらいねん<strong>かんこう</strong>されるよていです。",
+    "answer": "この書籍は来年<strong>刊行</strong>される予定です。"
   },
   {
     "question": "ジェットコースターで<strong>ぜっきょう</strong>しました。",
     "answer": "ジェットコースターで<strong>絶叫</strong>しました。"
   },
   {
-    "question": "はるになるとさくらのはなが<strong>さく</strong>。",
-    "answer": "春になると桜の花が<strong>咲く</strong>。"
+    "question": "かれのしんぱいが<strong>つのる</strong>ばかりです。",
+    "answer": "彼の心配が<strong>募る</strong>ばかりです。"
   },
-  {
-    "question": "ここでは<strong>きつえん</strong>がきんしされています。",
-    "answer": "ここでは<strong>喫煙</strong>が禁止されています。"
-  },
-  {
-    "question": "あさのコーヒーを<strong>きっさてん</strong>でのみます。",
-    "answer": "朝のコーヒーを<strong>喫茶店</strong>で飲みます。"
-  },
-  {
-    "question": "なつやすみを<strong>まんきつ</strong>しました。",
-    "answer": "夏休みを<strong>満喫</strong>しました。"
-  }
 ]
