@@ -1,78 +1,90 @@
 [
   {
-    "question": "でんしゃが<strong>こみあう</strong>じかんです。",
-    "answer": "電車が<strong>混み合う</strong>時間です。"
-  },
-  {
-    "question": "コーヒーにさとうを<strong>まじる</strong>。",
-    "answer": "コーヒーに砂糖を<strong>混じる</strong>。"
-  },
-  {
-    "question": "じこでみちが<strong>こんらん</strong>している。",
-    "answer": "事故で道が<strong>混乱</strong>している。"
-  },
-  {
-    "question": "にほんとちゅうごくの<strong>さかいめ</strong>。",
-    "answer": "日本と中国の<strong>境目</strong>。"
-  },
-  {
-    "question": "このちほうは<strong>かんきょう</strong>がいい。",
-    "answer": "この地方は<strong>環境</strong>がいい。"
-  },
-  {
-    "question": "きょうの<strong>ふくそう</strong>はかんたんです。",
-    "answer": "今日の<strong>服装</strong>は簡単です。"
-  },
-  {
-    "question": "このおかしの<strong>ほうそう</strong>はきれいだ。",
-    "answer": "このお菓子の<strong>包装</strong>はきれいだ。"
+    "question": "<strong>ぜんぷく</strong>のしんらいをよせる。",
+    "answer": "<strong>全幅</strong>の信頼を寄せる。"
   },
   {
     "question": "かのじょはびじんを<strong>よそおう</strong>。",
     "answer": "彼女は美人を<strong>装う</strong>。"
   },
   {
-    "question": "しごとで<strong>あつりょく</strong>をかんじる。",
-    "answer": "仕事で<strong>圧力</strong>を感じる。"
+    "question": "このすいようえきにはちいさな<strong>りゅうし</strong>がふくまれている。",
+    "answer": "この水溶液には小さな<strong>粒子</strong>が含まれている。"
   },
   {
-    "question": "いまの<strong>けつあつ</strong>はだいじょうぶです。",
-    "answer": "今の<strong>血圧</strong>は大丈夫です。"
+    "question": "こころに<strong>かしゃく</strong>をかんじる。",
+    "answer": "心に<strong>呵責</strong>を感じる。"
   },
   {
-    "question": "このファイルを<strong>あっしゅく</strong>してください。",
-    "answer": "このファイルを<strong>圧縮</strong>してください。"
+    "question": "にほんじんには<strong>けいこう</strong>があります。",
+    "answer": "日本人には<strong>傾向</strong>があります。"
   },
   {
-    "question": "てでかみを<strong>おす</strong>。",
-    "answer": "手で紙を<strong>圧す</strong>。"
+    "question": "でんきをおくるための<strong>てっとう</strong>がたっています。",
+    "answer": "電気を送るための<strong>鉄塔</strong>が立っています。"
   },
   {
-    "question": "きもちを<strong>おさえる</strong>。",
-    "answer": "気持ちを<strong>圧える</strong>。"
+    "question": "このくるまはあたらしい<strong>とそう</strong>がほどこされています。",
+    "answer": "この車は新しい<strong>塗装</strong>が施されています。"
   },
   {
-    "question": "コーヒーにミルクを<strong>まぜる</strong>。",
-    "answer": "コーヒーにミルクを<strong>混ぜる</strong>。"
+    "question": "かべにペンキを<strong>ぬる</strong>。",
+    "answer": "壁にペンキを<strong>塗る</strong>。"
   },
   {
-    "question": "この<strong>さか</strong>をのぼるとえきがあります。",
-    "answer": "この<strong>坂</strong>を登ると駅があります。"
+    "question": "このゆかはペンキで<strong>ぬれる</strong>。",
+    "answer": "この床はペンキで<strong>塗れる</strong>。"
   },
   {
-    "question": "この<strong>きゅうさか</strong>はのぼるのがたいへんです。",
-    "answer": "この<strong>急坂</strong>は登るのが大変です。"
+    "question": "やけどにくすりを<strong>とふ</strong>する。",
+    "answer": "火傷に薬を<strong>塗布</strong>する。"
   },
   {
-    "question": "このまちには<strong>おうじょう</strong>があります。",
-    "answer": "この町には<strong>王城</strong>があります。"
+    "question": "りょうりに<strong>しょくえん</strong>をつかいます。",
+    "answer": "料理に<strong>食塩</strong>を使います。"
   },
   {
-    "question": "この<strong>しろ</strong>は400ねんまえにたてられました。",
-    "answer": "この<strong>城</strong>は400年前に建てられました。"
+    "question": "このスープは<strong>しお</strong>がたりない。",
+    "answer": "このスープは<strong>塩</strong>が足りない。"
   },
   {
-    "question": "この<strong>じょうかまち</strong>はれきしてきなまちです。",
-    "answer": "この<strong>城下町</strong>は歴史的な町です。"
+    "question": "こどもを<strong>てしお</strong>にかけてそだてる。",
+    "answer": "子どもを<strong>手塩</strong>にかけて育てる。"
+  },
+  {
+    "question": "にほんの<strong>ちゅうおう</strong>にあるまちです。",
+    "answer": "日本の<strong>中央</strong>にある町です。"
+  },
+  {
+    "question": "このちほうは<strong>おう</strong>ぶぶんです。",
+    "answer": "この地方は<strong>央</strong>部分です。"
+  },
+  {
+    "question": "じしんの<strong>しんおう</strong>はかいがんちかくだった。",
+    "answer": "地震の<strong>震央</strong>は海岸近くだった。"
+  },
+  {
+    "question": "むかしの<strong>ひゃくしょう</strong>ははたけではたらきました。",
+    "answer": "昔の<strong>百姓</strong>は畑で働きました。"
+  },
+  {
+    "question": "わたしの<strong>せい</strong>はやまだです。",
+    "answer": "私の<strong>姓</strong>は山田です。"
+  },
+  {
+    "question": "けっこんまえの<strong>きゅうせい</strong>をおしえてください。",
+    "answer": "結婚前の<strong>旧姓</strong>を教えてください。"
+  },
+  {
+    "question": "このけんをかれに<strong>いにん</strong>します。",
+    "answer": "この件を彼に<strong>委任</strong>します。"
+  },
+  {
+    "question": "みを<strong>ゆだねる</strong>。",
+    "answer": "身を<strong>委ねる</strong>。"
+  },
+  {
+    "question": "このしごとをがいしゃに<strong>いたく</strong>する。",
+    "answer": "この仕事を外社に<strong>委託</strong>する。"
   }
 ]
