@@ -1,74 +1,86 @@
 [
   {
-    "question": "にほんにははっきりとした<strong>きせつ</strong>があります。",
-    "answer": "日本にははっきりとした<strong>季節</strong>があります。"
+    "question": "にほんでいちばんおおきいしまは<strong>ほんしゅう</strong>です。",
+    "answer": "日本で一番大きい島は<strong>本州</strong>です。"
   },
   {
-    "question": "にほんの<strong>しき</strong>はとてもうつくしいです。",
-    "answer": "日本の<strong>四季</strong>はとても美しいです。"
+    "question": "わたしは<strong>おうしゅう</strong>りょこうがすきです。",
+    "answer": "私は<strong>欧州</strong>旅行が好きです。"
   },
   {
-    "question": "あめの<strong>うき</strong>にはよくかさをさします。",
-    "answer": "雨の<strong>雨季</strong>にはよく傘を差します。"
+    "question": "かわの<strong>さんかくす</strong>でとりをみました。",
+    "answer": "川の<strong>三角州</strong>で鳥を見ました。"
   },
   {
-    "question": "<strong>うちゅう</strong>りょこうにいってみたいです。",
-    "answer": "<strong>宇宙</strong>旅行に行ってみたいです。"
+    "question": "あのビルは<strong>きょだい</strong>です。",
+    "answer": "あのビルは<strong>巨大</strong>です。"
   },
   {
-    "question": "この<strong>うじちゃ</strong>はとてもこうひんです。",
-    "answer": "この<strong>宇治茶</strong>はとても高品質です。"
+    "question": "かのじょはえの<strong>きょしょう</strong>です。",
+    "answer": "彼女は絵の<strong>巨匠</strong>です。"
   },
   {
-    "question": "てがみを<strong>ふうとう</strong>にいれます。",
-    "answer": "手紙を<strong>封筒</strong>に入れます。"
+    "question": "あのかいしゃは<strong>きょまん</strong>のとみをきずきました。",
+    "answer": "あの会社は<strong>巨万</strong>の富を築きました。"
   },
   {
-    "question": "みちが<strong>ふうさ</strong>されています。",
-    "answer": "道が<strong>封鎖</strong>されています。"
+    "question": "わたしの<strong>きぼう</strong>はせんせいになることです。",
+    "answer": "私の<strong>希望</strong>は先生になることです。"
   },
   {
-    "question": "あたらしいえいがの<strong>ふうきり</strong>をみました。",
-    "answer": "新しい映画の<strong>封切り</strong>を見ました。"
+    "question": "このどうぶつは<strong>きしょうどうぶつ</strong>です。",
+    "answer": "この動物は<strong>希少動物</strong>です。"
   },
   {
-    "question": "わたしの<strong>しょうらい</strong>のゆめはせんせいになることです。",
-    "answer": "私の<strong>将来</strong>の夢は先生になることです。"
+    "question": "そふはことし<strong>こき</strong>をむかえます。",
+    "answer": "祖父は今年<strong>古希</strong>を迎えます。"
   },
   {
-    "question": "<strong>せんごくぶしょう</strong>のりょくしがすきです。",
-    "answer": "<strong>戦国武将</strong>の歴史が好きです。"
+    "question": "なつはしろい<strong>ぼうし</strong>をかぶります。",
+    "answer": "夏は白い<strong>帽子</strong>をかぶります。"
   },
   {
-    "question": "かれはサッカーチームの<strong>しゅしょう</strong>です。",
-    "answer": "彼はサッカーチームの<strong>主将</strong>です。"
+    "question": "かれは<strong>だつぼう</strong>してあいさつしました。",
+    "answer": "彼は<strong>脱帽</strong>して挨拶しました。"
   },
   {
-    "question": "わたしはははを<strong>そんけい</strong>しています。",
-    "answer": "私は母を<strong>尊敬</strong>しています。"
+    "question": "がっこうで<strong>がくせいぼう</strong>をつけます。",
+    "answer": "学校で<strong>学生帽</strong>をつけます。"
   },
   {
-    "question": "おたがいのいけんを<strong>そんちょう</strong>しましょう。",
-    "answer": "お互いの意見を<strong>尊重</strong>しましょう。"
+    "question": "ひとのにっこうに<strong>かんしょう</strong>しないでください。",
+    "answer": "人の日光に<strong>干渉</strong>しないでください。"
   },
   {
-    "question": "<strong>じそんしん</strong>をもってせいかつしましょう。",
-    "answer": "<strong>自尊心</strong>を持って生活しましょう。"
+    "question": "せんたくものを<strong>ほす</strong>。",
+    "answer": "洗濯物を<strong>干す</strong>。"
   },
   {
-    "question": "ひっこしのときは<strong>てんしゅつとどけ</strong>をだします。",
-    "answer": "引っ越しのときは<strong>転出届</strong>を出します。"
+    "question": "このしごとは<strong>じゃっかんめい</strong>をさいようします。",
+    "answer": "この仕事は<strong>若干名</strong>を採用します。"
   },
   {
-    "question": "ゆうびんきょくにてがみを<strong>とどける</strong>。",
-    "answer": "郵便局に手紙を<strong>届ける</strong>。"
+    "question": "このほんは<strong>ようじ</strong>むけです。",
+    "answer": "この本は<strong>幼児</strong>向けです。"
   },
   {
-    "question": "あしたまでににもつが<strong>とどく</strong>でしょうか。",
-    "answer": "明日までに荷物が<strong>届く</strong>でしょうか。"
+    "question": "いもうとはまだ<strong>おさない</strong>。",
+    "answer": "妹はまだ<strong>幼い</strong>。"
   },
   {
-    "question": "あかちゃんがうまれたら<strong>しゅっせいとどけ</strong>をだします。",
-    "answer": "赤ちゃんが生まれたら<strong>出生届</strong>を出します。"
+    "question": "こどもを<strong>ようちえん</strong>にあずけます。",
+    "answer": "子どもを<strong>幼稚園</strong>に預けます。"
+  },
+  {
+    "question": "まいあさ6じに<strong>きしょう</strong>します。",
+    "answer": "毎朝6時に<strong>起床</strong>します。"
+  },
+  {
+    "question": "わたしのへやには<strong>とこ</strong>があります。",
+    "answer": "私の部屋には<strong>床</strong>があります。"
+  },
+  {
+    "question": "わしつの<strong>とこのま</strong>にかざりをおきます。",
+    "answer": "和室の<strong>床の間</strong>に飾りを置きます。"
   }
 ]
