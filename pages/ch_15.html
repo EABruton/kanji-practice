@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 15</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 15</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "このじこでさんにんが<strong>しぼう</strong>しました。",
+          answer: "この事故で三人が<strong>死亡</strong>しました。",
+        },
+        {
+          question: "わたしのそぼはことし<strong>なくなる</strong>。",
+          answer: "私の祖母は今年<strong>亡くなる</strong>。",
+        },
+        {
+          question:
+            "なにかあったら<strong>けいさつ</strong>にれんらくしてください。",
+          answer: "何かあったら<strong>警察</strong>に連絡してください。",
+        },
+        {
+          question: "いきものを<strong>かんさつ</strong>するのがすきです。",
+          answer: "生き物を<strong>観察</strong>するのが好きです。",
+        },
+        {
+          question:
+            "このちいきはこうぎょうが<strong>はったつ</strong>しています。",
+          answer: "この地域は工業が<strong>発達</strong>しています。",
+        },
+        {
+          question: "このてがみを<strong>そくたつ</strong>でおねがいします。",
+          answer: "この手紙を<strong>速達</strong>でお願いします。",
+        },
+        {
+          question: "わたしの<strong>ともだち</strong>はやさしいです。",
+          answer: "私の<strong>友達</strong>は優しいです。",
+        },
+        {
+          question: "<strong>はんざい</strong>をおかしてはいけません。",
+          answer: "<strong>犯罪</strong>を犯してはいけません。",
+        },
+        {
+          question: "あやまちを<strong>おかす</strong>。",
+          answer: "過ちを<strong>犯す</strong>。",
+        },
+        {
+          question: "<strong>はんにん</strong>をつかまえました。",
+          answer: "<strong>犯人</strong>を捕まえました。",
+        },
+        {
+          question: "これはおおきな<strong>つみ</strong>です。",
+          answer: "これは大きな<strong>罪</strong>です。",
+        },
+        {
+          question: "かれはしんせつに<strong>しゃざい</strong>しました。",
+          answer: "彼は親切に<strong>謝罪</strong>しました。",
+        },
+        {
+          question: "このへやは<strong>いきぐるしさ</strong>をかんじます。",
+          answer: "この部屋は<strong>息苦しさ</strong>を感じます。",
+        },
+        {
+          question: "ふかく<strong>いき</strong>をすう。",
+          answer: "深く<strong>息</strong>を吸う。",
+        },
+        {
+          question: "ちょっと<strong>きゅうそく</strong>しましょう。",
+          answer: "ちょっと<strong>休息</strong>しましょう。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
