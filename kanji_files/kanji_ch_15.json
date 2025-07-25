@@ -138,5 +138,61 @@
   {
     "question": "わたしはクラスの<strong>たんにん</strong>です。",
     "answer": "私はクラスの<strong>担任</strong>です。"
+  },
+  {
+    "question": "びょうきの<strong>よくじつ</strong>はやすみました。",
+    "answer": "病気の<strong>翌日</strong>は休みました。"
+  },
+  {
+    "question": "かいぎは<strong>よくしゅう</strong>にひらかれます。",
+    "answer": "会議は<strong>翌週</strong>に開かれます。"
+  },
+  {
+    "question": "あめで<strong>どろみず</strong>がたまりました。",
+    "answer": "雨で<strong>泥水</strong>が溜まりました。"
+  },
+  {
+    "question": "おさけをのみすぎて<strong>でいすい</strong>しました。",
+    "answer": "お酒を飲みすぎて<strong>泥酔</strong>しました。"
+  },
+  {
+    "question": "<strong>あらためて</strong>おれいをいいます。",
+    "answer": "<strong>改めて</strong>お礼を言います。"
+  },
+  {
+    "question": "かれは<strong>かいしん</strong>してまじめにはたらきはじめました。",
+    "answer": "彼は<strong>改心</strong>してまじめに働き始めました。"
+  },
+  {
+    "question": "このぶんしょうは<strong>しょうりゃく</strong>されています。",
+    "answer": "この文章は<strong>省略</strong>されています。"
+  },
+  {
+    "question": "じかんがないので<strong>りゃくす</strong>。",
+    "answer": "時間がないので<strong>略す</strong>。"
+  },
+  {
+    "question": "このしごとには<strong>せんりゃく</strong>がひつようです。",
+    "answer": "この仕事には<strong>戦略</strong>が必要です。"
+  },
+  {
+    "question": "ダイバーは<strong>かいてい</strong>をたんけんしました。",
+    "answer": "ダイバーは<strong>海底</strong>を探検しました。"
+  },
+  {
+    "question": "このいけの<strong>そこ</strong>はふかいです。",
+    "answer": "この池の<strong>底</strong>は深いです。"
+  },
+  {
+    "question": "しゃかいの<strong>そこへん</strong>をけんきゅうしています。",
+    "answer": "社会の<strong>底辺</strong>を研究しています。"
+  },
+  {
+    "question": "わたしの<strong>こいびと</strong>はやさしいです。",
+    "answer": "私の<strong>恋人</strong>は優しいです。"
+  },
+  {
+    "question": "かれらは<strong>れんあい</strong>かんけいにあります。",
+    "answer": "彼らは<strong>恋愛</strong>関係にあります。"
   }
 ]
