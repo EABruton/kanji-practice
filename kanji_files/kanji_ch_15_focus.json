@@ -1,58 +1,62 @@
 [
   {
-    "question": "びょうきの<strong>よくじつ</strong>はやすみました。",
-    "answer": "病気の<strong>翌日</strong>は休みました。"
+    "question": "しごとのことで<strong>なやむ</strong>。",
+    "answer": "仕事のことで<strong>悩む</strong>。"
   },
   {
-    "question": "かいぎは<strong>よくしゅう</strong>にひらかれます。",
-    "answer": "会議は<strong>翌週</strong>に開かれます。"
+    "question": "かれのこころには<strong>くのう</strong>がつきまとっている。",
+    "answer": "彼の心には<strong>苦悩</strong>が付きまとっている。"
   },
   {
-    "question": "あめで<strong>どろみず</strong>がたまりました。",
-    "answer": "雨で<strong>泥水</strong>が溜まりました。"
+    "question": "あいてに<strong>ぞうお</strong>をいだく。",
+    "answer": "相手に<strong>憎悪</strong>を抱く。"
   },
   {
-    "question": "おさけをのみすぎて<strong>でいすい</strong>しました。",
-    "answer": "お酒を飲みすぎて<strong>泥酔</strong>しました。"
+    "question": "あのひとはほんとうに<strong>にくい</strong>。",
+    "answer": "あの人は本当に<strong>憎い</strong>。"
   },
   {
-    "question": "<strong>あらためて</strong>おれいをいいます。",
-    "answer": "<strong>改めて</strong>お礼を言います。"
+    "question": "うそをつくひとを<strong>にくむ</strong>。",
+    "answer": "嘘をつく人を<strong>憎む</strong>。"
   },
   {
-    "question": "かれは<strong>かいしん</strong>してまじめにはたらきはじめました。",
-    "answer": "彼は<strong>改心</strong>してまじめに働き始めました。"
+    "question": "けっこんで<strong>こせき</strong>をいれる。",
+    "answer": "結婚で<strong>戸籍</strong>を入れる。"
   },
   {
-    "question": "このぶんしょうは<strong>しょうりゃく</strong>されています。",
-    "answer": "この文章は<strong>省略</strong>されています。"
+    "question": "この<strong>と</strong>はとてもふるい。",
+    "answer": "この<strong>戸</strong>はとても古い。"
   },
   {
-    "question": "じかんがないので<strong>りゃくす</strong>。",
-    "answer": "時間がないので<strong>略す</strong>。"
+    "question": "わたしのいえは<strong>いっこだて</strong>です。",
+    "answer": "私の家は<strong>一戸建て</strong>です。"
   },
   {
-    "question": "このしごとには<strong>せんりゃく</strong>がひつようです。",
-    "answer": "この仕事には<strong>戦略</strong>が必要です。"
+    "question": "おてらでおいのりを<strong>おがむ</strong>。",
+    "answer": "お寺でお祈りを<strong>拝む</strong>。"
   },
   {
-    "question": "ダイバーは<strong>かいてい</strong>をたんけんしました。",
-    "answer": "ダイバーは<strong>海底</strong>を探検しました。"
+    "question": "おしょうがつにじんじゃへ<strong>さんぱい</strong>する。",
+    "answer": "お正月に神社へ<strong>参拝</strong>する。"
   },
   {
-    "question": "このいけの<strong>そこ</strong>はふかいです。",
-    "answer": "この池の<strong>底</strong>は深いです。"
+    "question": "このじたいを<strong>しゅうしゅう</strong>するのはむずかしい。",
+    "answer": "この事態を<strong>収拾</strong>するのは難しい。"
   },
   {
-    "question": "しゃかいの<strong>ていへん</strong>をけんきゅうしています。",
-    "answer": "社会の<strong>底辺</strong>を研究しています。"
+    "question": "みちにおさいふがおちていたので<strong>ひろう</strong>。",
+    "answer": "道にお財布が落ちていたので<strong>拾う</strong>。"
   },
   {
-    "question": "わたしの<strong>こいびと</strong>はやさしいです。",
-    "answer": "私の<strong>恋人</strong>は優しいです。"
+    "question": "<strong>しゅうとくぶつ</strong>はこうばんにとどけてください。",
+    "answer": "<strong>拾得物</strong>は交番に届けてください。"
   },
   {
-    "question": "かれらは<strong>れんあい</strong>かんけいにあります。",
-    "answer": "彼らは<strong>恋愛</strong>関係にあります。"
+    "question": "いらないものを<strong>すてる</strong>。",
+    "answer": "いらないものを<strong>捨てる</strong>。"
+  },
+  {
+    "question": "じょうほうの<strong>しゅしゃ</strong>がたいせつだ。",
+    "answer": "情報の<strong>取捨</strong>が大切だ。"
   }
 ]
