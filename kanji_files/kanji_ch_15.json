@@ -254,5 +254,65 @@
   {
     "question": "じょうほうの<strong>しゅしゃ</strong>がたいせつだ。",
     "answer": "情報の<strong>取捨</strong>が大切だ。"
+  },
+  {
+    "question": "このファイルをPDFに<strong>へんかん</strong>してください。",
+    "answer": "このファイルをPDFに<strong>変換</strong>してください。"
+  },
+  {
+    "question": "ドルをえんに<strong>かえる</strong>。",
+    "answer": "ドルを円に<strong>換える</strong>。"
+  },
+  {
+    "question": "あいてとめいしを<strong>こうかん</strong>する。",
+    "answer": "相手と名刺を<strong>交換</strong>する。"
+  },
+  {
+    "question": "このじこでおおきな<strong>そんしつ</strong>がでた。",
+    "answer": "この事故で大きな<strong>損失</strong>が出た。"
+  },
+  {
+    "question": "かれのきもちを<strong>そこねる</strong>ことをいった。",
+    "answer": "彼の気持ちを<strong>損ねる</strong>ことを言った。"
+  },
+  {
+    "question": "このしっぱいがしんらいを<strong>そこなう</strong>。",
+    "answer": "この失敗が信頼を<strong>損なう</strong>。"
+  },
+  {
+    "question": "としうえのひとを<strong>うやまう</strong>。",
+    "answer": "年上の人を<strong>敬う</strong>。"
+  },
+  {
+    "question": "にほんごで<strong>けいご</strong>をつかうのはむずかしい。",
+    "answer": "日本語で<strong>敬語</strong>を使うのは難しい。"
+  },
+  {
+    "question": "けっこんまえの<strong>きゅうせい</strong>はやまだでした。",
+    "answer": "結婚前の<strong>旧姓</strong>は山田でした。"
+  },
+  {
+    "question": "ことし<strong>しょうしん</strong>しました。",
+    "answer": "今年<strong>昇進</strong>しました。"
+  },
+  {
+    "question": "たいようが<strong>のぼる</strong>。",
+    "answer": "太陽が<strong>昇る</strong>。"
+  },
+  {
+    "question": "いなかで<strong>ほしぞら</strong>をみる。",
+    "answer": "田舎で<strong>星空</strong>を見る。"
+  },
+  {
+    "question": "この<strong>せいざ</strong>はさそりざです。",
+    "answer": "この<strong>星座</strong>は蠍座です。"
+  },
+  {
+    "question": "そらに<strong>くも</strong>がでてきた。",
+    "answer": "空に<strong>雲</strong>が出てきた。"
+  },
+  {
+    "question": "ふたりのあいだに<strong>あんうん</strong>がたちこめる。",
+    "answer": "二人の間に<strong>暗雲</strong>が立ち込める。"
   }
 ]
