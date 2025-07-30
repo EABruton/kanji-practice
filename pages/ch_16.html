@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 16</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 16</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "<strong>きみ</strong>のいえはどこですか。",
+          answer: "<strong>君</strong>の家はどこですか。",
+        },
+        {
+          question: "むかしの<strong>くんしゅ</strong>はけらいをしたがえた。",
+          answer: "昔の<strong>君主</strong>は家来を従えた。",
+        },
+        {
+          question: "あのふたりはかおが<strong>にる</strong>。",
+          answer: "あの二人は顔が<strong>似る</strong>。",
+        },
+        {
+          question: "こどもがおとなの<strong>まねする</strong>。",
+          answer: "子どもが大人の<strong>真似する</strong>。",
+        },
+        {
+          question: "このりょうしゃには<strong>るいじてん</strong>がある。",
+          answer: "この両者には<strong>類似点</strong>がある。",
+        },
+        {
+          question: "この<strong>ほど</strong>のさむさははじめてだ。",
+          answer: "この<strong>程</strong>の寒さは初めてだ。",
+        },
+        {
+          question: "このもんだいの<strong>ていど</strong>をはかってください。",
+          answer: "この問題の<strong>程度</strong>を測ってください。",
+        },
+        {
+          question: "らいしゅうの<strong>にってい</strong>をきめましょう。",
+          answer: "来週の<strong>日程</strong>を決めましょう。",
+        },
+        {
+          question: "がっこうの<strong>せいと</strong>は50にんです。",
+          answer: "学校の<strong>生徒</strong>は50人です。",
+        },
+        {
+          question: "えきまで<strong>とほ</strong>で5ふんです。",
+          answer: "駅まで<strong>徒歩</strong>で5分です。",
+        },
+        {
+          question: "このがくせいの<strong>せいせき</strong>はとてもいい。",
+          answer: "この学生の<strong>成績</strong>はとてもいい。",
+        },
+        {
+          question: "かれの<strong>じっせき</strong>はみとめられている。",
+          answer: "彼の<strong>実績</strong>は認められている。",
+        },
+        {
+          question: "かいしゃの<strong>ぎょうせき</strong>があがった。",
+          answer: "会社の<strong>業績</strong>が上がった。",
+        },
+        {
+          question: "このかわの<strong>きよい</strong>みずをのむ。",
+          answer: "この川の<strong>清い</strong>水を飲む。",
+        },
+        {
+          question: "こころが<strong>きよまる</strong>。",
+          answer: "心が<strong>清まる</strong>。",
+        },
+        {
+          question: "あいだのおかねを<strong>せいさん</strong>する。",
+          answer: "間のお金を<strong>清算</strong>する。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
