@@ -1,1 +1,78 @@
-
+[
+  {
+    "question": "まいあさこうえんの<strong>せいそう</strong>をしています。",
+    "answer": "毎朝公園の<strong>清掃</strong>をしています。"
+  },
+  {
+    "question": "へやの<strong>そうじ</strong>をおわらせました。",
+    "answer": "部屋の<strong>掃除</strong>を終わらせました。"
+  },
+  {
+    "question": "ちりとりでごみを<strong>はく</strong>。",
+    "answer": "ちりとりでごみを<strong>掃く</strong>。"
+  },
+  {
+    "question": "このほんにはせいかくな<strong>きじゅつ</strong>があります。",
+    "answer": "この本には正確な<strong>記述</strong>があります。"
+  },
+  {
+    "question": "じぶんのいけんを<strong>のべる</strong>。",
+    "answer": "自分の意見を<strong>述べる</strong>。"
+  },
+  {
+    "question": "しょうげきてきな<strong>きょうじゅつ</strong>をききました。",
+    "answer": "衝撃的な<strong>供述</strong>を聞きました。"
+  },
+  {
+    "question": "このまちに<strong>すみ</strong>つきたいです。",
+    "answer": "この町に<strong>住み</strong>つきたいです。"
+  },
+  {
+    "question": "へやの<strong>ひちすみ</strong>にいすをおきました。",
+    "answer": "部屋の<strong>一隅</strong>に椅子を置きました。"
+  },
+  {
+    "question": "この<strong>ちいき</strong>はしずかです。",
+    "answer": "この<strong>地域</strong>は静かです。"
+  },
+  {
+    "question": "としょかんはしずかな<strong>くいき</strong>にあります。",
+    "answer": "図書館は静かな<strong>区域</strong>にあります。"
+  },
+  {
+    "question": "この<strong>りゅういき</strong>ではさかながたくさんとれます。",
+    "answer": "この<strong>流域</strong>では魚がたくさん取れます。"
+  },
+  {
+    "question": "あいてと<strong>きょうそう</strong>するのがすきです。",
+    "answer": "相手と<strong>競争</strong>するのが好きです。"
+  },
+  {
+    "question": "だれがはやいか<strong>きそう</strong>。",
+    "answer": "誰が早いか<strong>競う</strong>。"
+  },
+  {
+    "question": "オークションで<strong>せりあう</strong>。",
+    "answer": "オークションで<strong>競る</strong>。"
+  },
+  {
+    "question": "スポーツの<strong>きょうぎ</strong>をみます。",
+    "answer": "スポーツの<strong>競技</strong>を見ます。"
+  },
+  {
+    "question": "にちようびに<strong>けいば</strong>をみにいきます。",
+    "answer": "日曜日に<strong>競馬</strong>を見に行きます。"
+  },
+  {
+    "question": "おてらで<strong>きがん</strong>をおこないます。",
+    "answer": "お寺で<strong>祈願</strong>を行います。"
+  },
+  {
+    "question": "みんなのしあわせを<strong>いのる</strong>。",
+    "answer": "みんなの幸せを<strong>祈る</strong>。"
+  },
+  {
+    "question": "このたてものは<strong>きねん</strong>のためにたてられました。",
+    "answer": "この建物は<strong>記念</strong>のために建てられました。"
+  }
+]
