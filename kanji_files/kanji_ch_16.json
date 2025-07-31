@@ -88,11 +88,11 @@
     "answer": "衝撃的な<strong>供述</strong>を聞きました。"
   },
   {
-    "question": "このまちに<strong>すみ</strong>つきたいです。",
-    "answer": "この町に<strong>住み</strong>つきたいです。"
+    "question": "へやの<strong>すみ</strong>にほんがおいてあります。",
+    "answer": "部屋の<strong>隅</strong>に本が置いてあります。"
   },
   {
-    "question": "へやの<strong>ひちすみ</strong>にいすをおきました。",
+    "question": "へやの<strong>いちぐう</strong>にいすをおきました。",
     "answer": "部屋の<strong>一隅</strong>に椅子を置きました。"
   },
   {
@@ -116,7 +116,7 @@
     "answer": "誰が早いか<strong>競う</strong>。"
   },
   {
-    "question": "オークションで<strong>せりあう</strong>。",
+    "question": "オークションで<strong>せる</strong>。",
     "answer": "オークションで<strong>競る</strong>。"
   },
   {
