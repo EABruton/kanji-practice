@@ -1,78 +1,82 @@
 [
   {
-    "question": "まいあさこうえんの<strong>せいそう</strong>をしています。",
-    "answer": "毎朝公園の<strong>清掃</strong>をしています。"
+    "question": "えきのまえに<strong>りっさつ</strong>がたっています。",
+    "answer": "駅の前に<strong>立札</strong>が立っています。"
   },
   {
-    "question": "へやの<strong>そうじ</strong>をおわらせました。",
-    "answer": "部屋の<strong>掃除</strong>を終わらせました。"
+    "question": "ぎんこうで<strong>さつたば</strong>をうけとりました。",
+    "answer": "銀行で<strong>札束</strong>を受け取りました。"
   },
   {
-    "question": "ちりとりでごみを<strong>はく</strong>。",
-    "answer": "ちりとりでごみを<strong>掃く</strong>。"
+    "question": "この<strong>げきじょう</strong>ではいろいろなえんげきがひらかれます。",
+    "answer": "この<strong>劇場</strong>ではいろいろな演劇が開かれます。"
   },
   {
-    "question": "このほんにはせいかくな<strong>きじゅつ</strong>があります。",
-    "answer": "この本には正確な<strong>記述</strong>があります。"
+    "question": "にほんの<strong>えんげき</strong>をみにいきました。",
+    "answer": "日本の<strong>演劇</strong>を見に行きました。"
   },
   {
-    "question": "じぶんのいけんを<strong>のべる</strong>。",
-    "answer": "自分の意見を<strong>述べる</strong>。"
+    "question": "この<strong>きげき</strong>はとてもおもしろかったです。",
+    "answer": "この<strong>喜劇</strong>はとても面白かったです。"
   },
   {
-    "question": "しょうげきてきな<strong>きょうじゅつ</strong>をききました。",
-    "answer": "衝撃的な<strong>供述</strong>を聞きました。"
+    "question": "あしたのてんきを<strong>よそく</strong>する。",
+    "answer": "明日の天気を<strong>予測</strong>する。"
   },
   {
-    "question": "このまちに<strong>すみ</strong>つきたいです。",
-    "answer": "この町に<strong>住み</strong>つきたいです。"
+    "question": "ものさしでながさを<strong>はかる</strong>。",
+    "answer": "物差しで長さを<strong>測る</strong>。"
   },
   {
-    "question": "へやの<strong>ひちすみ</strong>にいすをおきました。",
-    "answer": "部屋の<strong>一隅</strong>に椅子を置きました。"
+    "question": "てんたいを<strong>かんそく</strong>する。",
+    "answer": "天体を<strong>観測</strong>する。"
   },
   {
-    "question": "この<strong>ちいき</strong>はしずかです。",
-    "answer": "この<strong>地域</strong>は静かです。"
+    "question": "がっこうには<strong>きりつ</strong>があります。",
+    "answer": "学校には<strong>規律</strong>があります。"
   },
   {
-    "question": "としょかんはしずかな<strong>くいき</strong>にあります。",
-    "answer": "図書館は静かな<strong>区域</strong>にあります。"
+    "question": "おてらには<strong>かいりつ</strong>があります。",
+    "answer": "お寺には<strong>戒律</strong>があります。"
   },
   {
-    "question": "この<strong>りゅういき</strong>ではさかながたくさんとれます。",
-    "answer": "この<strong>流域</strong>では魚がたくさん取れます。"
+    "question": "かのじょの<strong>あしわざ</strong>はすばらしい。",
+    "answer": "彼女の<strong>足技</strong>は素晴らしい。"
   },
   {
-    "question": "あいてと<strong>きょうそう</strong>するのがすきです。",
-    "answer": "相手と<strong>競争</strong>するのが好きです。"
+    "question": "わたしの<strong>とくぎ</strong>はすいえいです。",
+    "answer": "私の<strong>特技</strong>は水泳です。"
   },
   {
-    "question": "だれがはやいか<strong>きそう</strong>。",
-    "answer": "誰が早いか<strong>競う</strong>。"
+    "question": "この<strong>ほうりつ</strong>はらいねんからしかたがかわります。",
+    "answer": "この<strong>法律</strong>は来年から仕方が変わります。"
   },
   {
-    "question": "オークションで<strong>せる</strong>。",
-    "answer": "オークションで<strong>競る</strong>。"
+    "question": "この<strong>ぎじゅつ</strong>はむずかしいです。",
+    "answer": "この<strong>技術</strong>は難しいです。"
   },
   {
-    "question": "スポーツの<strong>きょうぎ</strong>をみます。",
-    "answer": "スポーツの<strong>競技</strong>を見ます。"
+    "question": "あめでかばんが<strong>しめる</strong>。",
+    "answer": "雨で鞄が<strong>湿る</strong>。"
   },
   {
-    "question": "にちようびに<strong>けいば</strong>をみにいきます。",
-    "answer": "日曜日に<strong>競馬</strong>を見に行きます。"
+    "question": "ぬれたてを<strong>しめす</strong>。",
+    "answer": "濡れた手を<strong>湿す</strong>。"
   },
   {
-    "question": "おてらで<strong>きがん</strong>をおこないます。",
-    "answer": "お寺で<strong>祈願</strong>を行います。"
+    "question": "なつは<strong>しっけ</strong>がおおいです。",
+    "answer": "夏は<strong>湿気</strong>が多いです。"
   },
   {
-    "question": "みんなのしあわせを<strong>いのる</strong>。",
-    "answer": "みんなの幸せを<strong>祈る</strong>。"
+    "question": "このほんの<strong>しょはん</strong>はとてもめずらしいです。",
+    "answer": "この本の<strong>初版</strong>はとても珍しいです。"
   },
   {
-    "question": "このたてものは<strong>きねん</strong>のためにたてられました。",
-    "answer": "この建物は<strong>記念</strong>のために建てられました。"
+    "question": "この<strong>はんが</strong>はうつくしいです。",
+    "answer": "この<strong>版画</strong>は美しいです。"
+  },
+  {
+    "question": "あたらしいほんを<strong>しゅっぱん</strong>しました。",
+    "answer": "新しい本を<strong>出版</strong>しました。"
   }
 ]

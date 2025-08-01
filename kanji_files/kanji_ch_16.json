@@ -138,5 +138,85 @@
   {
     "question": "このたてものは<strong>きねん</strong>のためにたてられました。",
     "answer": "この建物は<strong>記念</strong>のために建てられました。"
+  },
+  {
+    "question": "えきのまえに<strong>りっさつ</strong>がたっています。",
+    "answer": "駅の前に<strong>立札</strong>が立っています。"
+  },
+  {
+    "question": "ぎんこうで<strong>さつたば</strong>をうけとりました。",
+    "answer": "銀行で<strong>札束</strong>を受け取りました。"
+  },
+  {
+    "question": "この<strong>げきじょう</strong>ではいろいろなえんげきがひらかれます。",
+    "answer": "この<strong>劇場</strong>ではいろいろな演劇が開かれます。"
+  },
+  {
+    "question": "にほんの<strong>えんげき</strong>をみにいきました。",
+    "answer": "日本の<strong>演劇</strong>を見に行きました。"
+  },
+  {
+    "question": "この<strong>きげき</strong>はとてもおもしろかったです。",
+    "answer": "この<strong>喜劇</strong>はとても面白かったです。"
+  },
+  {
+    "question": "あしたのてんきを<strong>よそく</strong>する。",
+    "answer": "明日の天気を<strong>予測</strong>する。"
+  },
+  {
+    "question": "ものさしでながさを<strong>はかる</strong>。",
+    "answer": "物差しで長さを<strong>測る</strong>。"
+  },
+  {
+    "question": "てんたいを<strong>かんそく</strong>する。",
+    "answer": "天体を<strong>観測</strong>する。"
+  },
+  {
+    "question": "がっこうには<strong>きりつ</strong>があります。",
+    "answer": "学校には<strong>規律</strong>があります。"
+  },
+  {
+    "question": "おてらには<strong>かいりつ</strong>があります。",
+    "answer": "お寺には<strong>戒律</strong>があります。"
+  },
+  {
+    "question": "かのじょの<strong>あしわざ</strong>はすばらしい。",
+    "answer": "彼女の<strong>足技</strong>は素晴らしい。"
+  },
+  {
+    "question": "わたしの<strong>とくぎ</strong>はすいえいです。",
+    "answer": "私の<strong>特技</strong>は水泳です。"
+  },
+  {
+    "question": "この<strong>ほうりつ</strong>はらいねんからしかたがかわります。",
+    "answer": "この<strong>法律</strong>は来年から仕方が変わります。"
+  },
+  {
+    "question": "この<strong>ぎじゅつ</strong>はむずかしいです。",
+    "answer": "この<strong>技術</strong>は難しいです。"
+  },
+  {
+    "question": "あめでかばんが<strong>しめる</strong>。",
+    "answer": "雨で鞄が<strong>湿る</strong>。"
+  },
+  {
+    "question": "ぬれたてを<strong>しめす</strong>。",
+    "answer": "濡れた手を<strong>湿す</strong>。"
+  },
+  {
+    "question": "なつは<strong>しっけ</strong>がおおいです。",
+    "answer": "夏は<strong>湿気</strong>が多いです。"
+  },
+  {
+    "question": "このほんの<strong>しょはん</strong>はとてもめずらしいです。",
+    "answer": "この本の<strong>初版</strong>はとても珍しいです。"
+  },
+  {
+    "question": "この<strong>はんが</strong>はうつくしいです。",
+    "answer": "この<strong>版画</strong>は美しいです。"
+  },
+  {
+    "question": "あたらしいほんを<strong>しゅっぱん</strong>しました。",
+    "answer": "新しい本を<strong>出版</strong>しました。"
   }
 ]
