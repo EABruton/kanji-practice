@@ -1,82 +1,58 @@
 [
   {
-    "question": "えきのまえに<strong>りっさつ</strong>がたっています。",
-    "answer": "駅の前に<strong>立札</strong>が立っています。"
+    "question": "ことしからせんせいが<strong>かわる</strong>。",
+    "answer": "今年から先生が<strong>替わる</strong>。"
   },
   {
-    "question": "ぎんこうで<strong>さつたば</strong>をうけとりました。",
-    "answer": "銀行で<strong>札束</strong>を受け取りました。"
+    "question": "でんきのスイッチを<strong>かえる</strong>。",
+    "answer": "電気のスイッチを<strong>替える</strong>。"
   },
   {
-    "question": "この<strong>げきじょう</strong>ではいろいろなえんげきがひらかれます。",
-    "answer": "この<strong>劇場</strong>ではいろいろな演劇が開かれます。"
+    "question": "このざいりょうは<strong>だいたい</strong>がききます。",
+    "answer": "この材料は<strong>代替</strong>が効きます。"
   },
   {
-    "question": "にほんの<strong>えんげき</strong>をみにいきました。",
-    "answer": "日本の<strong>演劇</strong>を見に行きました。"
+    "question": "あたらしい<strong>べんきょうづくえ</strong>をかいました。",
+    "answer": "新しい<strong>勉強机</strong>を買いました。"
   },
   {
-    "question": "この<strong>きげき</strong>はとてもおもしろかったです。",
-    "answer": "この<strong>喜劇</strong>はとても面白かったです。"
+    "question": "この<strong>つくえ</strong>はおもいです。",
+    "answer": "この<strong>机</strong>は重いです。"
   },
   {
-    "question": "あしたのてんきを<strong>よそく</strong>する。",
-    "answer": "明日の天気を<strong>予測</strong>する。"
+    "question": "これは<strong>きじょう</strong>のろんだけです。",
+    "answer": "これは<strong>机上</strong>の論だけです。"
   },
   {
-    "question": "ものさしでながさを<strong>はかる</strong>。",
-    "answer": "物差しで長さを<strong>測る</strong>。"
+    "question": "あのレストランの<strong>いたまえ</strong>はじょうずです。",
+    "answer": "あのレストランの<strong>板前</strong>は上手です。"
   },
   {
-    "question": "てんたいを<strong>かんそく</strong>する。",
-    "answer": "天体を<strong>観測</strong>する。"
+    "question": "みせの<strong>かんばん</strong>があたらしくなりました。",
+    "answer": "店の<strong>看板</strong>が新しくなりました。"
   },
   {
-    "question": "がっこうには<strong>きりつ</strong>があります。",
-    "answer": "学校には<strong>規律</strong>があります。"
+    "question": "かみの<strong>まいすう</strong>をかぞえてください。",
+    "answer": "紙の<strong>枚数</strong>を数えてください。"
   },
   {
-    "question": "おてらには<strong>かいりつ</strong>があります。",
-    "answer": "お寺には<strong>戒律</strong>があります。"
+    "question": "そのようなじれいは<strong>まいきょ</strong>にいとまがない。",
+    "answer": "そのような事例は<strong>枚挙</strong>に暇がない。"
   },
   {
-    "question": "かのじょの<strong>あしわざ</strong>はすばらしい。",
-    "answer": "彼女の<strong>足技</strong>は素晴らしい。"
+    "question": "きの<strong>えだ</strong>がおおきくのびています。",
+    "answer": "木の<strong>枝</strong>が大きく伸びています。"
   },
   {
-    "question": "わたしの<strong>とくぎ</strong>はすいえいです。",
-    "answer": "私の<strong>特技</strong>は水泳です。"
+    "question": "やなぎのえだがゆれながら<strong>しだれる</strong>。",
+    "answer": "柳の枝が揺れながら<strong>枝垂れる</strong>。"
   },
   {
-    "question": "この<strong>ほうりつ</strong>はらいねんからしかたがかわります。",
-    "answer": "この<strong>法律</strong>は来年から仕方が変わります。"
+    "question": "あきになると<strong>かれき</strong>がふえます。",
+    "answer": "秋になると<strong>枯れ木</strong>が増えます。"
   },
   {
-    "question": "この<strong>ぎじゅつ</strong>はむずかしいです。",
-    "answer": "この<strong>技術</strong>は難しいです。"
-  },
-  {
-    "question": "あめでかばんが<strong>しめる</strong>。",
-    "answer": "雨で鞄が<strong>湿る</strong>。"
-  },
-  {
-    "question": "ぬれたてを<strong>しめす</strong>。",
-    "answer": "濡れた手を<strong>湿す</strong>。"
-  },
-  {
-    "question": "なつは<strong>しっけ</strong>がおおいです。",
-    "answer": "夏は<strong>湿気</strong>が多いです。"
-  },
-  {
-    "question": "このほんの<strong>しょはん</strong>はとてもめずらしいです。",
-    "answer": "この本の<strong>初版</strong>はとても珍しいです。"
-  },
-  {
-    "question": "この<strong>はんが</strong>はうつくしいです。",
-    "answer": "この<strong>版画</strong>は美しいです。"
-  },
-  {
-    "question": "あたらしいほんを<strong>しゅっぱん</strong>しました。",
-    "answer": "新しい本を<strong>出版</strong>しました。"
+    "question": "せかいの<strong>えいこせいすい</strong>はかならずおとずれる。",
+    "answer": "世界の<strong>栄枯盛衰</strong>は必ず訪れる。"
   }
 ]
