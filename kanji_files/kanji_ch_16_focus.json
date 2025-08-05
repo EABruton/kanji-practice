@@ -1,58 +1,70 @@
 [
   {
-    "question": "ことしからせんせいが<strong>かわる</strong>。",
-    "answer": "今年から先生が<strong>替わる</strong>。"
+    "question": "このパンはとても<strong>やわらかい</strong>。",
+    "answer": "このパンはとても<strong>柔らかい</strong>。"
   },
   {
-    "question": "でんきのスイッチを<strong>かえる</strong>。",
-    "answer": "電気のスイッチを<strong>替える</strong>。"
+    "question": "わたしのむすこは<strong>じゅうどう</strong>をならっています。",
+    "answer": "私の息子は<strong>柔道</strong>を習っています。"
   },
   {
-    "question": "このざいりょうは<strong>だいたい</strong>がききます。",
-    "answer": "この材料は<strong>代替</strong>が効きます。"
+    "question": "かれは<strong>ゆうじゅうふだん</strong>でけっこうができない。",
+    "answer": "彼は<strong>優柔不断</strong>で決行ができない。"
   },
   {
-    "question": "あたらしい<strong>べんきょうづくえ</strong>をかいました。",
-    "answer": "新しい<strong>勉強机</strong>を買いました。"
+    "question": "みちに<strong>でんちゅう</strong>がたっている。",
+    "answer": "道に<strong>電柱</strong>が立っている。"
   },
   {
-    "question": "この<strong>つくえ</strong>はおもいです。",
-    "answer": "この<strong>机</strong>は重いです。"
+    "question": "いえの<strong>はしら</strong>がふるくなりました。",
+    "answer": "家の<strong>柱</strong>が古くなりました。"
   },
   {
-    "question": "これは<strong>きじょう</strong>のろんだけです。",
-    "answer": "これは<strong>机上</strong>の論だけです。"
+    "question": "おちゃに<strong>ちゃばしら</strong>がたった。",
+    "answer": "お茶に<strong>茶柱</strong>が立った。"
   },
   {
-    "question": "あのレストランの<strong>いたまえ</strong>はじょうずです。",
-    "answer": "あのレストランの<strong>板前</strong>は上手です。"
+    "question": "このたてものは<strong>えんちゅう</strong>がたくさんある。",
+    "answer": "この建物は<strong>円柱</strong>がたくさんある。"
   },
   {
-    "question": "みせの<strong>かんばん</strong>があたらしくなりました。",
-    "answer": "店の<strong>看板</strong>が新しくなりました。"
+    "question": "このじけんについて<strong>ちょうさ</strong>をしています。",
+    "answer": "この事件について<strong>調査</strong>をしています。"
   },
   {
-    "question": "かみの<strong>まいすう</strong>をかぞえてください。",
-    "answer": "紙の<strong>枚数</strong>を数えてください。"
+    "question": "しんせつの<strong>しんさ</strong>におわりました。",
+    "answer": "新説の<strong>審査</strong>に終わりました。"
   },
   {
-    "question": "そのようなじれいは<strong>まいきょ</strong>にいとまがない。",
-    "answer": "そのような事例は<strong>枚挙</strong>に暇がない。"
+    "question": "びょういんで<strong>けんさ</strong>をうけました。",
+    "answer": "病院で<strong>検査</strong>を受けました。"
   },
   {
-    "question": "きの<strong>えだ</strong>がおおきくのびています。",
-    "answer": "木の<strong>枝</strong>が大きく伸びています。"
+    "question": "きの<strong>ね</strong>がじょうぶです。",
+    "answer": "木の<strong>根</strong>が丈夫です。"
   },
   {
-    "question": "やなぎのえだがゆれながら<strong>しだれる</strong>。",
-    "answer": "柳の枝が揺れながら<strong>枝垂れる</strong>。"
+    "question": "このろんぶんは<strong>こんきょ</strong>がしっかりしている。",
+    "answer": "この論文は<strong>根拠</strong>がしっかりしている。"
   },
   {
-    "question": "あきになると<strong>かれき</strong>がふえます。",
-    "answer": "秋になると<strong>枯れ木</strong>が増えます。"
+    "question": "うんどうかいで<strong>てつぼう</strong>をしました。",
+    "answer": "運動会で<strong>鉄棒</strong>をしました。"
   },
   {
-    "question": "せかいの<strong>えいこせいすい</strong>はかならずおとずれる。",
-    "answer": "世界の<strong>栄枯盛衰</strong>は必ず訪れる。"
+    "question": "あのひとは<strong>ぼうよみ</strong>でほんをよむ。",
+    "answer": "あの人は<strong>棒読み</strong>で本を読む。"
+  },
+  {
+    "question": "みみそうじに<strong>めんぼう</strong>をつかいます。",
+    "answer": "耳掃除に<strong>綿棒</strong>を使います。"
+  },
+  {
+    "question": "<strong>おうべい</strong>のぶんかにはきょうみがあります。",
+    "answer": "<strong>欧米</strong>の文化には興味があります。"
+  },
+  {
+    "question": "らいねん<strong>おうしゅう</strong>をりょこうします。",
+    "answer": "来年<strong>欧州</strong>を旅行します。"
   }
 ]

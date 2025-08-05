@@ -274,5 +274,73 @@
   {
     "question": "せかいの<strong>えいこせいすい</strong>はかならずおとずれる。",
     "answer": "世界の<strong>栄枯盛衰</strong>は必ず訪れる。"
+  },
+  {
+    "question": "このパンはとても<strong>やわらかい</strong>。",
+    "answer": "このパンはとても<strong>柔らかい</strong>。"
+  },
+  {
+    "question": "わたしのむすこは<strong>じゅうどう</strong>をならっています。",
+    "answer": "私の息子は<strong>柔道</strong>を習っています。"
+  },
+  {
+    "question": "かれは<strong>ゆうじゅうふだん</strong>でけっこうができない。",
+    "answer": "彼は<strong>優柔不断</strong>で決行ができない。"
+  },
+  {
+    "question": "みちに<strong>でんちゅう</strong>がたっている。",
+    "answer": "道に<strong>電柱</strong>が立っている。"
+  },
+  {
+    "question": "いえの<strong>はしら</strong>がふるくなりました。",
+    "answer": "家の<strong>柱</strong>が古くなりました。"
+  },
+  {
+    "question": "おちゃに<strong>ちゃばしら</strong>がたった。",
+    "answer": "お茶に<strong>茶柱</strong>が立った。"
+  },
+  {
+    "question": "このたてものは<strong>えんちゅう</strong>がたくさんある。",
+    "answer": "この建物は<strong>円柱</strong>がたくさんある。"
+  },
+  {
+    "question": "このじけんについて<strong>ちょうさ</strong>をしています。",
+    "answer": "この事件について<strong>調査</strong>をしています。"
+  },
+  {
+    "question": "しんせつの<strong>しんさ</strong>におわりました。",
+    "answer": "新説の<strong>審査</strong>に終わりました。"
+  },
+  {
+    "question": "びょういんで<strong>けんさ</strong>をうけました。",
+    "answer": "病院で<strong>検査</strong>を受けました。"
+  },
+  {
+    "question": "きの<strong>ね</strong>がじょうぶです。",
+    "answer": "木の<strong>根</strong>が丈夫です。"
+  },
+  {
+    "question": "このろんぶんは<strong>こんきょ</strong>がしっかりしている。",
+    "answer": "この論文は<strong>根拠</strong>がしっかりしている。"
+  },
+  {
+    "question": "うんどうかいで<strong>てつぼう</strong>をしました。",
+    "answer": "運動会で<strong>鉄棒</strong>をしました。"
+  },
+  {
+    "question": "あのひとは<strong>ぼうよみ</strong>でほんをよむ。",
+    "answer": "あの人は<strong>棒読み</strong>で本を読む。"
+  },
+  {
+    "question": "みみそうじに<strong>めんぼう</strong>をつかいます。",
+    "answer": "耳掃除に<strong>綿棒</strong>を使います。"
+  },
+  {
+    "question": "<strong>おうべい</strong>のぶんかにはきょうみがあります。",
+    "answer": "<strong>欧米</strong>の文化には興味があります。"
+  },
+  {
+    "question": "らいねん<strong>おうしゅう</strong>をりょこうします。",
+    "answer": "来年<strong>欧州</strong>を旅行します。"
   }
 ]
