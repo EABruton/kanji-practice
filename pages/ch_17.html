@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 17</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 17</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "にわの<strong>くさ</strong>をとりました。",
+          answer: "庭の<strong>草</strong>を取りました。",
+        },
+        {
+          question: "モンゴルの<strong>そうげん</strong>はひろいです。",
+          answer: "モンゴルの<strong>草原</strong>は広いです。",
+        },
+        {
+          question: "このどうぐは<strong>かち</strong>があります。",
+          answer: "この道具は<strong>価値</strong>があります。",
+        },
+        {
+          question: "この<strong>ね</strong>はあんしんです。",
+          answer: "この<strong>値</strong>は安心です。",
+        },
+        {
+          question: "このほんの<strong>ねだん</strong>はいくらですか。",
+          answer: "この本の<strong>値段</strong>はいくらですか。",
+        },
+        {
+          question: "メールの<strong>けんめい</strong>をかいてください。",
+          answer: "メールの<strong>件名</strong>を書いてください。",
+        },
+        {
+          question: "この<strong>ぶっけん</strong>はとてもいいです。",
+          answer: "この<strong>物件</strong>はとてもいいです。",
+        },
+        {
+          question: "このしごとには<strong>じょうけん</strong>があります。",
+          answer: "この仕事には<strong>条件</strong>があります。",
+        },
+        {
+          question: "そのひ<strong>いらい</strong>、かれにあっていません。",
+          answer: "その日<strong>以来</strong>、彼に会っていません。",
+        },
+        {
+          question: "ちょっと<strong>たのむ</strong>ことがあります。",
+          answer: "ちょっと<strong>頼む</strong>ことがあります。",
+        },
+        {
+          question: "ともだちに<strong>たよる</strong>。",
+          answer: "友達に<strong>頼る</strong>。",
+        },
+        {
+          question: "かれは<strong>たのもしい</strong>にんげんです。",
+          answer: "彼は<strong>頼もしい</strong>人間です。",
+        },
+        {
+          question: "おたがいの<strong>しんらい</strong>がたいせつです。",
+          answer: "お互いの<strong>信頼</strong>が大切です。",
+        },
+        {
+          question: "みぎに<strong>よる</strong>。",
+          answer: "右に<strong>寄る</strong>。",
+        },
+        {
+          question: "いすをかべに<strong>よせる</strong>。",
+          answer: "椅子を壁に<strong>寄せる</strong>。",
+        },
+        {
+          question: "じしんの<strong>きふきん</strong>をおくりました。",
+          answer: "地震の<strong>寄付金</strong>を送りました。",
+        },
+        {
+          question: "この<strong>はっそう</strong>はすばらしいです。",
+          answer: "この<strong>発想</strong>は素晴らしいです。",
+        },
+        {
+          question: "あしたのてんきを<strong>よそう</strong>する。",
+          answer: "明日の天気を<strong>予想</strong>する。",
+        },
+        {
+          question: "かのじょは<strong>あいそ</strong>がいいです。",
+          answer: "彼女は<strong>愛想</strong>がいいです。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
