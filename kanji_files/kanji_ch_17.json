@@ -170,5 +170,65 @@
   {
     "question": "さむいので<strong>もうふ</strong>をかけた。",
     "answer": "寒いので<strong>毛布</strong>をかけた。"
+  },
+  {
+    "question": "こうえんに<strong>いけ</strong>があります。",
+    "answer": "公園に<strong>池</strong>があります。"
+  },
+  {
+    "question": "でんきでんわの<strong>でんち</strong>がきれました。",
+    "answer": "携帯電話の<strong>電池</strong>が切れました。"
+  },
+  {
+    "question": "ふねがうみに<strong>しずむ</strong>。",
+    "answer": "船が海に<strong>沈む</strong>。"
+  },
+  {
+    "question": "へやに<strong>ちんもく</strong>がひびく。",
+    "answer": "部屋に<strong>沈黙</strong>が響く。"
+  },
+  {
+    "question": "みずの<strong>ふってん</strong>は100どです。",
+    "answer": "水の<strong>沸点</strong>は100度です。"
+  },
+  {
+    "question": "やかんのおゆが<strong>わく</strong>。",
+    "answer": "やかんのお湯が<strong>沸く</strong>。"
+  },
+  {
+    "question": "おゆが<strong>ふっとう</strong>している。",
+    "answer": "お湯が<strong>沸騰</strong>している。"
+  },
+  {
+    "question": "やまに<strong>いずみ</strong>がわいている。",
+    "answer": "山に<strong>泉</strong>が湧いている。"
+  },
+  {
+    "question": "にほんには<strong>おんせん</strong>がたくさんあります。",
+    "answer": "日本には<strong>温泉</strong>がたくさんあります。"
+  },
+  {
+    "question": "このかわは<strong>あさい</strong>のであんぜんです。",
+    "answer": "この川は<strong>浅い</strong>ので安全です。"
+  },
+  {
+    "question": "<strong>せんかい</strong>にはたくさんのさかながすんでいます。",
+    "answer": "<strong>浅海</strong>にはたくさんの魚が住んでいます。"
+  },
+  {
+    "question": "あさシャワーを<strong>あびる</strong>。",
+    "answer": "朝シャワーを<strong>浴びる</strong>。"
+  },
+  {
+    "question": "なつは<strong>かいすいよく</strong>にいきます。",
+    "answer": "夏は<strong>海水浴</strong>に行きます。"
+  },
+  {
+    "question": "かなしくて<strong>なみだ</strong>がでた。",
+    "answer": "悲しくて<strong>涙</strong>が出た。"
+  },
+  {
+    "question": "えがおまんがで<strong>るいせん</strong>がゆるんだ。",
+    "answer": "笑顔満開で<strong>涙腺</strong>が緩んだ。"
   }
 ]

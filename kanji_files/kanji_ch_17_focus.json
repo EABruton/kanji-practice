@@ -1,42 +1,62 @@
 [
   {
-    "question": "にわにさくらを<strong>うえる</strong>。",
-    "answer": "庭に桜を<strong>植える</strong>。"
+    "question": "こうえんに<strong>いけ</strong>があります。",
+    "answer": "公園に<strong>池</strong>があります。"
   },
   {
-    "question": "やまに<strong>しょくりん</strong>をする。",
-    "answer": "山に<strong>植林</strong>をする。"
+    "question": "でんきでんわの<strong>でんち</strong>がきれました。",
+    "answer": "携帯電話の<strong>電池</strong>が切れました。"
   },
   {
-    "question": "かいしゃはよい<strong>じんざい</strong>がほしい。",
-    "answer": "会社はよい<strong>人材</strong>が欲しい。"
+    "question": "ふねがうみに<strong>しずむ</strong>。",
+    "answer": "船が海に<strong>沈む</strong>。"
   },
   {
-    "question": "にほんの<strong>ぶどう</strong>にはじゅうどうやけんどうがある。",
-    "answer": "日本の<strong>武道</strong>には柔道や剣道がある。"
+    "question": "へやに<strong>ちんもく</strong>がひびく。",
+    "answer": "部屋に<strong>沈黙</strong>が響く。"
   },
   {
-    "question": "おうさまは<strong>きゅうでん</strong>にすんでいます。",
-    "answer": "王様は<strong>宮殿</strong>に住んでいます。"
+    "question": "みずの<strong>ふってん</strong>は100どです。",
+    "answer": "水の<strong>沸点</strong>は100度です。"
   },
   {
-    "question": "この<strong>ごてん</strong>はひろくてりっぱです。",
-    "answer": "この<strong>御殿</strong>は広くて立派です。"
+    "question": "やかんのおゆが<strong>わく</strong>。",
+    "answer": "やかんのお湯が<strong>沸く</strong>。"
   },
   {
-    "question": "<strong>たろうどの</strong>へおてがみをだしました。",
-    "answer": "<strong>太郎殿</strong>へお手紙を出しました。"
+    "question": "おゆが<strong>ふっとう</strong>している。",
+    "answer": "お湯が<strong>沸騰</strong>している。"
   },
   {
-    "question": "かのじょは<strong>どくぜつ</strong>でゆうめいだ。",
-    "answer": "彼女は<strong>毒舌</strong>で有名だ。"
+    "question": "やまに<strong>いずみ</strong>がわいている。",
+    "answer": "山に<strong>泉</strong>が湧いている。"
   },
   {
-    "question": "あかちゃんに<strong>けいと</strong>のセーターをあみました。",
-    "answer": "赤ちゃんに<strong>毛糸</strong>のセーターを編みました。"
+    "question": "にほんには<strong>おんせん</strong>がたくさんあります。",
+    "answer": "日本には<strong>温泉</strong>がたくさんあります。"
   },
   {
-    "question": "さむいので<strong>もうふ</strong>をかけた。",
-    "answer": "寒いので<strong>毛布</strong>をかけた。"
+    "question": "このかわは<strong>あさい</strong>のであんぜんです。",
+    "answer": "この川は<strong>浅い</strong>ので安全です。"
+  },
+  {
+    "question": "<strong>せんかい</strong>にはたくさんのさかながすんでいます。",
+    "answer": "<strong>浅海</strong>にはたくさんの魚が住んでいます。"
+  },
+  {
+    "question": "あさシャワーを<strong>あびる</strong>。",
+    "answer": "朝シャワーを<strong>浴びる</strong>。"
+  },
+  {
+    "question": "なつは<strong>かいすいよく</strong>にいきます。",
+    "answer": "夏は<strong>海水浴</strong>に行きます。"
+  },
+  {
+    "question": "かなしくて<strong>なみだ</strong>がでた。",
+    "answer": "悲しくて<strong>涙</strong>が出た。"
+  },
+  {
+    "question": "えがおまんがで<strong>るいせん</strong>がゆるんだ。",
+    "answer": "笑顔満開で<strong>涙腺</strong>が緩んだ。"
   }
 ]
