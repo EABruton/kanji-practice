@@ -1,62 +1,46 @@
 [
   {
-    "question": "こうえんに<strong>いけ</strong>があります。",
-    "answer": "公園に<strong>池</strong>があります。"
+    "question": "びょういんで<strong>けつえき</strong>けんさをうけました。",
+    "answer": "病院で<strong>血液</strong>検査を受けました。"
   },
   {
-    "question": "でんきでんわの<strong>でんち</strong>がきれました。",
-    "answer": "携帯電話の<strong>電池</strong>が切れました。"
+    "question": "はりがみをかべに<strong>はる</strong>。",
+    "answer": "貼り紙を壁に<strong>貼る</strong>。"
   },
   {
-    "question": "ふねがうみに<strong>しずむ</strong>。",
-    "answer": "船が海に<strong>沈む</strong>。"
+    "question": "この<strong>みずうみ</strong>はとてもきれいです。",
+    "answer": "この<strong>湖</strong>はとてもきれいです。"
   },
   {
-    "question": "へやに<strong>ちんもく</strong>がひびく。",
-    "answer": "部屋に<strong>沈黙</strong>が響く。"
+    "question": "<strong>びわこ</strong>はにほんいちおおきいみずうみです。",
+    "answer": "<strong>琵琶湖</strong>は日本一大きい湖です。"
   },
   {
-    "question": "みずの<strong>ふってん</strong>は100どです。",
-    "answer": "水の<strong>沸点</strong>は100度です。"
+    "question": "<strong>ねっとう</strong>にちゅういしてください。",
+    "answer": "<strong>熱湯</strong>に注意してください。"
   },
   {
-    "question": "やかんのおゆが<strong>わく</strong>。",
-    "answer": "やかんのお湯が<strong>沸く</strong>。"
+    "question": "コーヒーに<strong>おゆ</strong>をいれる。",
+    "answer": "コーヒーに<strong>お湯</strong>を入れる。"
   },
   {
-    "question": "おゆが<strong>ふっとう</strong>している。",
-    "answer": "お湯が<strong>沸騰</strong>している。"
+    "question": "まちの<strong>せんとう</strong>にいきました。",
+    "answer": "町の<strong>銭湯</strong>に行きました。"
   },
   {
-    "question": "やまに<strong>いずみ</strong>がわいている。",
-    "answer": "山に<strong>泉</strong>が湧いている。"
+    "question": "<strong>とうきょうわん</strong>からふじさんがみえます。",
+    "answer": "<strong>東京湾</strong>から富士山が見えます。"
   },
   {
-    "question": "にほんには<strong>おんせん</strong>がたくさんあります。",
-    "answer": "日本には<strong>温泉</strong>がたくさんあります。"
+    "question": "<strong>わんがん</strong>どうろをはしります。",
+    "answer": "<strong>湾岸</strong>道路を走ります。"
   },
   {
-    "question": "このかわは<strong>あさい</strong>のであんぜんです。",
-    "answer": "この川は<strong>浅い</strong>ので安全です。"
+    "question": "あつさでアイスクリームが<strong>とける</strong>。",
+    "answer": "暑さでアイスクリームが<strong>溶ける</strong>。"
   },
   {
-    "question": "<strong>せんかい</strong>にはたくさんのさかながすんでいます。",
-    "answer": "<strong>浅海</strong>にはたくさんの魚が住んでいます。"
-  },
-  {
-    "question": "あさシャワーを<strong>あびる</strong>。",
-    "answer": "朝シャワーを<strong>浴びる</strong>。"
-  },
-  {
-    "question": "なつは<strong>かいすいよく</strong>にいきます。",
-    "answer": "夏は<strong>海水浴</strong>に行きます。"
-  },
-  {
-    "question": "かなしくて<strong>なみだ</strong>がでた。",
-    "answer": "悲しくて<strong>涙</strong>が出た。"
-  },
-  {
-    "question": "えがおまんがで<strong>るいせん</strong>がゆるんだ。",
-    "answer": "笑顔満開で<strong>涙腺</strong>が緩んだ。"
+    "question": "かざんから<strong>ようがん</strong>がでています。",
+    "answer": "火山から<strong>溶岩</strong>が出ています。"
   }
 ]
