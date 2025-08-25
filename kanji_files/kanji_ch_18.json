@@ -46,5 +46,61 @@
   {
     "question": "<strong>はねだ</strong>くうこうからしゅっぱつします。",
     "answer": "<strong>羽田</strong>空港から出発します。"
+  },
+  {
+    "question": "さかなの<strong>らんかく</strong>がもんだいになっている。",
+    "answer": "魚の<strong>乱獲</strong>が問題になっている。"
+  },
+  {
+    "question": "へやが<strong>みだれる</strong>。",
+    "answer": "部屋が<strong>乱れる</strong>。"
+  },
+  {
+    "question": "このまちにはゆうめいな<strong>さかぐら</strong>があります。",
+    "answer": "この町には有名な<strong>酒蔵</strong>があります。"
+  },
+  {
+    "question": "たべものを<strong>れいぞうこ</strong>にいれる。",
+    "answer": "食べ物を<strong>冷蔵庫</strong>に入れる。"
+  },
+  {
+    "question": "ごようけんを<strong>うけたまわる</strong>。",
+    "answer": "ご用件を<strong>承る</strong>。"
+  },
+  {
+    "question": "このけっかは<strong>しょうにん</strong>されました。",
+    "answer": "この結果は<strong>承認</strong>されました。"
+  },
+  {
+    "question": "バーベキューに<strong>すみ</strong>をつかう。",
+    "answer": "バーベキューに<strong>炭</strong>を使う。"
+  },
+  {
+    "question": "あついひは<strong>たんさんすい</strong>がおいしい。",
+    "answer": "暑い日は<strong>炭酸水</strong>がおいしい。"
+  },
+  {
+    "question": "アフリカの<strong>さばく</strong>をりょこうした。",
+    "answer": "アフリカの<strong>砂漠</strong>を旅行した。"
+  },
+  {
+    "question": "はまべで<strong>すな</strong>あそびをする。",
+    "answer": "浜辺で<strong>砂</strong>遊びをする。"
+  },
+  {
+    "question": "あめで<strong>どしゃ</strong>くずれがおきた。",
+    "answer": "雨で<strong>土砂</strong>崩れが起きた。"
+  },
+  {
+    "question": "この<strong>じかんたい</strong>はでんわがこみあう。",
+    "answer": "この<strong>時間帯</strong>は電話が混み合う。"
+  },
+  {
+    "question": "わふくに<strong>おび</strong>をしめる。",
+    "answer": "和服に<strong>帯</strong>を締める。"
+  },
+  {
+    "question": "わたしの<strong>けいたい</strong>はあかいです。",
+    "answer": "私の<strong>携帯</strong>は赤いです。"
   }
 ]

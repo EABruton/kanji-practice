@@ -1,50 +1,58 @@
 [
   {
-    "question": "いらないものを<strong>しょぶん</strong>する。",
-    "answer": "いらないものを<strong>処分</strong>する。"
+    "question": "さかなの<strong>らんかく</strong>がもんだいになっている。",
+    "answer": "魚の<strong>乱獲</strong>が問題になっている。"
   },
   {
-    "question": "このどうぶつは<strong>ぜつめつ</strong>のききにあります。",
-    "answer": "この動物は<strong>絶滅</strong>の危機にあります。"
+    "question": "へやが<strong>みだれる</strong>。",
+    "answer": "部屋が<strong>乱れる</strong>。"
   },
   {
-    "question": "かれとのれんらくが<strong>たえる</strong>。",
-    "answer": "彼との連絡が<strong>絶える</strong>。"
+    "question": "このまちにはゆうめいな<strong>さかぐら</strong>があります。",
+    "answer": "この町には有名な<strong>酒蔵</strong>があります。"
   },
   {
-    "question": "この<strong>たね</strong>からはながさく。",
-    "answer": "この<strong>種</strong>から花が咲く。"
+    "question": "たべものを<strong>れいぞうこ</strong>にいれる。",
+    "answer": "食べ物を<strong>冷蔵庫</strong>に入れる。"
   },
   {
-    "question": "このみせにはいろいろな<strong>しゅるい</strong>のほんがあります。",
-    "answer": "この店にはいろいろな<strong>種類</strong>の本があります。"
+    "question": "ごようけんを<strong>うけたまわる</strong>。",
+    "answer": "ご用件を<strong>承る</strong>。"
   },
   {
-    "question": "けがをして<strong>いしき</strong>をうしなった。",
-    "answer": "怪我をして<strong>意識</strong>を失った。"
+    "question": "このけっかは<strong>しょうにん</strong>されました。",
+    "answer": "この結果は<strong>承認</strong>されました。"
   },
   {
-    "question": "じぶんのしてきたことを<strong>かえりみる</strong>。",
-    "answer": "自分のしてきたことを<strong>省みる</strong>。"
+    "question": "バーベキューに<strong>すみ</strong>をつかう。",
+    "answer": "バーベキューに<strong>炭</strong>を使う。"
   },
   {
-    "question": "なつやすみに<strong>きせい</strong>する。",
-    "answer": "夏休みに<strong>帰省</strong>する。"
+    "question": "あついひは<strong>たんさんすい</strong>がおいしい。",
+    "answer": "暑い日は<strong>炭酸水</strong>がおいしい。"
   },
   {
-    "question": "にわとりが<strong>ごわ</strong>います。",
-    "answer": "鶏が<strong>5羽</strong>います。"
+    "question": "アフリカの<strong>さばく</strong>をりょこうした。",
+    "answer": "アフリカの<strong>砂漠</strong>を旅行した。"
   },
   {
-    "question": "あたたかい<strong>うもうぶとん</strong>でねます。",
-    "answer": "暖かい<strong>羽毛布団</strong>で寝ます。"
+    "question": "はまべで<strong>すな</strong>あそびをする。",
+    "answer": "浜辺で<strong>砂</strong>遊びをする。"
   },
   {
-    "question": "とりが<strong>はね</strong>をはばたかせる。",
-    "answer": "鳥が<strong>羽</strong>を羽ばたかせる。"
+    "question": "あめで<strong>どしゃ</strong>くずれがおきた。",
+    "answer": "雨で<strong>土砂</strong>崩れが起きた。"
   },
   {
-    "question": "<strong>はねだ</strong>くうこうからしゅっぱつします。",
-    "answer": "<strong>羽田</strong>空港から出発します。"
+    "question": "この<strong>じかんたい</strong>はでんわがこみあう。",
+    "answer": "この<strong>時間帯</strong>は電話が混み合う。"
+  },
+  {
+    "question": "わふくに<strong>おび</strong>をしめる。",
+    "answer": "和服に<strong>帯</strong>を締める。"
+  },
+  {
+    "question": "わたしの<strong>けいたい</strong>はあかいです。",
+    "answer": "私の<strong>携帯</strong>は赤いです。"
   }
 ]
