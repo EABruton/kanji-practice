@@ -1,58 +1,46 @@
 [
   {
-    "question": "さかなの<strong>らんかく</strong>がもんだいになっている。",
-    "answer": "魚の<strong>乱獲</strong>が問題になっている。"
+    "question": "ペットボトルを<strong>さいりよう</strong>する。",
+    "answer": "ペットボトルを<strong>再利用</strong>する。"
   },
   {
-    "question": "へやが<strong>みだれる</strong>。",
-    "answer": "部屋が<strong>乱れる</strong>。"
+    "question": "<strong>ふたたび</strong>あえるひをたのしみにしています。",
+    "answer": "<strong>再び</strong>会える日を楽しみにしています。"
   },
   {
-    "question": "このまちにはゆうめいな<strong>さかぐら</strong>があります。",
-    "answer": "この町には有名な<strong>酒蔵</strong>があります。"
+    "question": "<strong>さらいげつ</strong>にりょこうのよていです。",
+    "answer": "<strong>再来月</strong>に旅行の予定です。"
   },
   {
-    "question": "たべものを<strong>れいぞうこ</strong>にいれる。",
-    "answer": "食べ物を<strong>冷蔵庫</strong>に入れる。"
+    "question": "あしたそちらに<strong>うかがう</strong>よていです。",
+    "answer": "明日そちらに<strong>伺う</strong>予定です。"
   },
   {
-    "question": "ごようけんを<strong>うけたまわる</strong>。",
-    "answer": "ご用件を<strong>承る</strong>。"
+    "question": "<strong>ぼうりょく</strong>はけっていしてゆるせません。",
+    "answer": "<strong>暴力</strong>は決して許せません。"
   },
   {
-    "question": "このけっかは<strong>しょうにん</strong>されました。",
-    "answer": "この結果は<strong>承認</strong>されました。"
+    "question": "こどもがこうえんで<strong>あばれる</strong>。",
+    "answer": "子どもが公園で<strong>暴れる</strong>。"
   },
   {
-    "question": "バーベキューに<strong>すみ</strong>をつかう。",
-    "answer": "バーベキューに<strong>炭</strong>を使う。"
+    "question": "スーパーで<strong>たいりょう</strong>にかいました。",
+    "answer": "スーパーで<strong>大量</strong>に買いました。"
   },
   {
-    "question": "あついひは<strong>たんさんすい</strong>がおいしい。",
-    "answer": "暑い日は<strong>炭酸水</strong>がおいしい。"
+    "question": "このコップの<strong>りょう</strong>はおおきいです。",
+    "answer": "このコップの<strong>量</strong>は大きいです。"
   },
   {
-    "question": "アフリカの<strong>さばく</strong>をりょこうした。",
-    "answer": "アフリカの<strong>砂漠</strong>を旅行した。"
+    "question": "このくるまは<strong>そうはいしゅつりょう</strong>がすくない。",
+    "answer": "この車は<strong>総排出量</strong>が少ない。"
   },
   {
-    "question": "はまべで<strong>すな</strong>あそびをする。",
-    "answer": "浜辺で<strong>砂</strong>遊びをする。"
+    "question": "びょうきを<strong>ふせぐ</strong>。",
+    "answer": "病気を<strong>防ぐ</strong>。"
   },
   {
-    "question": "あめで<strong>どしゃ</strong>くずれがおきた。",
-    "answer": "雨で<strong>土砂</strong>崩れが起きた。"
-  },
-  {
-    "question": "この<strong>じかんたい</strong>はでんわがこみあう。",
-    "answer": "この<strong>時間帯</strong>は電話が混み合う。"
-  },
-  {
-    "question": "わふくに<strong>おび</strong>をしめる。",
-    "answer": "和服に<strong>帯</strong>を締める。"
-  },
-  {
-    "question": "わたしの<strong>けいたい</strong>はあかいです。",
-    "answer": "私の<strong>携帯</strong>は赤いです。"
+    "question": "かぜの<strong>よぼう</strong>にきをつけてください。",
+    "answer": "風邪の<strong>予防</strong>に気をつけてください。"
   }
 ]
