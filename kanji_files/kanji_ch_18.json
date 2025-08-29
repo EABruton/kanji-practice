@@ -146,5 +146,53 @@
   {
     "question": "かぜの<strong>よぼう</strong>にきをつけてください。",
     "answer": "風邪の<strong>予防</strong>に気をつけてください。"
+  },
+  {
+    "question": "はなびらに<strong>すいてき</strong>がついている。",
+    "answer": "花びらに<strong>水滴</strong>がついている。"
+  },
+  {
+    "question": "みずの<strong>しずく</strong>がおちる。",
+    "answer": "水の<strong>滴</strong>が落ちる。"
+  },
+  {
+    "question": "あめがやねから<strong>したたる</strong>。",
+    "answer": "雨が屋根から<strong>滴る</strong>。"
+  },
+  {
+    "question": "このまちは<strong>ぎょぎょう</strong>がさかんです。",
+    "answer": "この町は<strong>漁業</strong>が盛んです。"
+  },
+  {
+    "question": "わたしのおじいは<strong>りょうし</strong>です。",
+    "answer": "私の祖父は<strong>漁師</strong>です。"
+  },
+  {
+    "question": "このコーヒーは<strong>こい</strong>。",
+    "answer": "このコーヒーは<strong>濃い</strong>。"
+  },
+  {
+    "question": "このケーキは<strong>のうこう</strong>なあじがする。",
+    "answer": "このケーキは<strong>濃厚</strong>な味がする。"
+  },
+  {
+    "question": "ようふくを<strong>せんたく</strong>する。",
+    "answer": "洋服を<strong>洗濯</strong>する。"
+  },
+  {
+    "question": "うみべに<strong>とうだい</strong>がたっている。",
+    "answer": "海辺に<strong>灯台</strong>が立っている。"
+  },
+  {
+    "question": "そらが<strong>はいいろ</strong>になる。",
+    "answer": "空が<strong>灰色</strong>になる。"
+  },
+  {
+    "question": "かざんのふんかで<strong>かざんばい</strong>がふった。",
+    "answer": "火山の噴火で<strong>火山灰</strong>が降った。"
+  },
+  {
+    "question": "にわに<strong>せっかい</strong>をまく。",
+    "answer": "庭に<strong>石灰</strong>をまく。"
   }
 ]

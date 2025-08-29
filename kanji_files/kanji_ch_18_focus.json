@@ -1,46 +1,50 @@
 [
   {
-    "question": "ペットボトルを<strong>さいりよう</strong>する。",
-    "answer": "ペットボトルを<strong>再利用</strong>する。"
+    "question": "はなびらに<strong>すいてき</strong>がついている。",
+    "answer": "花びらに<strong>水滴</strong>がついている。"
   },
   {
-    "question": "<strong>ふたたび</strong>あえるひをたのしみにしています。",
-    "answer": "<strong>再び</strong>会える日を楽しみにしています。"
+    "question": "みずの<strong>しずく</strong>がおちる。",
+    "answer": "水の<strong>滴</strong>が落ちる。"
   },
   {
-    "question": "<strong>さらいげつ</strong>にりょこうのよていです。",
-    "answer": "<strong>再来月</strong>に旅行の予定です。"
+    "question": "あめがやねから<strong>したたる</strong>。",
+    "answer": "雨が屋根から<strong>滴る</strong>。"
   },
   {
-    "question": "あしたそちらに<strong>うかがう</strong>よていです。",
-    "answer": "明日そちらに<strong>伺う</strong>予定です。"
+    "question": "このまちは<strong>ぎょぎょう</strong>がさかんです。",
+    "answer": "この町は<strong>漁業</strong>が盛んです。"
   },
   {
-    "question": "<strong>ぼうりょく</strong>はけっていしてゆるせません。",
-    "answer": "<strong>暴力</strong>は決して許せません。"
+    "question": "わたしのおじいは<strong>りょうし</strong>です。",
+    "answer": "私の祖父は<strong>漁師</strong>です。"
   },
   {
-    "question": "こどもがこうえんで<strong>あばれる</strong>。",
-    "answer": "子どもが公園で<strong>暴れる</strong>。"
+    "question": "このコーヒーは<strong>こい</strong>。",
+    "answer": "このコーヒーは<strong>濃い</strong>。"
   },
   {
-    "question": "スーパーで<strong>たいりょう</strong>にかいました。",
-    "answer": "スーパーで<strong>大量</strong>に買いました。"
+    "question": "このケーキは<strong>のうこう</strong>なあじがする。",
+    "answer": "このケーキは<strong>濃厚</strong>な味がする。"
   },
   {
-    "question": "このコップの<strong>りょう</strong>はおおきいです。",
-    "answer": "このコップの<strong>量</strong>は大きいです。"
+    "question": "ようふくを<strong>せんたく</strong>する。",
+    "answer": "洋服を<strong>洗濯</strong>する。"
   },
   {
-    "question": "このくるまは<strong>そうはいしゅつりょう</strong>がすくない。",
-    "answer": "この車は<strong>総排出量</strong>が少ない。"
+    "question": "うみべに<strong>とうだい</strong>がたっている。",
+    "answer": "海辺に<strong>灯台</strong>が立っている。"
   },
   {
-    "question": "びょうきを<strong>ふせぐ</strong>。",
-    "answer": "病気を<strong>防ぐ</strong>。"
+    "question": "そらが<strong>はいいろ</strong>になる。",
+    "answer": "空が<strong>灰色</strong>になる。"
   },
   {
-    "question": "かぜの<strong>よぼう</strong>にきをつけてください。",
-    "answer": "風邪の<strong>予防</strong>に気をつけてください。"
+    "question": "かざんのふんかで<strong>かざんばい</strong>がふった。",
+    "answer": "火山の噴火で<strong>火山灰</strong>が降った。"
+  },
+  {
+    "question": "にわに<strong>せっかい</strong>をまく。",
+    "answer": "庭に<strong>石灰</strong>をまく。"
   }
 ]
