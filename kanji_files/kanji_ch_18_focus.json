@@ -1,50 +1,58 @@
 [
   {
-    "question": "はなびらに<strong>すいてき</strong>がついている。",
-    "answer": "花びらに<strong>水滴</strong>がついている。"
+    "question": "たいようがぎらぎら<strong>てる</strong>。",
+    "answer": "太陽がぎらぎら<strong>照る</strong>。"
   },
   {
-    "question": "みずの<strong>しずく</strong>がおちる。",
-    "answer": "水の<strong>滴</strong>が落ちる。"
+    "question": "このじけんについて<strong>しょうかい</strong>をしてください。",
+    "answer": "この事件について<strong>照会</strong>をしてください。"
   },
   {
-    "question": "あめがやねから<strong>したたる</strong>。",
-    "answer": "雨が屋根から<strong>滴る</strong>。"
+    "question": "おもしろくてきょうしつじゅうが<strong>ばくしょう</strong>した。",
+    "answer": "面白くて教室中が<strong>爆笑</strong>した。"
   },
   {
-    "question": "このまちは<strong>ぎょぎょう</strong>がさかんです。",
-    "answer": "この町は<strong>漁業</strong>が盛んです。"
+    "question": "にわに<strong>たま</strong>がおちている。",
+    "answer": "庭に<strong>玉</strong>が落ちている。"
   },
   {
-    "question": "わたしのおじいは<strong>りょうし</strong>です。",
-    "answer": "私の祖父は<strong>漁師</strong>です。"
+    "question": "さいふに<strong>いちえんだま</strong>がはいっている。",
+    "answer": "財布に<strong>一円玉</strong>が入っている。"
   },
   {
-    "question": "このコーヒーは<strong>こい</strong>。",
-    "answer": "このコーヒーは<strong>濃い</strong>。"
+    "question": "この<strong>ほうぎょく</strong>はとてもきちょうです。",
+    "answer": "この<strong>宝玉</strong>はとても貴重です。"
   },
   {
-    "question": "このケーキは<strong>のうこう</strong>なあじがする。",
-    "answer": "このケーキは<strong>濃厚</strong>な味がする。"
+    "question": "これはまことに<strong>ちんじ</strong>です。",
+    "answer": "これは誠に<strong>珍事</strong>です。"
   },
   {
-    "question": "ようふくを<strong>せんたく</strong>する。",
-    "answer": "洋服を<strong>洗濯</strong>する。"
+    "question": "これは<strong>めずらしい</strong>しょくぶつです。",
+    "answer": "これは<strong>珍しい</strong>植物です。"
   },
   {
-    "question": "うみべに<strong>とうだい</strong>がたっている。",
-    "answer": "海辺に<strong>灯台</strong>が立っている。"
+    "question": "このちほうの<strong>ちんみ</strong>をみなさんにしょくじさせます。",
+    "answer": "この地方の<strong>珍味</strong>をみなさんに食事させます。"
   },
   {
-    "question": "そらが<strong>はいいろ</strong>になる。",
-    "answer": "空が<strong>灰色</strong>になる。"
+    "question": "つくえのうえに<strong>かびん</strong>がおいてある。",
+    "answer": "机の上に<strong>花瓶</strong>が置いてある。"
   },
   {
-    "question": "かざんのふんかで<strong>かざんばい</strong>がふった。",
-    "answer": "火山の噴火で<strong>火山灰</strong>が降った。"
+    "question": "このケーキは<strong>あまい</strong>。",
+    "answer": "このケーキは<strong>甘い</strong>。"
   },
   {
-    "question": "にわに<strong>せっかい</strong>をまく。",
-    "answer": "庭に<strong>石灰</strong>をまく。"
+    "question": "ふゆに<strong>あまざけ</strong>をのむ。",
+    "answer": "冬に<strong>甘酒</strong>を飲む。"
+  },
+  {
+    "question": "このおかしには<strong>かんみりょう</strong>がつかわれている。",
+    "answer": "このお菓子には<strong>甘味料</strong>が使われている。"
+  },
+  {
+    "question": "のうじょうで<strong>かちく</strong>をかっている。",
+    "answer": "農場で<strong>家畜</strong>を飼っている。"
   }
 ]
