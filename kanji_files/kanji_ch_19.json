@@ -94,5 +94,53 @@
   {
     "question": "せいぜきな<strong>しせい</strong>でいすにすわる。",
     "answer": "正しい<strong>姿勢</strong>で椅子に座る。"
+  },
+  {
+    "question": "めうえのいけんに<strong>さからう</strong>。",
+    "answer": "目上の意見に<strong>逆らう</strong>。"
+  },
+  {
+    "question": "てんきのえいきょうでしあいが<strong>ぎゃくてん</strong>した。",
+    "answer": "天気の影響で試合が<strong>逆転</strong>した。"
+  },
+  {
+    "question": "いしきのないかんじゃから<strong>ぞうき</strong>いしょくをうける。",
+    "answer": "意思表示のない患者から<strong>臓器</strong>移植を受ける。"
+  },
+  {
+    "question": "しんそうを<strong>みきわめる</strong>。",
+    "answer": "真相を<strong>見極める</strong>。"
+  },
+  {
+    "question": "このにくは<strong>ごくじょう</strong>のひんしつだ。",
+    "answer": "この肉は<strong>極上</strong>の品質だ。"
+  },
+  {
+    "question": "もんだいには<strong>せっきょく</strong>的とりくむ。",
+    "answer": "問題には<strong>積極</strong>的に取り組む。"
+  },
+  {
+    "question": "うんどうのあとで<strong>あせ</strong>をかく。",
+    "answer": "運動のあとで<strong>汗</strong>をかく。"
+  },
+  {
+    "question": "ねつで<strong>はっかん</strong>する。",
+    "answer": "熱で<strong>発汗</strong>する。"
+  },
+  {
+    "question": "かれはしんらいできる<strong>なかま</strong>だ。",
+    "answer": "彼は信頼できる<strong>仲間</strong>だ。"
+  },
+  {
+    "question": "とりひきを<strong>ちゅうかい</strong>する。",
+    "answer": "取引を<strong>仲介</strong>する。"
+  },
+  {
+    "question": "そらをとぶ<strong>こうくう</strong>き。",
+    "answer": "空を飛ぶ<strong>航空</strong>機。"
+  },
+  {
+    "question": "あらしのためフライトが<strong>けっこう</strong>になった。",
+    "answer": "嵐のためフライトが<strong>欠航</strong>になった。"
   }
 ]

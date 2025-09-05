@@ -1,46 +1,50 @@
 [
   {
-    "question": "にわにあなを<strong>ほる</strong>。",
-    "answer": "庭に穴を<strong>掘る</strong>。"
+    "question": "めうえのいけんに<strong>さからう</strong>。",
+    "answer": "目上の意見に<strong>逆らう</strong>。"
   },
   {
-    "question": "とおいむかしに<strong>くっさく</strong>されたどうくつ。",
-    "answer": "遠い昔に<strong>掘削</strong>された洞窟。"
+    "question": "てんきのえいきょうでしあいが<strong>ぎゃくてん</strong>した。",
+    "answer": "天気の影響で試合が<strong>逆転</strong>した。"
   },
   {
-    "question": "かれはつよい<strong>うで</strong>をもっている。",
-    "answer": "彼は強い<strong>腕</strong>を持っている。"
+    "question": "いしきのないかんじゃから<strong>ぞうき</strong>いしょくをうける。",
+    "answer": "意思表示のない患者から<strong>臓器</strong>移植を受ける。"
   },
   {
-    "question": "そのあいては<strong>わんりょく</strong>がつよい。",
-    "answer": "その相手は<strong>腕力</strong>が強い。"
+    "question": "しんそうを<strong>みきわめる</strong>。",
+    "answer": "真相を<strong>見極める</strong>。"
   },
   {
-    "question": "けがをしたので<strong>いりょう</strong>をうけた。",
-    "answer": "ケガをしたので<strong>医療</strong>を受けた。"
+    "question": "このにくは<strong>ごくじょう</strong>のひんしつだ。",
+    "answer": "この肉は<strong>極上</strong>の品質だ。"
   },
   {
-    "question": "あさごはんに<strong>たまご</strong>をたべる。",
-    "answer": "朝ごはんに<strong>卵</strong>を食べる。"
+    "question": "もんだいには<strong>せっきょく</strong>的とりくむ。",
+    "answer": "問題には<strong>積極</strong>的に取り組む。"
   },
   {
-    "question": "たまごのしろいぶぶんは<strong>らんぱく</strong>という。",
-    "answer": "卵の白い部分は<strong>卵白</strong>という。"
+    "question": "うんどうのあとで<strong>あせ</strong>をかく。",
+    "answer": "運動のあとで<strong>汗</strong>をかく。"
   },
   {
-    "question": "たまごのきみは<strong>らんおう</strong>という。",
-    "answer": "卵の黄身は<strong>卵黄</strong>という。"
+    "question": "ねつで<strong>はっかん</strong>する。",
+    "answer": "熱で<strong>発汗</strong>する。"
   },
   {
-    "question": "れもんは<strong>きいろ</strong>いいろだ。",
-    "answer": "レモンは<strong>黄色</strong>い色だ。"
+    "question": "かれはしんらいできる<strong>なかま</strong>だ。",
+    "answer": "彼は信頼できる<strong>仲間</strong>だ。"
   },
   {
-    "question": "かぜがつよい<strong>いきおい</strong>でふいている。",
-    "answer": "風が強い<strong>勢い</strong>で吹いている。"
+    "question": "とりひきを<strong>ちゅうかい</strong>する。",
+    "answer": "取引を<strong>仲介</strong>する。"
   },
   {
-    "question": "せいぜきな<strong>しせい</strong>でいすにすわる。",
-    "answer": "正しい<strong>姿勢</strong>で椅子に座る。"
+    "question": "そらをとぶ<strong>こうくう</strong>き。",
+    "answer": "空を飛ぶ<strong>航空</strong>機。"
+  },
+  {
+    "question": "あらしのためフライトが<strong>けっこう</strong>になった。",
+    "answer": "嵐のためフライトが<strong>欠航</strong>になった。"
   }
 ]
