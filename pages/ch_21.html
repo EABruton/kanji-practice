@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 21</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 21</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "かれはそのあんに<strong>こうてい</strong>てきにこたえた。",
+          answer: "彼はその案に<strong>肯定</strong>的に答えた。",
+        },
+        {
+          question: "たべすぎて<strong>いつう</strong>がする。",
+          answer: "食べ過ぎて<strong>胃痛</strong>がする。",
+        },
+        {
+          question:
+            "ふじんなときは<strong>いちょう</strong>のかにおみてもらう。",
+          answer: "不調な時は<strong>胃腸</strong>の科におみてもらう。",
+        },
+        {
+          question: "しんぱくがつづいて<strong>いえん</strong>になった。",
+          answer: "心配が続いて<strong>胃炎</strong>になった。",
+        },
+        {
+          question: "おもいものをもって<strong>こし</strong>をいためた。",
+          answer: "重いものを持って<strong>腰</strong>を痛めた。",
+        },
+        {
+          question: "ふるいけがで<strong>ようつう</strong>がする。",
+          answer: "古いケガで<strong>腰痛</strong>がする。",
+        },
+        {
+          question: "ひにやけて<strong>ひふ</strong>がいたい。",
+          answer: "日に焼けて<strong>皮膚</strong>が痛い。",
+        },
+        {
+          question: "くにの<strong>だいじん</strong>がことばをはなした。",
+          answer: "国の<strong>大臣</strong>が言葉を話した。",
+        },
+        {
+          question: "おうさまには<strong>かしん</strong>がいた。",
+          answer: "王様には<strong>家臣</strong>がいた。",
+        },
+        {
+          question: "かれはおうの<strong>しんか</strong>である。",
+          answer: "彼は王の<strong>臣下</strong>である。",
+        },
+        {
+          question: "かわに<strong>ふね</strong>がうかんでいる。",
+          answer: "川に<strong>舟</strong>が浮かんでいる。",
+        },
+        {
+          question: "かわを<strong>こぶね</strong>でわたる。",
+          answer: "川を<strong>小舟</strong>で渡る。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
