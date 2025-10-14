@@ -1,50 +1,46 @@
 [
   {
-    "question": "かいものしたものを<strong>かみぶくろ</strong>にいれる。",
-    "answer": "買い物したものを<strong>紙袋</strong>に入れる。"
+    "question": "えんげきの<strong>せりふ</strong>をおぼえる。",
+    "answer": "演劇の<strong>台詞</strong>を覚える。"
   },
   {
-    "question": "カンガルーは<strong>ゆうたいるい</strong>のどうぶつだ。",
-    "answer": "カンガルーは<strong>有袋類</strong>の動物だ。"
+    "question": "わかには<strong>まくらことば</strong>をつかう。",
+    "answer": "和歌には<strong>枕詞</strong>を使う。"
   },
   {
-    "question": "このかみの<strong>うらめん</strong>にもじがかいてある。",
-    "answer": "この紙の<strong>裏面</strong>にも文字が書いてある。"
+    "question": "かのじょはかしゅのために<strong>さくし</strong>をする。",
+    "answer": "彼女は歌手のために<strong>作詞</strong>をする。"
   },
   {
-    "question": "このふくは<strong>おもとうら</strong>がつかえる。",
-    "answer": "この服は<strong>表と裏</strong>が使える。"
+    "question": "たびのようすを<strong>にっし</strong>につける。",
+    "answer": "旅の様子を<strong>日誌</strong>につける。"
   },
   {
-    "question": "かれのことはばには<strong>ひょうり</strong>がある。",
-    "answer": "彼の言葉には<strong>表裏</strong>がある。"
+    "question": "しゅくだいを<strong>かす</strong>。",
+    "answer": "宿題を<strong>課す</strong>。"
   },
   {
-    "question": "ふそくぶぶんをおかねで<strong>おぎなう</strong>。",
-    "answer": "不足部分をお金で<strong>補う</strong>。"
+    "question": "ヨーロッパの<strong>しょこく</strong>をおとずれる。",
+    "answer": "ヨーロッパの<strong>諸国</strong>を訪れる。"
   },
   {
-    "question": "のどがかわいたのでみずを<strong>ほきゅう</strong>する。",
-    "answer": "喉が渇いたので水を<strong>補給</strong>する。"
+    "question": "パーティーのじゅんびで<strong>もろもろ</strong>のよういがいる。",
+    "answer": "パーティーの準備で<strong>諸々</strong>の用意が要る。"
   },
   {
-    "question": "このしりょうはないようが<strong>ちょうふく</strong>している。",
-    "answer": "この資料は内容が<strong>重複</strong>している。"
+    "question": "もんだいにたいしてそちを<strong>こうじる</strong>。",
+    "answer": "問題に対して措置を<strong>講じる</strong>。"
   },
   {
-    "question": "しかくいテーブルの<strong>かど</strong>にあたまをぶつけた。",
-    "answer": "四角いテーブルの<strong>角</strong>に頭をぶつけた。"
+    "question": "うみべで<strong>かい</strong>をひろう。",
+    "answer": "海辺で<strong>貝</strong>を拾う。"
   },
   {
-    "question": "さんかくけいの<strong>かくど</strong>をはかる。",
-    "answer": "三角形の<strong>角度</strong>を測る。"
+    "question": "すしやで<strong>あかがい</strong>をたべる。",
+    "answer": "寿司屋で<strong>赤貝</strong>を食べる。"
   },
   {
-    "question": "しごとのためにじかんを<strong>もうける</strong>。",
-    "answer": "仕事のために時間を<strong>設ける</strong>。"
-  },
-  {
-    "question": "あたらしいかいしゃを<strong>せつりつ</strong>する。",
-    "answer": "新しい会社を<strong>設立</strong>する。"
+    "question": "うみで<strong>かいがら</strong>をあつめる。",
+    "answer": "海で<strong>貝殻</strong>を集める。"
   }
 ]
