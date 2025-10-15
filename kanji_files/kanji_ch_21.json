@@ -182,5 +182,45 @@
   {
     "question": "うみで<strong>かいがら</strong>をあつめる。",
     "answer": "海で<strong>貝殻</strong>を集める。"
+  },
+  {
+    "question": "ともだちにおかねを<strong>かす</strong>。",
+    "answer": "友達にお金を<strong>貸す</strong>。"
+  },
+  {
+    "question": "このアパートは<strong>ちんたい</strong>だ。",
+    "answer": "このアパートは<strong>賃貸</strong>だ。"
+  },
+  {
+    "question": "おかねを<strong>ためる</strong>。",
+    "answer": "お金を<strong>貯める</strong>。"
+  },
+  {
+    "question": "ゆうびんきょくで<strong>ちょきん</strong>をする。",
+    "answer": "郵便局で<strong>貯金</strong>をする。"
+  },
+  {
+    "question": "にほんは<strong>ぼうえき</strong>がさかんだ。",
+    "answer": "日本は<strong>貿易</strong>が盛んだ。"
+  },
+  {
+    "question": "コンクールで<strong>しょうきん</strong>をえる。",
+    "answer": "コンクールで<strong>賞金</strong>を得る。"
+  },
+  {
+    "question": "あのこはとても<strong>かしこい</strong>。",
+    "answer": "あの子はとても<strong>賢い</strong>。"
+  },
+  {
+    "question": "かのじょは<strong>りょうさいけんぼ</strong>のてほんだ。",
+    "answer": "彼女は<strong>良妻賢母</strong>の手本だ。"
+  },
+  {
+    "question": "やまのてっぺんを<strong>こえる</strong>。",
+    "answer": "山の頂上を<strong>超える</strong>。"
+  },
+  {
+    "question": "コンサートは<strong>ちょうまんいん</strong>だった。",
+    "answer": "コンサートは<strong>超満員</strong>だった。"
   }
 ]

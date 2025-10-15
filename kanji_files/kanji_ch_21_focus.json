@@ -1,46 +1,42 @@
 [
   {
-    "question": "えんげきの<strong>せりふ</strong>をおぼえる。",
-    "answer": "演劇の<strong>台詞</strong>を覚える。"
+    "question": "ともだちにおかねを<strong>かす</strong>。",
+    "answer": "友達にお金を<strong>貸す</strong>。"
   },
   {
-    "question": "わかには<strong>まくらことば</strong>をつかう。",
-    "answer": "和歌には<strong>枕詞</strong>を使う。"
+    "question": "このアパートは<strong>ちんたい</strong>だ。",
+    "answer": "このアパートは<strong>賃貸</strong>だ。"
   },
   {
-    "question": "かのじょはかしゅのために<strong>さくし</strong>をする。",
-    "answer": "彼女は歌手のために<strong>作詞</strong>をする。"
+    "question": "おかねを<strong>ためる</strong>。",
+    "answer": "お金を<strong>貯める</strong>。"
   },
   {
-    "question": "たびのようすを<strong>にっし</strong>につける。",
-    "answer": "旅の様子を<strong>日誌</strong>につける。"
+    "question": "ゆうびんきょくで<strong>ちょきん</strong>をする。",
+    "answer": "郵便局で<strong>貯金</strong>をする。"
   },
   {
-    "question": "しゅくだいを<strong>かす</strong>。",
-    "answer": "宿題を<strong>課す</strong>。"
+    "question": "にほんは<strong>ぼうえき</strong>がさかんだ。",
+    "answer": "日本は<strong>貿易</strong>が盛んだ。"
   },
   {
-    "question": "ヨーロッパの<strong>しょこく</strong>をおとずれる。",
-    "answer": "ヨーロッパの<strong>諸国</strong>を訪れる。"
+    "question": "コンクールで<strong>しょうきん</strong>をえる。",
+    "answer": "コンクールで<strong>賞金</strong>を得る。"
   },
   {
-    "question": "パーティーのじゅんびで<strong>もろもろ</strong>のよういがいる。",
-    "answer": "パーティーの準備で<strong>諸々</strong>の用意が要る。"
+    "question": "あのこはとても<strong>かしこい</strong>。",
+    "answer": "あの子はとても<strong>賢い</strong>。"
   },
   {
-    "question": "もんだいにたいしてそちを<strong>こうじる</strong>。",
-    "answer": "問題に対して措置を<strong>講じる</strong>。"
+    "question": "かのじょは<strong>りょうさいけんぼ</strong>のてほんだ。",
+    "answer": "彼女は<strong>良妻賢母</strong>の手本だ。"
   },
   {
-    "question": "うみべで<strong>かい</strong>をひろう。",
-    "answer": "海辺で<strong>貝</strong>を拾う。"
+    "question": "やまのてっぺんを<strong>こえる</strong>。",
+    "answer": "山の頂上を<strong>超える</strong>。"
   },
   {
-    "question": "すしやで<strong>あかがい</strong>をたべる。",
-    "answer": "寿司屋で<strong>赤貝</strong>を食べる。"
-  },
-  {
-    "question": "うみで<strong>かいがら</strong>をあつめる。",
-    "answer": "海で<strong>貝殻</strong>を集める。"
+    "question": "コンサートは<strong>ちょうまんいん</strong>だった。",
+    "answer": "コンサートは<strong>超満員</strong>だった。"
   }
 ]
