@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 22</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 22</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "にんげんのあしの<strong>あと</strong>がのこっている。",
+          answer: "人間の足の<strong>跡</strong>が残っている。",
+        },
+        {
+          question: "このちかくにおおきな<strong>しろあと</strong>がある。",
+          answer: "この近くに大きな<strong>城跡</strong>がある。",
+        },
+        {
+          question:
+            "こどものころのけがの<strong>きずあと</strong>がのこっている。",
+          answer: "子どものころのケガの<strong>傷跡</strong>が残っている。",
+        },
+        {
+          question: "むかしのまちの<strong>いせき</strong>をはっくつする。",
+          answer: "昔の町の<strong>遺跡</strong>を発掘する。",
+        },
+        {
+          question: "おんがくにあわせて<strong>おどる</strong>。",
+          answer: "音楽に合わせて<strong>踊る</strong>。",
+        },
+        {
+          question: "にほんのでんとうてきな<strong>ぶよう</strong>をまなぶ。",
+          answer: "日本の伝統的な<strong>舞踊</strong>を学ぶ。",
+        },
+        {
+          question: "かれはやきゅうの<strong>いちぐん</strong>にあげられた。",
+          answer: "彼は野球の<strong>一軍</strong>に上げられた。",
+        },
+        {
+          question: "このパンはとても<strong>やわらかい</strong>。",
+          answer: "このパンはとても<strong>軟らかい</strong>。",
+        },
+        {
+          question: "あたたかくなってゆきが<strong>なんか</strong>してきた。",
+          answer: "暖かくなって雪が<strong>軟化</strong>してきた。",
+        },
+        {
+          question: "このにもつは<strong>かるい</strong>。",
+          answer: "この荷物は<strong>軽い</strong>。",
+        },
+        {
+          question: "かのじょは<strong>かろやか</strong>なステップでおどる。",
+          answer: "彼女は<strong>軽やか</strong>なステップで踊る。",
+        },
+        {
+          question: "かれのけつだんは<strong>けいそつ</strong>だった。",
+          answer: "彼の決断は<strong>軽率</strong>だった。",
+        },
+        {
+          question: "にもつの<strong>ゆそう</strong>をたのむ。",
+          answer: "荷物の<strong>輸送</strong>を頼む。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
