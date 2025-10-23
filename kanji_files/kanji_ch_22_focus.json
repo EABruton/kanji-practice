@@ -1,38 +1,46 @@
 [
   {
-    "question": "かいどうは<strong>かいか</strong>にある。",
-    "answer": "階段は<strong>階下</strong>にある。"
+    "question": "ともだちのにもつを<strong>あずかる</strong>。",
+    "answer": "友達の荷物を<strong>預かる</strong>。"
   },
   {
-    "question": "このみなとにはふねが<strong>なんせき</strong>とまっていますか。",
-    "answer": "この港には船が<strong>何隻</strong>止まっていますか。"
+    "question": "ぎんこうに<strong>よきん</strong>をする。",
+    "answer": "銀行に<strong>預金</strong>をする。"
   },
   {
-    "question": "あたらしいしゃいんを<strong>やとう</strong>。",
-    "answer": "新しい社員を<strong>雇う</strong>。"
+    "question": "そのしまはにほんの<strong>りょうど</strong>だ。",
+    "answer": "その島は日本の<strong>領土</strong>だ。"
   },
   {
-    "question": "かいしゃの<strong>こよう</strong>じょうけんはよい。",
-    "answer": "会社の<strong>雇用</strong>条件は良い。"
+    "question": "かべにかかれたえの<strong>がく</strong>がかけてある。",
+    "answer": "壁に描かれた絵の<strong>額</strong>がかけてある。"
   },
   {
-    "question": "そらに<strong>くも</strong>がでている。",
-    "answer": "空に<strong>雲</strong>が出ている。"
+    "question": "このけいやくは<strong>ていがくせい</strong>だ。",
+    "answer": "この契約は<strong>定額制</strong>だ。"
   },
   {
-    "question": "あめをふらせる<strong>せきらんうん</strong>ができた。",
-    "answer": "雨を降らせる<strong>積乱雲</strong>ができた。"
+    "question": "このえは<strong>がくぶち</strong>がとてもうつくしい。",
+    "answer": "この絵は<strong>額縁</strong>がとても美しい。"
   },
   {
-    "question": "ちいさな<strong>れいさいきぎょう</strong>をてつだう。",
-    "answer": "小さな<strong>零細企業</strong>を手伝う。"
+    "question": "かれは<strong>ちゅうにち</strong>たいしかんだ。",
+    "answer": "彼は<strong>駐日</strong>大使だった。"
   },
   {
-    "question": "このかばんは<strong>かわせいひん</strong>だ。",
-    "answer": "この鞄は<strong>革製品</strong>だ。"
+    "question": "スープのためにとり<strong>ほね</strong>をつかう。",
+    "answer": "スープのために鶏<strong>骨</strong>を使う。"
   },
   {
-    "question": "そのくには<strong>かくめい</strong>をおこした。",
-    "answer": "その国は<strong>革命</strong>を起こした。"
+    "question": "すべってあしを<strong>こっせつ</strong>した。",
+    "answer": "滑って足を<strong>骨折</strong>した。"
+  },
+  {
+    "question": "パンは<strong>むぎ</strong>からつくられる。",
+    "answer": "パンは<strong>麦</strong>から作られる。"
+  },
+  {
+    "question": "ビールは<strong>ばくが</strong>からつくられる。",
+    "answer": "ビールは<strong>麦芽</strong>から作られる。"
   }
 ]

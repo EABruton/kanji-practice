@@ -162,5 +162,49 @@
   {
     "question": "そのくには<strong>かくめい</strong>をおこした。",
     "answer": "その国は<strong>革命</strong>を起こした。"
+  },
+  {
+    "question": "ともだちのにもつを<strong>あずかる</strong>。",
+    "answer": "友達の荷物を<strong>預かる</strong>。"
+  },
+  {
+    "question": "ぎんこうに<strong>よきん</strong>をする。",
+    "answer": "銀行に<strong>預金</strong>をする。"
+  },
+  {
+    "question": "そのしまはにほんの<strong>りょうど</strong>だ。",
+    "answer": "その島は日本の<strong>領土</strong>だ。"
+  },
+  {
+    "question": "かべにかかれたえの<strong>がく</strong>がかけてある。",
+    "answer": "壁に描かれた絵の<strong>額</strong>がかけてある。"
+  },
+  {
+    "question": "このけいやくは<strong>ていがくせい</strong>だ。",
+    "answer": "この契約は<strong>定額制</strong>だ。"
+  },
+  {
+    "question": "このえは<strong>がくぶち</strong>がとてもうつくしい。",
+    "answer": "この絵は<strong>額縁</strong>がとても美しい。"
+  },
+  {
+    "question": "かれは<strong>ちゅうにち</strong>たいしかんだ。",
+    "answer": "彼は<strong>駐日</strong>大使だった。"
+  },
+  {
+    "question": "スープのためにとり<strong>ほね</strong>をつかう。",
+    "answer": "スープのために鶏<strong>骨</strong>を使う。"
+  },
+  {
+    "question": "すべってあしを<strong>こっせつ</strong>した。",
+    "answer": "滑って足を<strong>骨折</strong>した。"
+  },
+  {
+    "question": "パンは<strong>むぎ</strong>からつくられる。",
+    "answer": "パンは<strong>麦</strong>から作られる。"
+  },
+  {
+    "question": "ビールは<strong>ばくが</strong>からつくられる。",
+    "answer": "ビールは<strong>麦芽</strong>から作られる。"
   }
 ]
