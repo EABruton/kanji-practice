@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 23</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 23</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "はながつよくあたって<strong>はなぢ</strong>がでた。",
+          answer: "鼻が強く当たって<strong>鼻血</strong>が出た。",
+        },
+        {
+          question: "みみがいたいので<strong>じびか</strong>にいった。",
+          answer: "耳が痛いので<strong>耳鼻科</strong>に行った。",
+        },
+        {
+          question:
+            "かれはおきゃくさまを<strong>ていちょう</strong>にもてなした。",
+          answer: "彼はお客様を<strong>丁重</strong>にもてなした。",
+        },
+        {
+          question: "わたしのいえは<strong>さんちょうめ</strong>にある。",
+          answer: "私の家は<strong>3丁目</strong>にある。",
+        },
+        {
+          question: "はるのやまは<strong>うるわしい</strong>けしきだ。",
+          answer: "春の山は<strong>麗しい</strong>景色だ。",
+        },
+        {
+          question: "かのじょのダンスは<strong>かれい</strong>だった。",
+          answer: "彼女のダンスは<strong>華麗</strong>だった。",
+        },
+        {
+          question:
+            "このしごとははやく<strong>かつ</strong>せいかくにしなければならない。",
+          answer:
+            "この仕事は早く<strong>且つ</strong>正確にしなければならない。",
+        },
+        {
+          question: "まちをみおろす<strong>おか</strong>にたった。",
+          answer: "街を見下ろす<strong>丘</strong>に立った。",
+        },
+        {
+          question: "このちほうは<strong>きゅうりょうちたい</strong>だ。",
+          answer: "この地方は<strong>丘陵地帯</strong>だ。",
+        },
+        {
+          question: "さばくの<strong>さきゅう</strong>をらくだでいく。",
+          answer: "砂漠の<strong>砂丘</strong>をラクダで行く。",
+        },
+        {
+          question:
+            "せいせきは<strong>こうおつへい</strong>のさんとうくにわかれた。",
+          answer: "成績は<strong>甲乙丙</strong>の3等級に分かれた。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
