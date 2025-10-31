@@ -1,42 +1,46 @@
 [
   {
-    "question": "このとうこうは<strong>とくめい</strong>だ。",
-    "answer": "この投稿は<strong>匿名</strong>だ。"
+    "question": "おいしいりょうりに<strong>したつづみ</strong>をうつ。",
+    "answer": "美味しい料理に<strong>舌鼓</strong>を打つ。"
   },
   {
-    "question": "はなを<strong>たんせい</strong>こめてそだてる。",
-    "answer": "花を<strong>丹精</strong>込めて育てる。"
+    "question": "まつりで<strong>たいこ</strong>をおおきくならす。",
+    "answer": "祭りで<strong>太鼓</strong>を大きく鳴らす。"
   },
   {
-    "question": "むかしばなしには<strong>おに</strong>がよくでてくる。",
-    "answer": "昔話には<strong>鬼</strong>がよく出てくる。"
+    "question": "うみべで<strong>うみがめ</strong>をみつけた。",
+    "answer": "海辺で<strong>海亀</strong>を見つけた。"
   },
   {
-    "question": "そのまちで<strong>さつじんき</strong>がはっせいした。",
-    "answer": "その街で<strong>殺人鬼</strong>が発生した。"
+    "question": "じしんのあとかべに<strong>きれつ</strong>がはいった。",
+    "answer": "地震の後壁に<strong>亀裂</strong>が入った。"
   },
   {
-    "question": "かのじょのふくのいろは<strong>あざやか</strong>だ。",
-    "answer": "彼女の服の色は<strong>鮮やか</strong>だ。"
+    "question": "むかしはみずを<strong>いど</strong>からくんでいた。",
+    "answer": "昔は水を<strong>井戸</strong>から汲んでいた。"
   },
   {
-    "question": "やさいは<strong>しんせん</strong>なものがいい。",
-    "answer": "野菜は<strong>新鮮</strong>なものがいい。"
+    "question": "このはなしは<strong>しせい</strong>のひとびとのものである。",
+    "answer": "この話は<strong>市井</strong>の人々のものである。"
   },
   {
-    "question": "かれはけいけんが<strong>とぼしい</strong>。",
-    "answer": "彼は経験が<strong>乏しい</strong>。"
+    "question": "へやの<strong>てんじょう</strong>がひくい。",
+    "answer": "部屋の<strong>天井</strong>が低い。"
   },
   {
-    "question": "むかしは<strong>びんぼう</strong>なくらしだった。",
-    "answer": "昔は<strong>貧乏</strong>な暮らしだった。"
+    "question": "せかいにはまだ<strong>きが</strong>にくるしむひとがいる。",
+    "answer": "世界にはまだ<strong>飢餓</strong>に苦しむ人がいる。"
   },
   {
-    "question": "せいせきは<strong>こうおつ</strong>でひょうかされた。",
-    "answer": "成績は<strong>甲乙</strong>で評価された。"
+    "question": "かれのさくひんはピカソの<strong>ありゅう</strong>だとひひょうされた。",
+    "answer": "彼の作品はピカソの<strong>亜流</strong>だと批評された。"
   },
   {
-    "question": "かのじょのせいざは<strong>おとめざ</strong>だ。",
-    "answer": "彼女の星座は<strong>乙女座</strong>だ。"
+    "question": "かれはしつもんにこたえず<strong>だまりこむ</strong>。",
+    "answer": "彼は質問に答えず<strong>黙り込む</strong>。"
+  },
+  {
+    "question": "へやにはふかい<strong>ちんもく</strong>がながれた。",
+    "answer": "部屋には深い<strong>沈黙</strong>が流れた。"
   }
 ]
