@@ -1,38 +1,58 @@
 [
   {
-    "question": "げきじょうの<strong>ますせき</strong>にすわる。",
-    "answer": "劇場の<strong>升席</strong>に座る。"
+    "question": "やまのちかくに<strong>せんにん</strong>がすむというでんせつがある。",
+    "answer": "山の近くに<strong>仙人</strong>が住むという伝説がある。"
   },
   {
-    "question": "さけを<strong>いっしょう</strong>かう。",
-    "answer": "酒を<strong>一升</strong>買う。"
+    "question": "かれは<strong>かりめんきょ</strong>をとったばかりだ。",
+    "answer": "彼は<strong>仮免許</strong>を取ったばかりだ。"
   },
   {
-    "question": "かれは<strong>いやしい</strong>こころのもちぬしだ。",
-    "answer": "彼は<strong>卑しい</strong>心の持ち主だ。"
+    "question": "にほんごの<strong>かな</strong>をおぼえる。",
+    "answer": "日本語の<strong>仮名</strong>を覚える。"
   },
   {
-    "question": "それは<strong>ひれつ</strong>などうこうだ。",
-    "answer": "それは<strong>卑劣</strong>な行為だ。"
+    "question": "かれは<strong>けびょう</strong>をつかってやすんだ。",
+    "answer": "彼は<strong>仮病</strong>を使って休んだ。"
   },
   {
-    "question": "かれは<strong>きょうらく</strong>のせいかつをおくる。",
-    "answer": "彼は<strong>享楽</strong>の生活を送る。"
+    "question": "しょくいにんを<strong>あおぐ</strong>。",
+    "answer": "職員を<strong>仰ぐ</strong>。"
   },
   {
-    "question": "クリスマスツリーをきれいに<strong>かざる</strong>。",
-    "answer": "クリスマスツリーをきれいに<strong>飾る</strong>。"
+    "question": "おうさまの<strong>おおせ</strong>にしたがう。",
+    "answer": "王様の<strong>仰せ</strong>に従う。"
   },
   {
-    "question": "このかんぼくは<strong>そうしょく</strong>がみごとだ。",
-    "answer": "この建物は<strong>装飾</strong>が見事だ。"
+    "question": "ベッドで<strong>あおむけ</strong>にねる。",
+    "answer": "ベッドで<strong>仰向け</strong>に寝る。"
   },
   {
-    "question": "やくざのあいだには<strong>じんぎ</strong>がある。",
-    "answer": "ヤクザの間には<strong>仁義</strong>がある。"
+    "question": "とつぜんのしらせに<strong>ぎょうてん</strong>した。",
+    "answer": "突然の知らせに<strong>仰天</strong>した。"
   },
   {
-    "question": "もんのまえで<strong>におうだち</strong>をする。",
-    "answer": "門の前で<strong>仁王立ち</strong>をする。"
+    "question": "かれはきょうりょくな<strong>しんこう</strong>をもっている。",
+    "answer": "彼は強力な<strong>信仰</strong>を持っている。"
+  },
+  {
+    "question": "だいがくじゅうの<strong>くわだてる</strong>。",
+    "answer": "大学銃を<strong>企てる</strong>。"
+  },
+  {
+    "question": "あたらしい<strong>きかく</strong>をたてる。",
+    "answer": "新しい<strong>企画</strong>を立てる。"
+  },
+  {
+    "question": "<strong>いたり</strong>はヨーロッパのくにである。",
+    "answer": "<strong>伊太利</strong>はヨーロッパの国である。"
+  },
+  {
+    "question": "あたらしいせかいを<strong>つくる</strong>。",
+    "answer": "新しい世界を<strong>創る</strong>。"
+  },
+  {
+    "question": "このさくひんには<strong>どくそう</strong>せいがある。",
+    "answer": "この作品には<strong>独創</strong>性がある。"
   }
 ]
