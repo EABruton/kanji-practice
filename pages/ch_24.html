@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 24</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 24</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "にほんでんとうのげいのうに<strong>かぶき</strong>がある。",
+          answer: "日本伝統の芸能に<strong>歌舞伎</strong>がある。",
+        },
+        {
+          question: "めんどうをさけるためにかおを<strong>ふせる</strong>。",
+          answer: "面倒を避けるために顔を<strong>伏せる</strong>。",
+        },
+        {
+          question:
+            "ちちおやはソファーで<strong>うつぶせ</strong>になっている。",
+          answer: "父親はソファーで<strong>うつ伏せ</strong>になっている。",
+        },
+        {
+          question: "このちほうは<strong>きふく</strong>におんでいる。",
+          answer: "この地方は<strong>起伏</strong>に富んでいる。",
+        },
+        {
+          question:
+            "むかしははんたいしゃを<strong>とうばつ</strong>することがあった。",
+          answer: "昔は反対者を<strong>討伐</strong>することがあった。",
+        },
+        {
+          question: "わたしの<strong>おじ</strong>はきょうとにすんでいる。",
+          answer: "私の<strong>伯父</strong>は京都に住んでいる。",
+        },
+        {
+          question:
+            "かのじょの<strong>おば</strong>はびょういんではたらいている。",
+          answer: "彼女の<strong>伯母</strong>は病院で働いている。",
+        },
+        {
+          question: "かのじょのそふはゆうめいな<strong>がはく</strong>だった。",
+          answer: "彼女の祖父は有名な<strong>画伯</strong>だった。",
+        },
+        {
+          question:
+            "イギリスでは<strong>はくしゃく</strong>がしゃかいてきちいをしめす。",
+          answer: "イギリスでは<strong>伯爵</strong>が社会的地位を示す。",
+        },
+        {
+          question: "びょういんまで<strong>どうはん</strong>する。",
+          answer: "病院まで<strong>同伴</strong>する。",
+        },
+        {
+          question: "ピアノの<strong>ばんそう</strong>でうたう。",
+          answer: "ピアノの<strong>伴奏</strong>で歌う。",
+        },
+        {
+          question: "おてらで<strong>くどく</strong>をつむ。",
+          answer: "お寺で<strong>功徳</strong>を積む。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
