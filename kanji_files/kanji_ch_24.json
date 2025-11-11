@@ -46,6 +46,34 @@
   {
     "question": "おてらで<strong>くどく</strong>をつむ。",
     "answer": "お寺で<strong>功徳</strong>を積む。"
+  },
+    {
+    "question": "てんのうからのはいせんをつたえる<strong>ちょくし</strong>がつかわされた。",
+    "answer": "天皇からの派遣を伝える<strong>勅使</strong>が遣わされた。"
+  },
+  {
+    "question": "このけいやくはゆうこうです。<strong>ただし</strong>、とくていのじょうけんがつきます。",
+    "answer": "この契約は有効です。<strong>但し</strong>、特定の条件が付きます。"
+  },
+  {
+    "question": "ぶちょうの<strong>ほさ</strong>としてしごとをする。",
+    "answer": "部長の<strong>補佐</strong>として仕事をする。"
+  },
+  {
+    "question": "りょうきんの<strong>かんじょう</strong>をする。",
+    "answer": "料金の<strong>勘定</strong>をする。"
+  },
+  {
+    "question": "えいがはまもなく<strong>かきょう</strong>にはいる。",
+    "answer": "映画はまもなく<strong>佳境</strong>に入る。"
+  },
+  {
+    "question": "ふたつのかいしゃが<strong>がっぺい</strong>することになった。",
+    "answer": "二つの会社が<strong>合併</strong>することになった。"
+  },
+  {
+    "question": "かんせんしょうが<strong>へいはつ</strong>するおそれがある。",
+    "answer": "感染症が<strong>併発</strong>する恐れがある。"
   }
 ]
 
