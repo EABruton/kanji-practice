@@ -1,30 +1,42 @@
 [
   {
-    "question": "てんのうからのはいせんをつたえる<strong>ちょくし</strong>がつかわされた。",
-    "answer": "天皇からの派遣を伝える<strong>勅使</strong>が遣わされた。"
+    "question": "ともだちにあたらしいほんを<strong>すすめる</strong>。",
+    "answer": "友達に新しい本を<strong>勧める</strong>。"
   },
   {
-    "question": "このけいやくはゆうこうです。<strong>ただし</strong>、とくていのじょうけんがつきます。",
-    "answer": "この契約は有効です。<strong>但し</strong>、特定の条件が付きます。"
+    "question": "でんわでの<strong>かんゆう</strong>はことわった。",
+    "answer": "電話での<strong>勧誘</strong>は断った。"
   },
   {
-    "question": "ぶちょうの<strong>ほさ</strong>としてしごとをする。",
-    "answer": "部長の<strong>補佐</strong>として仕事をする。"
+    "question": "むかしのにほんには<strong>さむらい</strong>がいた。",
+    "answer": "昔の日本には<strong>侍</strong>がいた。"
   },
   {
-    "question": "りょうきんの<strong>かんじょう</strong>をする。",
-    "answer": "料金の<strong>勘定</strong>をする。"
+    "question": "てんのうのそばには<strong>じじゅう</strong>がいる。",
+    "answer": "天皇の側には<strong>侍従</strong>がいる。"
   },
   {
-    "question": "えいがはまもなく<strong>かきょう</strong>にはいる。",
-    "answer": "映画はまもなく<strong>佳境</strong>に入る。"
+    "question": "ちんぎんのはいてんのこうせきで<strong>じょくん</strong>される。",
+    "answer": "賃銀の配転の功績で<strong>叙勲</strong>される。"
   },
   {
-    "question": "ふたつのかいしゃが<strong>がっぺい</strong>することになった。",
-    "answer": "二つの会社が<strong>合併</strong>することになった。"
+    "question": "このしょうひんの<strong>ね</strong>はいくらですか。",
+    "answer": "この商品の<strong>値</strong>はいくらですか。"
   },
   {
-    "question": "かんせんしょうが<strong>へいはつ</strong>するおそれがある。",
-    "answer": "感染症が<strong>併発</strong>する恐れがある。"
+    "question": "じぶんのしっぱいを<strong>くいる</strong>。",
+    "answer": "自分の失敗を<strong>悔いる</strong>。"
+  },
+  {
+    "question": "しんだひとを<strong>くやむ</strong>。",
+    "answer": "死んだ人を<strong>悔やむ</strong>。"
+  },
+  {
+    "question": "しあいにまけて<strong>くやしい</strong>。",
+    "answer": "試合に負けて<strong>悔しい</strong>。"
+  },
+  {
+    "question": "イギリスでは<strong>こうしゃく</strong>はこうせきのひとつだ。",
+    "answer": "イギリスでは<strong>侯爵</strong>は爵位の一つだ。"
   }
 ]
