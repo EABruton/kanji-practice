@@ -1,42 +1,46 @@
 [
   {
-    "question": "かれはわたしのしめいけんを<strong>おかす</strong>。",
-    "answer": "彼は私の私生活を<strong>侵す</strong>。"
+    "question": "かれはめいさくをのこした<strong>はいじん</strong>だ。",
+    "answer": "彼は名作を残した<strong>俳人</strong>だ。"
   },
   {
-    "question": "そのくにはりょうどを<strong>しんこう</strong>した。",
-    "answer": "その国は隣国を<strong>侵攻</strong>した。"
+    "question": "すもうでは<strong>どひょう</strong>のなかでたたかう。",
+    "answer": "相撲では<strong>土俵</strong>の中で戦う。"
   },
   {
-    "question": "かれにすみやかなしょりを<strong>うながす</strong>。",
-    "answer": "彼に速やかな処理を<strong>促す</strong>。"
+    "question": "むかしは<strong>こめだわら</strong>でこめをはこんだ。",
+    "answer": "昔は<strong>米俵</strong>で米を運んだ。"
   },
   {
-    "question": "けいざいのかいふくを<strong>そくしん</strong>する。",
-    "answer": "経済の回復を<strong>促進</strong>する。"
+    "question": "こめ<strong>いっぴょう</strong>は60キロだ。",
+    "answer": "米<strong>一俵</strong>は60キロだ。"
   },
   {
-    "question": "かれは<strong>しゅんそく</strong>でゆうめいだ。",
-    "answer": "彼は<strong>俊足</strong>で有名だ。"
+    "question": "きゅうじつに<strong>ほうきゅう</strong>がはいった。",
+    "answer": "給日に<strong>俸給</strong>が入った。"
   },
   {
-    "question": "そのばんぐみは<strong>ていぞく</strong>だとひはんされた。",
-    "answer": "その番組は<strong>低俗</strong>だと批判された。"
+    "question": "プロやきゅうせんしゅの<strong>ねんぽう</strong>はおおきい。",
+    "answer": "プロ野球選手の<strong>年俸</strong>は大きい。"
   },
   {
-    "question": "しょくひんのしんせんさを<strong>たもつ</strong>。",
-    "answer": "食品の新鮮さを<strong>保つ</strong>。"
+    "question": "こめを<strong>くら</strong>にしまう。",
+    "answer": "米を<strong>倉</strong>にしまう。"
   },
   {
-    "question": "そのけっていは<strong>ほりゅう</strong>された。",
-    "answer": "その決定は<strong>保留</strong>された。"
+    "question": "しょうひんを<strong>そうこ</strong>にほぞんする。",
+    "answer": "商品を<strong>倉庫</strong>に保存する。"
   },
   {
-    "question": "かれはだいがくでがくもんを<strong>おさめる</strong>。",
-    "answer": "彼は大学で学問を<strong>修める</strong>。"
+    "question": "せいさん<strong>かじょう</strong>がもんだいになっている。",
+    "answer": "生産<strong>過剰</strong>が問題になっている。"
   },
   {
-    "question": "こうすうをおえて<strong>しゅうりょうしょうしょ</strong>をうけとる。",
-    "answer": "講習を終えて<strong>修了証書</strong>を受け取る。"
+    "question": "せんぱいのしごとぶりに<strong>ならう</strong>。",
+    "answer": "先輩の仕事ぶりに<strong>倣う</strong>。"
+  },
+  {
+    "question": "そのじけんは<strong>もほうはん</strong>によるものだ。",
+    "answer": "その事件は<strong>模倣犯</strong>によるものだ。"
   }
 ]
