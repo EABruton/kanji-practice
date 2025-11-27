@@ -134,5 +134,41 @@
   {
     "question": "ねむけでめが<strong>じゅうけつ</strong>している。",
     "answer": "眠気で目が<strong>充血</strong>している。" 
+  },
+  {
+    "question": "わたしはにほんの<strong>こてん</strong>ぶんがくがすきだ。",
+    "answer": "私は日本の<strong>古典</strong>文学が好きだ。"
+  },
+  {
+    "question": "おそうしきに<strong>こうでん</strong>をもっていく。",
+    "answer": "お葬式に<strong>香典</strong>を持っていく。"
+  },
+  {
+    "question": "このいすはつくえも<strong>かねる</strong>。",
+    "answer": "この椅子は机も<strong>兼ねる</strong>。"
+  },
+  {
+    "question": "のうかは<strong>けんぎょう</strong>でくらしている。",
+    "answer": "農家は<strong>兼業</strong>で暮らしている。"
+  },
+  {
+    "question": "きけんを<strong>おかす</strong>。",
+    "answer": "危険を<strong>冒す</strong>。"
+  },
+  {
+    "question": "えんぜつのはじめに<strong>ぼうとう</strong>のあいさつをする。",
+    "answer": "演説の初めに<strong>冒頭</strong>の挨拶をする。"
+  },
+  {
+    "question": "ゆきでやまに<strong>かんむり</strong>をかぶったようだ。",
+    "answer": "雪で山に<strong>冠</strong>をかぶったようだ。"
+  },
+  {
+    "question": "せんしゅはしあいでの<strong>えいかん</strong>をめざす。",
+    "answer": "選手は試合での<strong>栄冠</strong>を目指す。"
+  },
+  {
+    "question": "ふゆのよるは<strong>さえる</strong>。",
+    "answer": "冬の夜は<strong>冴える</strong>。"
   }
 ]
