@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 26</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 26</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "かぞくを<strong>やしなう</strong>。",
+          answer: "家族を<strong>養う</strong>。",
+        },
+        {
+          question: "うみでさかなの<strong>ようしょく</strong>をする。",
+          answer: "海で魚の<strong>養殖</strong>をする。",
+        },
+        {
+          question: "にほんはそのじょうやくを<strong>ひじゅん</strong>した。",
+          answer: "日本はその条約を<strong>批准</strong>した。",
+        },
+        {
+          question: "むかしのさむらいは<strong>けん</strong>をさしていた。",
+          answer: "昔の侍は<strong>剣</strong>を差していた。",
+        },
+        {
+          question: "かのじょのたいどは<strong>りん</strong>としている。",
+          answer: "彼女の態度は<strong>凛</strong>としている。",
+        },
+        {
+          question: "ちえを<strong>こらす</strong>。",
+          answer: "知恵を<strong>凝らす</strong>。",
+        },
+        {
+          question: "ひやしてぎゅうにゅうを<strong>ぎょうこ</strong>させる。",
+          answer: "冷やして牛乳を<strong>凝固</strong>させる。",
+        },
+        {
+          question: "かれのせいかつは<strong>へいぼん</strong>だ。",
+          answer: "彼の生活は<strong>平凡</strong>だ。",
+        },
+        {
+          question: "わたしは<strong>ぼんじん</strong>にすぎない。",
+          answer: "私は<strong>凡人</strong>に過ぎない。",
+        },
+        {
+          question: "じてんの<strong>はんれい</strong>をよむ。",
+          answer: "辞典の<strong>凡例</strong>を読む。",
+        },
+        {
+          question: "かれは<strong>ひぼん</strong>なさいのうのもちぬしだ。",
+          answer: "彼は<strong>非凡</strong>な才能の持ち主だ。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
