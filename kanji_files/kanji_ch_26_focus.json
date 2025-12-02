@@ -1,46 +1,30 @@
 [
   {
-    "question": "むかしは<strong>あさ</strong>のふくをきていた。",
-    "answer": "昔は<strong>麻</strong>の服を着ていた。"
+    "question": "このはこみは<strong>はもの</strong>ちゅういとしるされている。",
+    "answer": "この箱身は<strong>刃物</strong>注意と記されている。"
   },
   {
-    "question": "しゅじゅつまえに<strong>ますい</strong>をうつ。",
-    "answer": "手術前に<strong>麻酔</strong>を打つ。"
+    "question": "ひとびとはふあんなじけんで<strong>きょうじん</strong>におそわれた。",
+    "answer": "人々は不安な事件で<strong>凶刃</strong>に襲われた。"
   },
   {
-    "question": "サラダに<strong>ごまあぶら</strong>をかける。",
-    "answer": "サラダに<strong>胡麻油</strong>をかける。"
+    "question": "はるになるとくさを<strong>かる</strong>。",
+    "answer": "春になると草を<strong>刈る</strong>。"
   },
   {
-    "question": "あせるきもちに<strong>かられる</strong>。",
-    "answer": "焦る気持ちに<strong>駆る</strong>。"
+    "question": "こせいを<strong>さくげん</strong>する。",
+    "answer": "個性を<strong>削減</strong>する。"
   },
   {
-    "question": "かれはパソコンを<strong>くし</strong>してしごとをする。",
-    "answer": "彼はパソコンを<strong>駆使</strong>して仕事をする。"
+    "question": "せんせいがせいとのさくぶんを<strong>てんさく</strong>する。",
+    "answer": "先生が生徒の作文を<strong>添削</strong>する。"
   },
   {
-    "question": "あめがふらず<strong>きょうさく</strong>になった。",
-    "answer": "雨が降らず<strong>凶作</strong>になった。"
+    "question": "いでんしのひみつを<strong>かいぼう</strong>がてらす。",
+    "answer": "遺伝子の秘密を<strong>解剖</strong>が照らす。"
   },
   {
-    "question": "このみちは<strong>おうとつ</strong>がおおい。",
-    "answer": "この道は<strong>凹凸</strong>が多い。"
-  },
-  {
-    "question": "こどもは<strong>でこぼこ</strong>したみちをあるくのがすきだ。",
-    "answer": "子どもは<strong>凸凹</strong>した道を歩くのが好きだ。"
-  },
-  {
-    "question": "ちかめのひとは<strong>おうれんず</strong>をつかう。",
-    "answer": "近眼の人は<strong>凹レンズ</strong>を使う。"
-  },
-  {
-    "question": "さむらいは<strong>かたな</strong>をさしていた。",
-    "answer": "侍は<strong>刀</strong>を差していた。"
-  },
-  {
-    "question": "しゅじゅつの<strong>しっとう</strong>いをたのむ。",
-    "answer": "手術の<strong>執刀</strong>医を頼む。"
+    "question": "かれは<strong>ごうけん</strong>なからだをつくるためにれんしゅうをつづけている。",
+    "answer": "彼は<strong>剛健</strong>な体を作るために練習を続けている。"
   }
 ]
