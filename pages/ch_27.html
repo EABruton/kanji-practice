@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 27</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 27</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "かのじょのおじいさんが<strong>ゆく</strong>。",
+          answer: "彼女のおじいさんが<strong>逝く</strong>。",
+        },
+        {
+          question: "かのじょのそぼの<strong>せいきょ</strong>をいたむ。",
+          answer: "彼女の祖母の<strong>逝去</strong>を悼む。",
+        },
+        {
+          question: "けいかんがようぎしゃを<strong>たいほ</strong>した。",
+          answer: "警官が容疑者を<strong>逮捕</strong>した。",
+        },
+        {
+          question: "せっかくのきかいを<strong>いっする</strong>。",
+          answer: "せっかくの機会を<strong>逸する</strong>。",
+        },
+        {
+          question:
+            "かれのふるまいはきそくから<strong>いつだつ</strong>している。",
+          answer: "彼の振る舞いは規則から<strong>逸脱</strong>している。",
+        },
+        {
+          question: "かのじょはゆうめいを<strong>とげる</strong>。",
+          answer: "彼女は有名を<strong>遂げる</strong>。",
+        },
+        {
+          question: "かいはつを<strong>すいこう</strong>する。",
+          answer: "開発を<strong>遂行</strong>する。",
+        },
+        {
+          question: "おうさまの<strong>たいかんしき</strong>をおこなう。",
+          answer: "王様の<strong>戴冠式</strong>を行う。",
+        },
+        {
+          question: "かのじょのいとこはきゅうばの<strong>きしゅ</strong>だ。",
+          answer: "彼女のいとこは競馬の<strong>騎手</strong>だ。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
