@@ -1,26 +1,38 @@
 [
   {
-    "question": "たいようの<strong>こうき</strong>がまぶしい。",
-    "answer": "太陽の<strong>光輝</strong>がまぶしい。"
+    "question": "そのうったえは<strong>きゃっか</strong>された。",
+    "answer": "その訴えは<strong>却下</strong>された。"
   },
   {
-    "question": "<strong>わがはい</strong>はねこである。",
-    "answer": "<strong>吾輩</strong>は猫である。"
+    "question": "しょくひんをみせに<strong>おろす</strong>。",
+    "answer": "食品を店に<strong>卸す</strong>。"
   },
   {
-    "question": "そのきかんはほんぶの<strong>ちょっかつ</strong>かんかくだ。",
-    "answer": "その機関は本部の<strong>直轄</strong>管轄だ。"
+    "question": "おみせは<strong>おろしね</strong>でかう。",
+    "answer": "お店は<strong>卸値</strong>で買う。"
   },
   {
-    "question": "かれはせいとを<strong>はずかしめる</strong>。",
-    "answer": "彼は生徒を<strong>辱める</strong>。"
+    "question": "かれはことし<strong>やくどし</strong>だ。",
+    "answer": "彼は今年<strong>厄年</strong>だ。"
   },
   {
-    "question": "まえのしあいでのまけを<strong>せつじょく</strong>する。",
-    "answer": "前の試合での負けを<strong>雪辱</strong>する。"
+    "question": "おてらで<strong>やくよけ</strong>のおまもりをかった。",
+    "answer": "お寺で<strong>厄除け</strong>のお守りを買った。"
   },
   {
-    "question": "かれのたたかいは<strong>ふんじん</strong>のいどうだった。",
-    "answer": "彼の戦いは<strong>奮迅</strong>の異動だった。"
+    "question": "あのとけいは<strong>りん</strong>もわるくない。",
+    "answer": "あの時計は<strong>厘</strong>も悪くない。"
+  },
+  {
+    "question": "しずかで<strong>おごそか</strong>なふんいきだ。",
+    "answer": "静かで<strong>厳か</strong>な雰囲気だ。"
+  },
+  {
+    "question": "このおてらは<strong>そうごん</strong>なけんちくだ。",
+    "answer": "このお寺は<strong>荘厳</strong>な建築だ。"
+  },
+  {
+    "question": "このほんの<strong>またがし</strong>はきんしだ。",
+    "answer": "この本の<strong>又貸し</strong>は禁止だ。"
   }
 ]
