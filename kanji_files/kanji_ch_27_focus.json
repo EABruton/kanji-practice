@@ -1,22 +1,30 @@
 [
   {
-    "question": "ひがいがおおきく<strong>およぶ</strong>。",
-    "answer": "被害が大きく<strong>及ぶ</strong>。"
+    "question": "やっとのことで<strong>きっぽう</strong>がとどいた。",
+    "answer": "やっとのことで<strong>吉報</strong>が届いた。"
   },
   {
-    "question": "わたしの<strong>おじ</strong>はきょうとにすんでいる。",
-    "answer": "私の<strong>叔父</strong>は京都に住んでいる。"
+    "question": "くろねこがみちをよこぎるのは<strong>ふきつ</strong>だという。",
+    "answer": "黒猫が道を横切るのは<strong>不吉</strong>だという。"
   },
   {
-    "question": "かのじょの<strong>おば</strong>はびょういんではたらいている。",
-    "answer": "彼女の<strong>叔母</strong>は病院で働いている。"
+    "question": "てんのうのおくさまは<strong>こうごう</strong>とよばれる。",
+    "answer": "天皇のおくさまは<strong>皇后</strong>と呼ばれる。"
   },
   {
-    "question": "このうたは<strong>じょじょう</strong>てきだ。",
-    "answer": "この歌は<strong>叙情</strong>的だ。"
+    "question": "たいこうたいごうはこうていのおおおくさまのことである。",
+    "answer": "<strong>皇太后</strong>は皇帝のおおおくさまのことである。"
   },
   {
-    "question": "<strong>ただいま</strong>かえりました。",
-    "answer": "<strong>只今</strong>帰りました。"
+    "question": "むかしのくにでは<strong>かんり</strong>がおおくのはたらいた。",
+    "answer": "昔の国では<strong>官吏</strong>が多く働いた。"
+  },
+  {
+    "question": "ふねにのって<strong>はきけ</strong>がする。",
+    "answer": "船に乗って<strong>吐き気</strong>がする。"
+  },
+  {
+    "question": "きぶんがわるく<strong>おうと</strong>した。",
+    "answer": "気分が悪く<strong>嘔吐</strong>した。"
   }
 ]
