@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 28</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="nav">
+        <a href="../index.html">← Back to Quizzes</a>
+      </div>
+      <h1 id="top">Chapter 28</h1>
+      <ol id="questions-container" class="card-container"></ol>
+      <div class="button-container">
+        <button id="toggle-answers__button" type="button">
+          Toggle Answers
+        </button>
+        <a href="#top" class="back-to-top">↑ Back to Top</a>
+      </div>
+    </main>
+
+    <template id="question-template">
+      <li class="question card" data-answered="false">
+        <div class="card__left-column">
+          <div class="question__count"></div>
+        </div>
+        <div class="card__right-column">
+          <p class="question__question"></p>
+          <p class="question__answer"></p>
+          <div class="question__toggle-answer-container">
+            <button class="question__toggle-answer-button">
+              Toggle Answer
+            </button>
+          </div>
+        </div>
+      </li>
+    </template>
+    <script id="questions">
+      const questions = [
+        {
+          question: "かしゅがしんせきを<strong>ぎんじる</strong>。",
+          answer: "歌手が新曲を<strong>吟じる</strong>。",
+        },
+        {
+          question: "このことばは<strong>ごろ</strong>がいい。",
+          answer: "この言葉は<strong>語呂</strong>がいい。",
+        },
+        {
+          question: "もんだいが<strong>ろてい</strong>された。",
+          answer: "問題が<strong>露呈</strong>された。",
+        },
+        {
+          question: "あいてと<strong>ごえつどうしゅう</strong>のけいけんだ。",
+          answer: "相手と<strong>呉越同舟</strong>の経験だ。",
+        },
+        {
+          question: "そのひとのしを<strong>あいとう</strong>する。",
+          answer: "その人の死を<strong>哀悼</strong>する。",
+        },
+        {
+          question: "みじめなすがたを<strong>あわれむ</strong>。",
+          answer: "みじめな姿を<strong>哀れむ</strong>。",
+        },
+        {
+          question: "かれのわざに<strong>きょうたん</strong>する。",
+          answer: "彼の業に<strong>驚嘆</strong>する。",
+        },
+      ];
+    </script>
+    <script src="../js/kanji_quiz.js"></script>
+  </body>
+</html>
