@@ -46,5 +46,33 @@
   {
     "question": "かのじょは<strong>こうしん</strong>ヘルペスにかかった。",
     "answer": "彼女は<strong>口唇</strong>ヘルペスにかかった。"
+  },
+  {
+    "question": "ことりがえさを<strong>ついばむ</strong>。",
+    "answer": "小鳥が餌を<strong>啄む</strong>。"
+  },
+  {
+    "question": "きつつきは<strong>たくぼく</strong>とよばれる。",
+    "answer": "キツツキは<strong>啄木</strong>と呼ばれる。"
+  },
+  {
+    "question": "じぶんのちからを<strong>けいはつ</strong>する。",
+    "answer": "自分の力を<strong>啓発</strong>する。"
+  },
+  {
+    "question": "おおぜいの人を<strong>けいもう</strong>する。",
+    "answer": "大勢の人を<strong>啓蒙</strong>する。"
+  },
+  {
+    "question": "かれは<strong>よい</strong>ことをするのがすきだ。",
+    "answer": "彼は<strong>善い</strong>ことをするのが好きだ。"
+  },
+  {
+    "question": "まほうつかいはまじゅうを<strong>しょうかん</strong>した。",
+    "answer": "魔法使いは魔獣を<strong>召喚</strong>した。"
+  },
+  {
+    "question": "かれは<strong>もちゅう</strong>だから、あつまりにはでられない。",
+    "answer": "彼は<strong>喪中</strong>だから、集まりには出られない。"
   }
 ]
